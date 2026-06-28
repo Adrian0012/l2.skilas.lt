@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Symbol of Defense",
+    "id": 454,
+    "levels": 1,
+    "power": [
+      200
+    ],
+    "mpCost": [
+      44
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 5,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Symbol of Noise",
+    "id": 455,
+    "levels": 1,
+    "power": [
+      200
+    ],
+    "mpCost": [
+      44
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 5,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "ground",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Symbol of Resistance",
+    "id": 456,
+    "levels": 1,
+    "power": [
+      200
+    ],
+    "mpCost": [
+      44
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 5,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Symbol of Honor",
+    "id": 457,
+    "levels": 1,
+    "power": [
+      200
+    ],
+    "mpCost": [
+      44
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 5,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Symbol of Energy",
+    "id": 458,
+    "levels": 1,
+    "power": [
+      200
+    ],
+    "mpCost": [
+      44
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 5,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Symbol of the Sniper",
+    "id": 459,
+    "levels": 1,
+    "power": [
+      200
+    ],
+    "mpCost": [
+      44
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 5,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Symbol of the Assassin",
+    "id": 460,
+    "levels": 1,
+    "power": [
+      200
+    ],
+    "mpCost": [
+      44
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 5,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Day of Doom",
+    "id": 1422,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      58
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 3,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "ground",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Anti-Summoning Field",
+    "id": 1424,
+    "levels": 1,
+    "power": [
+      200
+    ],
+    "mpCost": [
+      70
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 5,
+    "skillType": "signet",
+    "operateType": "active",
+    "target": "ground",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

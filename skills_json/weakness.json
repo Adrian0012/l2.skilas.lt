@@ -1,0 +1,779 @@
+[
+  {
+    "name": "Surrender To Water",
+    "id": 1071,
+    "levels": 14,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      28,
+      31,
+      35,
+      38,
+      41,
+      43,
+      44,
+      46,
+      48,
+      49,
+      51,
+      52,
+      53,
+      55
+    ],
+    "magicLevel": [
+      40,
+      44,
+      48,
+      52,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": 15,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "waterRes",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 4,
+        "stackType": "armor_water",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "fireRes",
+        "type": "add",
+        "order": 64,
+        "value": "15",
+        "stackOrder": 4,
+        "stackType": "armor_water",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Wind",
+    "id": 1074,
+    "levels": 14,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      28,
+      31,
+      35,
+      38,
+      41,
+      43,
+      44,
+      46,
+      48,
+      49,
+      51,
+      52,
+      53,
+      55
+    ],
+    "magicLevel": [
+      40,
+      44,
+      48,
+      52,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": 15,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "windRes",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 4,
+        "stackType": "armor_wind",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "earthRes",
+        "type": "add",
+        "order": 64,
+        "value": "15",
+        "stackOrder": 4,
+        "stackType": "armor_wind",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Fire",
+    "id": 1083,
+    "levels": 17,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      9,
+      11,
+      12,
+      28,
+      31,
+      35,
+      38,
+      41,
+      43,
+      44,
+      46,
+      48,
+      49,
+      51,
+      52,
+      53,
+      55
+    ],
+    "magicLevel": [
+      25,
+      30,
+      35,
+      40,
+      44,
+      48,
+      52,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": 15,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "fireRes",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_fire",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "waterRes",
+        "type": "add",
+        "order": 64,
+        "value": "15",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_fire",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Earth",
+    "id": 1223,
+    "levels": 15,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      12,
+      28,
+      31,
+      35,
+      38,
+      41,
+      43,
+      44,
+      46,
+      48,
+      49,
+      51,
+      52,
+      53,
+      55
+    ],
+    "magicLevel": [
+      35,
+      40,
+      44,
+      48,
+      52,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": 15,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "earthRes",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_earth",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "windRes",
+        "type": "add",
+        "order": 64,
+        "value": "15",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_earth",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Poison",
+    "id": 1224,
+    "levels": 17,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      9,
+      11,
+      12,
+      28,
+      31,
+      35,
+      38,
+      41,
+      43,
+      44,
+      46,
+      48,
+      49,
+      51,
+      52,
+      53,
+      55
+    ],
+    "magicLevel": [
+      25,
+      30,
+      35,
+      40,
+      44,
+      48,
+      52,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": 15,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "poisonVuln",
+        "type": "add",
+        "order": 64,
+        "value": "#poisonVuln",
+        "stackOrder": "#stackOrder",
+        "stackType": "resist_poison",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Mass Surrender to Fire",
+    "id": 1383,
+    "levels": 5,
+    "power": [
+      40
+    ],
+    "mpCost": [
+      80,
+      87,
+      93,
+      98,
+      103
+    ],
+    "magicLevel": [
+      58,
+      62,
+      66,
+      70,
+      74
+    ],
+    "duration": 120,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "area_summon",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "fireRes",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 4,
+        "stackType": "armor_fire",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "waterRes",
+        "type": "add",
+        "order": 64,
+        "value": "15",
+        "stackOrder": 4,
+        "stackType": "armor_fire",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Mass Surrender to Water",
+    "id": 1384,
+    "levels": 5,
+    "power": [
+      40
+    ],
+    "mpCost": [
+      80,
+      87,
+      93,
+      98,
+      103
+    ],
+    "magicLevel": [
+      58,
+      62,
+      66,
+      70,
+      74
+    ],
+    "duration": 120,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "area_summon",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "waterRes",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 4,
+        "stackType": "armor_water",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "fireRes",
+        "type": "add",
+        "order": 64,
+        "value": "15",
+        "stackOrder": 4,
+        "stackType": "armor_water",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Mass Surrender to Wind",
+    "id": 1385,
+    "levels": 5,
+    "power": [
+      40
+    ],
+    "mpCost": [
+      80,
+      87,
+      93,
+      98,
+      103
+    ],
+    "magicLevel": [
+      58,
+      62,
+      66,
+      70,
+      74
+    ],
+    "duration": 120,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "area_summon",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "windRes",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 4,
+        "stackType": "armor_wind",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "earthRes",
+        "type": "add",
+        "order": 64,
+        "value": "15",
+        "stackOrder": 4,
+        "stackType": "armor_wind",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Water",
+    "id": 4463,
+    "levels": 3,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      20,
+      35,
+      65
+    ],
+    "magicLevel": [
+      20,
+      40,
+      70
+    ],
+    "duration": 30,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "fireRes",
+        "type": "add",
+        "order": 64,
+        "value": "#fire",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_water",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "waterRes",
+        "type": "sub",
+        "order": 64,
+        "value": "#water",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_water",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Wind",
+    "id": 4464,
+    "levels": 3,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      20,
+      35,
+      65
+    ],
+    "magicLevel": [
+      20,
+      40,
+      70
+    ],
+    "duration": 30,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "windRes",
+        "type": "sub",
+        "order": 64,
+        "value": "#wind",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_wind",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "earthRes",
+        "type": "add",
+        "order": 64,
+        "value": "#earth",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_wind",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Earth",
+    "id": 4465,
+    "levels": 3,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      20,
+      35,
+      65
+    ],
+    "magicLevel": [
+      20,
+      40,
+      70
+    ],
+    "duration": 30,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "earthRes",
+        "type": "sub",
+        "order": 64,
+        "value": "#earth",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_earth",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "windRes",
+        "type": "add",
+        "order": 64,
+        "value": "#wind",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_earth",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Darkness",
+    "id": 4466,
+    "levels": 3,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      20,
+      35,
+      65
+    ],
+    "magicLevel": [
+      20,
+      40,
+      70
+    ],
+    "duration": 30,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "darkRes",
+        "type": "sub",
+        "order": 64,
+        "value": "#dark",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_unholy",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "holyRes",
+        "type": "add",
+        "order": 64,
+        "value": "#holy",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_unholy",
+        "buffSlot": "debuff"
+      }
+    ]
+  },
+  {
+    "name": "Surrender To Light",
+    "id": 4467,
+    "levels": 3,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      20,
+      35,
+      65
+    ],
+    "magicLevel": [
+      20,
+      40,
+      70
+    ],
+    "duration": 30,
+    "skillType": "weakness",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "holyRes",
+        "type": "sub",
+        "order": 64,
+        "value": "#holy",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_holy",
+        "buffSlot": "debuff"
+      },
+      {
+        "stat": "darkRes",
+        "type": "add",
+        "order": 64,
+        "value": "#dark",
+        "stackOrder": "#stackOrder",
+        "stackType": "armor_holy",
+        "buffSlot": "debuff"
+      }
+    ]
+  }
+]

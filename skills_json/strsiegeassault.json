@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Strider Siege Assault",
+    "id": 325,
+    "levels": 1,
+    "power": [
+      15005
+    ],
+    "mpCost": [
+      168
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "strsiegeassault",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

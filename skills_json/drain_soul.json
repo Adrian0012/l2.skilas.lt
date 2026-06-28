@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Soul Crystal",
+    "id": 2096,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      26
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "drain_soul",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

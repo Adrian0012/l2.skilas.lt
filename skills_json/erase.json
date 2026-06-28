@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Erase",
+    "id": 1395,
+    "levels": 10,
+    "power": [
+      100
+    ],
+    "mpCost": [
+      52,
+      54,
+      55,
+      58,
+      60,
+      62,
+      64,
+      65,
+      67,
+      69
+    ],
+    "magicLevel": [
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": null,
+    "skillType": "erase",
+    "operateType": "active",
+    "target": "enemy_summon",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

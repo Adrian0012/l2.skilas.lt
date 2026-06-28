@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Seed of Fire",
+    "id": 1285,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      200
+    ],
+    "magicLevel": [],
+    "duration": 5,
+    "skillType": "seed",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Seed of Water",
+    "id": 1286,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      200
+    ],
+    "magicLevel": [],
+    "duration": 5,
+    "skillType": "seed",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Seed of Wind",
+    "id": 1287,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      200
+    ],
+    "magicLevel": [],
+    "duration": 5,
+    "skillType": "seed",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

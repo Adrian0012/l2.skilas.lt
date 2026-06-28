@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Chill Flame",
+    "id": 1100,
+    "levels": 2,
+    "power": [
+      70
+    ],
+    "mpCost": [
+      12,
+      18
+    ],
+    "magicLevel": [
+      7,
+      14
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Blaze Quake",
+    "id": 1101,
+    "levels": 2,
+    "power": [
+      35
+    ],
+    "mpCost": [
+      40,
+      54
+    ],
+    "magicLevel": [
+      25,
+      35
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Frost Flame",
+    "id": 1107,
+    "levels": 2,
+    "power": [
+      70
+    ],
+    "mpCost": [
+      23,
+      32
+    ],
+    "magicLevel": [
+      20,
+      30
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Seal of Flame",
+    "id": 1108,
+    "levels": 4,
+    "power": [
+      35
+    ],
+    "mpCost": [
+      77,
+      92,
+      113,
+      122
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Freezing Shackle",
+    "id": 1183,
+    "levels": 4,
+    "power": [
+      70
+    ],
+    "mpCost": [
+      47,
+      56,
+      71,
+      82
+    ],
+    "magicLevel": [
+      44,
+      52,
+      64,
+      74
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "3",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Decay",
+    "id": 1233,
+    "levels": 4,
+    "power": [
+      70
+    ],
+    "mpCost": [
+      52,
+      61,
+      71,
+      82
+    ],
+    "magicLevel": [
+      48,
+      56,
+      64,
+      74
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "4",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Freezing Flame",
+    "id": 1244,
+    "levels": 4,
+    "power": [
+      70
+    ],
+    "mpCost": [
+      42,
+      56,
+      71,
+      80
+    ],
+    "magicLevel": [
+      40,
+      52,
+      64,
+      72
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Flame",
+    "id": 4104,
+    "levels": 12,
+    "power": [
+      70
+    ],
+    "mpCost": [
+      17,
+      31,
+      45,
+      60,
+      75,
+      90,
+      105,
+      112,
+      119,
+      126,
+      132,
+      139
+    ],
+    "magicLevel": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      75,
+      80,
+      85,
+      90,
+      95
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Flame",
+    "id": 4150,
+    "levels": 12,
+    "power": [
+      10
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      75,
+      80,
+      85,
+      90,
+      95
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Icy Air",
+    "id": 4165,
+    "levels": 9,
+    "power": [
+      70
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      40,
+      44,
+      48,
+      52,
+      56,
+      62,
+      66,
+      70,
+      74
+    ],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "3",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Greater Seal of Flame",
+    "id": 7007,
+    "levels": 4,
+    "power": [
+      35
+    ],
+    "mpCost": [
+      77,
+      92,
+      113,
+      122
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "dot",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

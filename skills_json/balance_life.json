@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Balance Life",
+    "id": 1335,
+    "levels": 1,
+    "power": [
+      1000
+    ],
+    "mpCost": [
+      98
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "balance_life",
+    "operateType": "active",
+    "target": "party",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

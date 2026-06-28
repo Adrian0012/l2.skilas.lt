@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Common Craft",
+    "id": 1322,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "common_craft",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

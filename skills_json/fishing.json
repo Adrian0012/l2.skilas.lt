@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Fishing",
+    "id": 1312,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      1
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "fishing",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

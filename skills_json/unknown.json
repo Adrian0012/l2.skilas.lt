@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Frintezza's Songs",
+    "id": 5008,
+    "levels": 5,
+    "power": [
+      3,
+      0,
+      0,
+      10,
+      10
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      85
+    ],
+    "duration": 0,
+    "skillType": "#skilltype",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": [
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "#attackAndSpeed",
+        "stackOrder": 1,
+        "stackType": "#stackType",
+        "buffSlot": "#effectname1"
+      },
+      {
+        "stat": "mAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "#attackAndSpeed",
+        "stackOrder": 1,
+        "stackType": "#stackType",
+        "buffSlot": "#effectname1"
+      },
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "#attackAndSpeed",
+        "stackOrder": 1,
+        "stackType": "#stackType",
+        "buffSlot": "#effectname1"
+      },
+      {
+        "stat": "mAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "#attackAndSpeed",
+        "stackOrder": 1,
+        "stackType": "#stackType",
+        "buffSlot": "#effectname1"
+      },
+      {
+        "stat": "runSpd",
+        "type": "add",
+        "order": 64,
+        "value": "#attackAndSpeed",
+        "stackOrder": 1,
+        "stackType": "#stackType",
+        "buffSlot": "#effectname1"
+      },
+      {
+        "stat": "gainHp",
+        "type": "multiply",
+        "order": 48,
+        "value": "#gainHp",
+        "stackOrder": 1,
+        "stackType": "#stackType",
+        "buffSlot": "#effectname1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Betray",
+    "id": 1380,
+    "levels": 10,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      52,
+      54,
+      55,
+      58,
+      60,
+      62,
+      64,
+      65,
+      67,
+      69
+    ],
+    "magicLevel": [
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": 30,
+    "skillType": "betray",
+    "operateType": "active",
+    "target": "enemy_summon",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 2,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Vengeance",
+    "id": 368,
+    "levels": 1,
+    "power": [
+      3994
+    ],
+    "mpCost": [
+      35
+    ],
+    "magicLevel": [
+      77
+    ],
+    "duration": 30,
+    "skillType": "aggdebuff",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [
+      "SHIELD"
+    ],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pDef",
+        "type": "add",
+        "order": 64,
+        "value": "5400",
+        "stackOrder": 3,
+        "stackType": "pd_up_special",
+        "buffSlot": "imobilebuff"
+      },
+      {
+        "stat": "mDef",
+        "type": "add",
+        "order": 64,
+        "value": "4050",
+        "stackOrder": 3,
+        "stackType": "pd_up_special",
+        "buffSlot": "imobilebuff"
+      },
+      {
+        "stat": "cancelVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "80",
+        "stackOrder": 3,
+        "stackType": "pd_up_special",
+        "buffSlot": "imobilebuff"
+      }
+    ]
+  },
+  {
+    "name": "NPC Hate Stone",
+    "id": 4383,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": 10,
+    "skillType": "aggdebuff",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "4",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

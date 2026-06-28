@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Battle Force",
+    "id": 426,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      77
+    ],
+    "duration": null,
+    "skillType": "fusion",
+    "operateType": "active",
+    "target": "party_other",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Spell Force",
+    "id": 427,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      77
+    ],
+    "duration": null,
+    "skillType": "fusion",
+    "operateType": "active",
+    "target": "party_other",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

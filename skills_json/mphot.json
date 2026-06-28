@@ -1,0 +1,271 @@
+[
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4367,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4368,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxMp",
+        "type": "add",
+        "order": 64,
+        "value": "5000",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "manahealovertime"
+      }
+    ]
+  },
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4369,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxMp",
+        "type": "add",
+        "order": 64,
+        "value": "10000",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "manahealovertime"
+      }
+    ]
+  },
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4370,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxMp",
+        "type": "add",
+        "order": 64,
+        "value": "28000",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "manahealovertime"
+      }
+    ]
+  },
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4371,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxMp",
+        "type": "add",
+        "order": 64,
+        "value": "58000",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "manahealovertime"
+      }
+    ]
+  },
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4372,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxMp",
+        "type": "add",
+        "order": 64,
+        "value": "103000",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "manahealovertime"
+      }
+    ]
+  },
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4373,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxMp",
+        "type": "add",
+        "order": 64,
+        "value": "106000",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "manahealovertime"
+      }
+    ]
+  },
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4374,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxMp",
+        "type": "add",
+        "order": 64,
+        "value": "151000",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "manahealovertime"
+      }
+    ]
+  },
+  {
+    "name": "Clan Hall Manager Buff",
+    "id": 4375,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "mphot",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxMp",
+        "type": "add",
+        "order": 64,
+        "value": "196000",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "manahealovertime"
+      }
+    ]
+  }
+]

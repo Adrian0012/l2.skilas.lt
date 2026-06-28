@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Trick",
+    "id": 11,
+    "levels": 12,
+    "power": [
+      50
+    ],
+    "mpCost": [
+      22,
+      24,
+      25,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      34
+    ],
+    "magicLevel": [
+      49,
+      52,
+      55,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": null,
+    "skillType": "aggreduce_char",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [
+      "DAGGER"
+    ],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Bluff",
+    "id": 358,
+    "levels": 1,
+    "power": [
+      60
+    ],
+    "mpCost": [
+      35
+    ],
+    "magicLevel": [
+      77
+    ],
+    "duration": 9,
+    "skillType": "aggreduce_char",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [
+      "DAGGER"
+    ],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Forget",
+    "id": 1156,
+    "levels": 13,
+    "power": [
+      50
+    ],
+    "mpCost": [
+      31,
+      35,
+      38,
+      41,
+      43,
+      44,
+      46,
+      48,
+      49,
+      51,
+      52,
+      53,
+      55
+    ],
+    "magicLevel": [
+      44,
+      48,
+      52,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": null,
+    "skillType": "aggreduce_char",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Decrease Hate Scroll",
+    "id": 2075,
+    "levels": 1,
+    "power": [
+      70
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      1
+    ],
+    "duration": null,
+    "skillType": "aggreduce_char",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Item Skill: Trick",
+    "id": 3152,
+    "levels": 10,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      21,
+      22,
+      24,
+      25,
+      27,
+      29,
+      30,
+      31,
+      33,
+      35
+    ],
+    "magicLevel": [
+      49,
+      52,
+      55,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74
+    ],
+    "duration": null,
+    "skillType": "aggreduce_char",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

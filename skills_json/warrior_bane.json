@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mass Warrior Bane",
+    "id": 1344,
+    "levels": 1,
+    "power": [
+      40
+    ],
+    "mpCost": [
+      80
+    ],
+    "magicLevel": [
+      77
+    ],
+    "duration": null,
+    "skillType": "warrior_bane",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Warrior Bane",
+    "id": 1350,
+    "levels": 1,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      50
+    ],
+    "magicLevel": [
+      76
+    ],
+    "duration": null,
+    "skillType": "warrior_bane",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

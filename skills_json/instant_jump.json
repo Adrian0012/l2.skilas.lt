@@ -1,0 +1,25 @@
+[
+  {
+    "name": "AV - Teleport",
+    "id": 4671,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      40
+    ],
+    "duration": null,
+    "skillType": "instant_jump",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

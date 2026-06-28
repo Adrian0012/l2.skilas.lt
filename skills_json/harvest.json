@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Harvesting",
+    "id": 2098,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      3
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "harvest",
+    "operateType": "active",
+    "target": "corpse_mob",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

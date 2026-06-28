@@ -1,0 +1,1866 @@
+[
+  {
+    "name": "Holy Blade",
+    "id": 196,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      8
+    ],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "4",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "holyPower",
+        "type": "add",
+        "order": 64,
+        "value": "10",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Holy Armor",
+    "id": 197,
+    "levels": 2,
+    "power": [],
+    "mpCost": [
+      7,
+      9
+    ],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "darkRes",
+        "type": "add",
+        "order": 64,
+        "value": "#darkRes",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Silent Move",
+    "id": 221,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      7
+    ],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.6",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "silentmove"
+      }
+    ]
+  },
+  {
+    "name": "Fist Fury",
+    "id": 222,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      8
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.25",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "damovertime"
+      }
+    ]
+  },
+  {
+    "name": "Relax",
+    "id": 226,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      2
+    ],
+    "magicLevel": [],
+    "duration": 2,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "regHp",
+        "type": "add",
+        "order": 64,
+        "value": "5",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "relax"
+      }
+    ]
+  },
+  {
+    "name": "Accuracy",
+    "id": 256,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      1
+    ],
+    "magicLevel": [],
+    "duration": 5,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "accCombat",
+        "type": "add",
+        "order": 64,
+        "value": "3",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Guard Stance",
+    "id": 288,
+    "levels": 4,
+    "power": [],
+    "mpCost": [
+      8,
+      10,
+      12,
+      13
+    ],
+    "magicLevel": [],
+    "duration": 5,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pDef",
+        "type": "add",
+        "order": 64,
+        "value": "#pDef",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "rShld",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.5",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Chameleon Rest",
+    "id": 296,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      9
+    ],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Vicious Stance",
+    "id": 312,
+    "levels": 20,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 5,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "cAtkAdd",
+        "type": "add",
+        "order": 64,
+        "value": "#crit",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Aegis Stance",
+    "id": 318,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 2,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "sDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.6",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "shieldDefAngle",
+        "type": "set",
+        "order": 16,
+        "value": "360",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Shield Fortress",
+    "id": 322,
+    "levels": 6,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 5,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "sDef",
+        "type": "add",
+        "order": 64,
+        "value": "#ShieldDef",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Focus Skill Mastery",
+    "id": 334,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      78
+    ],
+    "duration": 5,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "skillMastery",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.4",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Fortitude",
+    "id": 335,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      35
+    ],
+    "magicLevel": [
+      76
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "paralyzeVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "stunVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Arcane Wisdom",
+    "id": 336,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      78
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "mAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.9",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "damovertime"
+      },
+      {
+        "stat": "MagicalMpConsumeRate",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "damovertime"
+      }
+    ]
+  },
+  {
+    "name": "Arcane Power",
+    "id": 337,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      78
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "MagicalMpConsumeRate",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.1",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "damovertime"
+      },
+      {
+        "stat": "mAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.3",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "damovertime"
+      }
+    ]
+  },
+  {
+    "name": "Arcane Agility",
+    "id": 338,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      78
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "mAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "damovertime"
+      },
+      {
+        "stat": "mReuse",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.9",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "damovertime"
+      },
+      {
+        "stat": "MagicalMpConsumeRate",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.1",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "damovertime"
+      }
+    ]
+  },
+  {
+    "name": "Parry Stance",
+    "id": 339,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      78
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.25",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "mDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.25",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.8",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.9",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "accCombat",
+        "type": "sub",
+        "order": 64,
+        "value": "4",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Riposte Stance",
+    "id": 340,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      35
+    ],
+    "magicLevel": [
+      77
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "reflectDam",
+        "type": "add",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "reflectSkillPhysic",
+        "type": "add",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "reflectSkillMagic",
+        "type": "add",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.8",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.9",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "accCombat",
+        "type": "sub",
+        "order": 64,
+        "value": "4",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Polearm Accuracy",
+    "id": 422,
+    "levels": 3,
+    "power": [],
+    "mpCost": [
+      11,
+      13,
+      14
+    ],
+    "magicLevel": [],
+    "duration": 2,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "accCombat",
+        "type": "add",
+        "order": 64,
+        "value": "#accCombat",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "War Frenzy",
+    "id": 424,
+    "levels": 3,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "stunVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "#stunVuln",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "sleepVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "#sleepVuln",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Soul Cry",
+    "id": 1001,
+    "levels": 10,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtk",
+        "type": "add",
+        "order": 64,
+        "value": "#pAtk",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Transfer Pain",
+    "id": 1262,
+    "levels": 5,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      40,
+      48,
+      56,
+      58,
+      70
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "transDam",
+        "type": "add",
+        "order": 64,
+        "value": "#power",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Soul Guard",
+    "id": 1283,
+    "levels": 13,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pDef",
+        "type": "add",
+        "order": 64,
+        "value": "#def",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Quest - BOSS Defend",
+    "id": 4517,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.5",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "pAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.5",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "pDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "10",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Quest - BOSS Rampage",
+    "id": 4518,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.3",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "pAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.3",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "pDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.5",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Quest - BOSS Defend",
+    "id": 4519,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.5",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "bowWpnVuln",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.1",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Quest - BOSS Rampage",
+    "id": 4520,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "bowWpnVuln",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.1",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Quest - BOSS Defend",
+    "id": 4525,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "10",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "mDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "10",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "sleepVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "70",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Quest - BOSS Reflect",
+    "id": 4532,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "reflectDam",
+        "type": "add",
+        "order": 64,
+        "value": "100",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "mDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "10",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Quest - BOSS Reflect",
+    "id": 4545,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": 3,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "reflectDam",
+        "type": "add",
+        "order": 64,
+        "value": "100",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "pDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "10",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  },
+  {
+    "name": "Battle Force",
+    "id": 5104,
+    "levels": 3,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 15,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.10",
+        "stackOrder": 0,
+        "stackType": "BattleForce",
+        "buffSlot": "fusion"
+      }
+    ]
+  },
+  {
+    "name": "Spell Force",
+    "id": 5105,
+    "levels": 3,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 15,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "mAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.10",
+        "stackOrder": 0,
+        "stackType": "SpellForce",
+        "buffSlot": "fusion"
+      }
+    ]
+  },
+  {
+    "name": "Capture A State",
+    "id": 5106,
+    "levels": 4,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 600,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": "#stackOrder",
+        "stackType": "seizure_a",
+        "buffSlot": "fusion"
+      },
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": "#stackOrder",
+        "stackType": "seizure_a",
+        "buffSlot": "fusion"
+      }
+    ]
+  },
+  {
+    "name": "Capture B State",
+    "id": 5107,
+    "levels": 4,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 600,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": "#stackOrder",
+        "stackType": "seizure_b",
+        "buffSlot": "fusion"
+      },
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": "#stackOrder",
+        "stackType": "seizure_b",
+        "buffSlot": "fusion"
+      }
+    ]
+  },
+  {
+    "name": "Capture C State",
+    "id": 5108,
+    "levels": 4,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 600,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": "#stackOrder",
+        "stackType": "seizure_c",
+        "buffSlot": "fusion"
+      },
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.7",
+        "stackOrder": "#stackOrder",
+        "stackType": "seizure_c",
+        "buffSlot": "fusion"
+      }
+    ]
+  },
+  {
+    "name": "Maximum Defense",
+    "id": 5123,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": 7,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pDef",
+        "type": "add",
+        "order": 64,
+        "value": "1000",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "mDef",
+        "type": "add",
+        "order": 64,
+        "value": "800",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "cancelVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "80",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Anti-Music",
+    "id": 5124,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": null,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Maximum Resist Status",
+    "id": 5125,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": 7,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "debuffVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "60",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Maximum Recovery",
+    "id": 5126,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": 7,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "regHp",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.4",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "regCp",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.4",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Recover Force",
+    "id": 5127,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": 7,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Maximum Archery",
+    "id": 5128,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": 7,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "accCombat",
+        "type": "add",
+        "order": 64,
+        "value": "10",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Smokescreen",
+    "id": 5129,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": 7,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "rEvas",
+        "type": "add",
+        "order": 64,
+        "value": "15",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "blowRate",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "combination",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Volcano",
+    "id": 5130,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Tsunami",
+    "id": 5131,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Cyclone",
+    "id": 5132,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Gehenna",
+    "id": 5133,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Anti-Summoning Field",
+    "id": 5134,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "cont",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Super Haste",
+    "id": 7029,
+    "levels": 4,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": 10,
+    "skillType": "cont",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "#amount",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "#amount",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "mAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "#amount",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "pReuse",
+        "type": "multiply",
+        "order": 48,
+        "value": "#reuse",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      },
+      {
+        "stat": "mReuse",
+        "type": "multiply",
+        "order": 48,
+        "value": "#reuse",
+        "stackOrder": 1,
+        "stackType": null,
+        "buffSlot": "manadamovertime"
+      }
+    ]
+  }
+]

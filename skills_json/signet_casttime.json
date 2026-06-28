@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Volcano",
+    "id": 1419,
+    "levels": 1,
+    "power": [
+      500
+    ],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 2,
+    "skillType": "signet_casttime",
+    "operateType": "active",
+    "target": "ground",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "2",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Cyclone",
+    "id": 1420,
+    "levels": 1,
+    "power": [
+      500
+    ],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 2,
+    "skillType": "signet_casttime",
+    "operateType": "active",
+    "target": "ground",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "1",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Raging Waves",
+    "id": 1421,
+    "levels": 1,
+    "power": [
+      500
+    ],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 2,
+    "skillType": "signet_casttime",
+    "operateType": "active",
+    "target": "ground",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "3",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Gehenna",
+    "id": 1423,
+    "levels": 1,
+    "power": [
+      500
+    ],
+    "mpCost": [
+      36
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": 2,
+    "skillType": "signet_casttime",
+    "operateType": "active",
+    "target": "ground",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "6",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

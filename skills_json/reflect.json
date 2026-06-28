@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Reflect Damage",
+    "id": 86,
+    "levels": 3,
+    "power": [],
+    "mpCost": [
+      14,
+      17,
+      19
+    ],
+    "magicLevel": [],
+    "duration": 1200,
+    "skillType": "reflect",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "reflectDam",
+        "type": "add",
+        "order": 64,
+        "value": "#reflectDam",
+        "stackOrder": "#stackOrder",
+        "stackType": "dmg_shield",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Blazing Skin",
+    "id": 1232,
+    "levels": 3,
+    "power": [],
+    "mpCost": [
+      28,
+      35,
+      41
+    ],
+    "magicLevel": [],
+    "duration": 1200,
+    "skillType": "reflect",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "reflectDam",
+        "type": "add",
+        "order": 64,
+        "value": "#reflectDam",
+        "stackOrder": "#stackOrder",
+        "stackType": "dmg_shield",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Freezing Skin",
+    "id": 1238,
+    "levels": 3,
+    "power": [],
+    "mpCost": [
+      28,
+      35,
+      41
+    ],
+    "magicLevel": [],
+    "duration": 1200,
+    "skillType": "reflect",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "reflectDam",
+        "type": "add",
+        "order": 64,
+        "value": "#reflectDam",
+        "stackOrder": "#stackOrder",
+        "stackType": "dmg_shield",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Item Skill: Reflect Damage",
+    "id": 3204,
+    "levels": 3,
+    "power": [],
+    "mpCost": [
+      20,
+      24,
+      28
+    ],
+    "magicLevel": [
+      55,
+      64,
+      75
+    ],
+    "duration": 300,
+    "skillType": "reflect",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "reflectDam",
+        "type": "add",
+        "order": 64,
+        "value": "#reflectDam",
+        "stackOrder": 1,
+        "stackType": "abnormal_item",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Damage Shield",
+    "id": 4095,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [
+      1
+    ],
+    "duration": null,
+    "skillType": "reflect",
+    "operateType": "passive",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Self Damage Shield",
+    "id": 4378,
+    "levels": 12,
+    "power": [],
+    "mpCost": [
+      12,
+      19,
+      26,
+      35,
+      45,
+      55,
+      65,
+      69,
+      72,
+      75,
+      77,
+      78
+    ],
+    "magicLevel": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      75,
+      80,
+      85,
+      90,
+      95
+    ],
+    "duration": 60,
+    "skillType": "reflect",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 1,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "reflectDam",
+        "type": "add",
+        "order": 64,
+        "value": "20",
+        "stackOrder": 2,
+        "stackType": "dmg_shield",
+        "buffSlot": "buff"
+      }
+    ]
+  }
+]

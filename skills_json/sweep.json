@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Sweeper",
+    "id": 42,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [
+      3
+    ],
+    "magicLevel": [
+      10
+    ],
+    "duration": null,
+    "skillType": "sweep",
+    "operateType": "active",
+    "target": "corpse_mob",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Festive Sweeper",
+    "id": 444,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      12
+    ],
+    "magicLevel": [
+      78
+    ],
+    "duration": null,
+    "skillType": "sweep",
+    "operateType": "active",
+    "target": "area_corpse_mob",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

@@ -1,0 +1,808 @@
+[
+  {
+    "name": "Battle Roar",
+    "id": 121,
+    "levels": 6,
+    "power": [
+      9.1,
+      13,
+      16.6,
+      20,
+      23,
+      25.7
+    ],
+    "mpCost": [
+      13,
+      18,
+      22,
+      27,
+      30,
+      33
+    ],
+    "magicLevel": [],
+    "duration": 600,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxHp",
+        "type": "multiply",
+        "order": 48,
+        "value": "#maxHp",
+        "stackOrder": "#stackOrder",
+        "stackType": "max_hp_up",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Revival",
+    "id": 181,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [
+      25
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Touch of Life",
+    "id": 341,
+    "levels": 1,
+    "power": [
+      50
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      78
+    ],
+    "duration": 3,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "5",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "gainHp",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.3",
+        "stackOrder": 1,
+        "stackType": "touch_of_life",
+        "buffSlot": "healovertime"
+      },
+      {
+        "stat": "cancelVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "60",
+        "stackOrder": 1,
+        "stackType": "touch_of_life",
+        "buffSlot": "healovertime"
+      },
+      {
+        "stat": "debuffVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "30",
+        "stackOrder": 1,
+        "stackType": "touch_of_life",
+        "buffSlot": "healovertime"
+      }
+    ]
+  },
+  {
+    "name": "Restore Life",
+    "id": 1258,
+    "levels": 4,
+    "power": [
+      15,
+      20,
+      25,
+      30
+    ],
+    "mpCost": [
+      64,
+      85,
+      106,
+      127
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Benediction",
+    "id": 1271,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [
+      171
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "party",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Body Of Avatar",
+    "id": 1311,
+    "levels": 6,
+    "power": [
+      10,
+      15,
+      20,
+      25,
+      30,
+      35
+    ],
+    "mpCost": [
+      273,
+      326,
+      352,
+      378,
+      402,
+      424
+    ],
+    "magicLevel": [],
+    "duration": 1200,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "party",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxHp",
+        "type": "multiply",
+        "order": 48,
+        "value": "#hp",
+        "stackOrder": "#stackOrder",
+        "stackType": "max_hp_up",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Chant of Victory",
+    "id": 1363,
+    "levels": 1,
+    "power": [
+      20
+    ],
+    "mpCost": [
+      227
+    ],
+    "magicLevel": [
+      78
+    ],
+    "duration": 300,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "party",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "pAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.1",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "pDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "accCombat",
+        "type": "add",
+        "order": 64,
+        "value": "4",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "pAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "mAtkSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "cAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "mAtk",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "mDef",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "0.8",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "maxHp",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.2",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      },
+      {
+        "stat": "debuffVuln",
+        "type": "sub",
+        "order": 64,
+        "value": "20",
+        "stackOrder": 1,
+        "stackType": "multi_buff",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Miracle",
+    "id": 1426,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [
+      72
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "ally",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Rice Cake",
+    "id": 2136,
+    "levels": 1,
+    "power": [
+      3
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      1
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Herb of Life",
+    "id": 2244,
+    "levels": 1,
+    "power": [
+      15
+    ],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Herb of Life",
+    "id": 2278,
+    "levels": 3,
+    "power": [
+      15,
+      25,
+      100
+    ],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Item Skill: Battle Roar",
+    "id": 3125,
+    "levels": 10,
+    "power": [
+      3
+    ],
+    "mpCost": [
+      38,
+      42,
+      44,
+      47,
+      51,
+      52,
+      55,
+      58,
+      61,
+      65
+    ],
+    "magicLevel": [
+      46,
+      49,
+      52,
+      55,
+      58,
+      61,
+      64,
+      67,
+      70,
+      75
+    ],
+    "duration": 120,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxHp",
+        "type": "multiply",
+        "order": 64,
+        "value": "1.03",
+        "stackOrder": 1,
+        "stackType": "abnormal_item",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Full Recover",
+    "id": 3596,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Full Recover",
+    "id": 3598,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      80
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Life Chant",
+    "id": 4210,
+    "levels": 12,
+    "power": [
+      3
+    ],
+    "mpCost": [
+      43,
+      69,
+      99,
+      134,
+      173,
+      207,
+      239,
+      250,
+      258,
+      262,
+      262,
+      263
+    ],
+    "magicLevel": [
+      14,
+      24,
+      34,
+      44,
+      54,
+      64,
+      74,
+      79,
+      84,
+      89,
+      94,
+      99
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "clan",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Area Heal - Per",
+    "id": 4474,
+    "levels": 5,
+    "power": [
+      20,
+      40,
+      60,
+      80,
+      100
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      10,
+      20,
+      30,
+      40,
+      50
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Eating Follower Heal",
+    "id": 4484,
+    "levels": 1,
+    "power": [
+      50
+    ],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Quest - BOSS Summon",
+    "id": 4526,
+    "levels": 1,
+    "power": [
+      0.1
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Quest - BOSS Inc HP to Summoned",
+    "id": 4527,
+    "levels": 1,
+    "power": [
+      30
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": 120,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxHp",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.3",
+        "stackOrder": 1,
+        "stackType": "public_slot",
+        "buffSlot": "buff"
+      }
+    ]
+  },
+  {
+    "name": "Quest - Summoned HP Heal",
+    "id": 4530,
+    "levels": 1,
+    "power": [
+      5
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Frintezza's Daemon Morph",
+    "id": 5017,
+    "levels": 1,
+    "power": [
+      20
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      85
+    ],
+    "duration": 7200,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "runSpd",
+        "type": "multiply",
+        "order": 48,
+        "value": "1.22",
+        "stackOrder": 1,
+        "stackType": "big_body",
+        "buffSlot": "grow"
+      }
+    ]
+  },
+  {
+    "name": "Boss Regeneration",
+    "id": 5205,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      99
+    ],
+    "duration": null,
+    "skillType": "heal_percent",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

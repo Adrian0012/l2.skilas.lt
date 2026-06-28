@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Fake Death",
+    "id": 60,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      200
+    ],
+    "magicLevel": [],
+    "duration": 5,
+    "skillType": "fake_death",
+    "operateType": "toggle",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

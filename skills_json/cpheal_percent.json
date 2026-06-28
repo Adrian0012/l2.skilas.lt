@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Pa'agrio's Fist",
+    "id": 1416,
+    "levels": 1,
+    "power": [
+      100
+    ],
+    "mpCost": [
+      228
+    ],
+    "magicLevel": [],
+    "duration": 300,
+    "skillType": "cpheal_percent",
+    "operateType": "active",
+    "target": "ally",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": [
+      {
+        "stat": "maxCp",
+        "type": "add",
+        "order": 64,
+        "value": "800",
+        "stackOrder": 2,
+        "stackType": "cp_up",
+        "buffSlot": "buff"
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Scroll of SP",
+    "id": 2167,
+    "levels": 4,
+    "power": [
+      500,
+      5000,
+      100000,
+      500000
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      1
+    ],
+    "duration": null,
+    "skillType": "give_sp",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Primeval Crystals",
+    "id": 2306,
+    "levels": 3,
+    "power": [
+      50000,
+      100000,
+      200000
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      1
+    ],
+    "duration": null,
+    "skillType": "give_sp",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

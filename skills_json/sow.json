@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sowing",
+    "id": 2097,
+    "levels": 3,
+    "power": [],
+    "mpCost": [
+      4,
+      6,
+      8
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "sow",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

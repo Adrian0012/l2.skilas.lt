@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Herb of Mana",
+    "id": 2245,
+    "levels": 1,
+    "power": [
+      12
+    ],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "manaheal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Herb of Mana",
+    "id": 2279,
+    "levels": 3,
+    "power": [
+      12,
+      18,
+      100
+    ],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "manaheal_percent",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Quest - Summoned MP Heal",
+    "id": 4531,
+    "levels": 1,
+    "power": [
+      5
+    ],
+    "mpCost": [],
+    "magicLevel": [
+      76
+    ],
+    "duration": null,
+    "skillType": "manaheal_percent",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

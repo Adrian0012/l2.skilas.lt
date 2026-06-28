@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Quick Healing Potion",
+    "id": 2038,
+    "levels": 1,
+    "power": [
+      435
+    ],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "heal_static",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Elixir of Life",
+    "id": 2287,
+    "levels": 6,
+    "power": [
+      250,
+      650,
+      1100,
+      1500,
+      1900,
+      2300
+    ],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "heal_static",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Reeling",
+    "id": 1314,
+    "levels": 27,
+    "power": [
+      24,
+      37,
+      50,
+      62,
+      70,
+      76,
+      82,
+      88,
+      94,
+      100,
+      104,
+      107,
+      110,
+      113,
+      116,
+      119,
+      121,
+      124,
+      127,
+      130,
+      133,
+      136,
+      139,
+      142,
+      145,
+      149,
+      155
+    ],
+    "mpCost": [
+      2
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "reeling",
+    "operateType": "active",
+    "target": "self",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

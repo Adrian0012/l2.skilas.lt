@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Summon Friend",
+    "id": 1403,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      180
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "summon_friend",
+    "operateType": "active",
+    "target": "party_member",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Word of Invitation",
+    "id": 1404,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      320
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "summon_friend",
+    "operateType": "active",
+    "target": "party",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Gate Chant",
+    "id": 1429,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      284
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "summon_friend",
+    "operateType": "active",
+    "target": "party",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

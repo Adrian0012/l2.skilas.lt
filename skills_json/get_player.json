@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Summon PC",
+    "id": 4161,
+    "levels": 1,
+    "power": [],
+    "mpCost": [],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "get_player",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

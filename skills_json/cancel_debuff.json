@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cleanse",
+    "id": 1409,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      46
+    ],
+    "magicLevel": [],
+    "duration": null,
+    "skillType": "cancel_debuff",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Purification Field",
+    "id": 1425,
+    "levels": 1,
+    "power": [],
+    "mpCost": [
+      70
+    ],
+    "magicLevel": [
+      80
+    ],
+    "duration": null,
+    "skillType": "cancel_debuff",
+    "operateType": "active",
+    "target": "ally",
+    "isMagic": false,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]

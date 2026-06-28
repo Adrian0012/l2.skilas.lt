@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mass Mage Bane",
+    "id": 1345,
+    "levels": 1,
+    "power": [
+      40
+    ],
+    "mpCost": [
+      80
+    ],
+    "magicLevel": [
+      78
+    ],
+    "duration": null,
+    "skillType": "mage_bane",
+    "operateType": "active",
+    "target": "aura",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  },
+  {
+    "name": "Mage Bane",
+    "id": 1351,
+    "levels": 1,
+    "power": [
+      80
+    ],
+    "mpCost": [
+      50
+    ],
+    "magicLevel": [
+      77
+    ],
+    "duration": null,
+    "skillType": "mage_bane",
+    "operateType": "active",
+    "target": "one",
+    "isMagic": true,
+    "ignoreShld": false,
+    "weaponsAllowed": [],
+    "element": "none",
+    "elementPower": 0,
+    "levelDepend": 0,
+    "ignoreResists": false,
+    "canBeReflected": true,
+    "effects": []
+  }
+]
