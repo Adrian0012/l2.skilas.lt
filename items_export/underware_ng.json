@@ -1,0 +1,178 @@
+[
+    {
+        "type": "Armor",
+        "id": 52,
+        "name": "Hemp Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 37,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 2,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 53,
+        "name": "Cotton Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 607,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 3,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 54,
+        "name": "Silk Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 2650,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 4,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 55,
+        "name": "Cotton Undergarment",
+        "description": "",
+        "assetPath": "",
+        "price": 18,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 4,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 56,
+        "name": "Wool Undergarment",
+        "description": "",
+        "assetPath": "",
+        "price": 304,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 5,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 485,
+        "name": "Tattoo of Power",
+        "description": "",
+        "assetPath": "",
+        "price": 36900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 53,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 624,
+        "name": "Cloak of Invisibility",
+        "description": "",
+        "assetPath": "",
+        "price": 37,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 2,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 675,
+        "name": "Silk Yarn Undergarment Set",
+        "description": "",
+        "assetPath": "",
+        "price": 1330,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 6,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 676,
+        "name": "Pure White Undergarment Set",
+        "description": "",
+        "assetPath": "",
+        "price": 6150,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 9,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 2490,
+        "name": "Cloak of Silence",
+        "description": "",
+        "assetPath": "",
+        "price": 6770,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 5,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 2491,
+        "name": "Golden Yarn Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 12300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 5,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    }
+]

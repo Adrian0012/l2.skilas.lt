@@ -1,0 +1,82 @@
+[
+    {
+        "type": "Jewelry",
+        "id": 910,
+        "name": "Necklace of Devotion",
+        "description": "",
+        "assetPath": "",
+        "price": 35900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 32,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 911,
+        "name": "Enchanted Necklace",
+        "description": "",
+        "assetPath": "",
+        "price": 56800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 36,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 912,
+        "name": "Near Forest Necklace",
+        "description": "",
+        "assetPath": "",
+        "price": 85700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 40,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 913,
+        "name": "Elven Necklace",
+        "description": "",
+        "assetPath": "",
+        "price": 125000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 45,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 914,
+        "name": "Necklace of Darkness",
+        "description": "",
+        "assetPath": "",
+        "price": 162000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 48,
+        "armorType": "None",
+        "slot": "neck"
+    }
+]

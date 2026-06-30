@@ -1,0 +1,114 @@
+[
+    {
+        "type": "Jewelry",
+        "id": 118,
+        "name": "Necklace of Magic",
+        "description": "",
+        "assetPath": "",
+        "price": 66,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 15,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 906,
+        "name": "Necklace of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 1080,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 18,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 907,
+        "name": "Necklace of Anguish",
+        "description": "",
+        "assetPath": "",
+        "price": 4680,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 21,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 908,
+        "name": "Necklace of Wisdom",
+        "description": "",
+        "assetPath": "",
+        "price": 11900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 25,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 909,
+        "name": "Blue Diamond Necklace",
+        "description": "",
+        "assetPath": "",
+        "price": 21300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 28,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 1506,
+        "name": "Necklace of Courage",
+        "description": "",
+        "assetPath": "",
+        "price": 66,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 15,
+        "armorType": "None",
+        "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 1507,
+        "name": "Necklace of Valor",
+        "description": "",
+        "assetPath": "",
+        "price": 4680,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 21,
+        "armorType": "None",
+        "slot": "neck"
+    }
+]

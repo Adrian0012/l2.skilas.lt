@@ -1,0 +1,1801 @@
+[
+    {
+        "type": "Armor",
+        "id": 40,
+        "name": "Leather Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 20900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 19,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 45,
+        "name": "Bone Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 31300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 29,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "head"
+    },
+    {
+        "type": "Armor",
+        "id": 46,
+        "name": "Bronze Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 50000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 33,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "head"
+    },
+    {
+        "type": "Armor",
+        "id": 47,
+        "name": "Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 76200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 37,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "head"
+    },
+    {
+        "type": "Armor",
+        "id": 58,
+        "name": "Mithril Breastplate",
+        "description": "",
+        "assetPath": "",
+        "price": 183000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 95,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 59,
+        "name": "Mithril Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 127000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 61,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 61,
+        "name": "Mithril Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 97800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 29,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 63,
+        "name": "Gauntlets",
+        "description": "",
+        "assetPath": "",
+        "price": 50800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 347,
+        "name": "Ring Mail Breastplate",
+        "description": "",
+        "assetPath": "",
+        "price": 83500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 77,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 348,
+        "name": "Scale Mail",
+        "description": "",
+        "assetPath": "",
+        "price": 133000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 87,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 349,
+        "name": "Compound Scale Mail",
+        "description": "",
+        "assetPath": "",
+        "price": 183000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 95,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 350,
+        "name": "Dwarven Scale Mail",
+        "description": "",
+        "assetPath": "",
+        "price": 183000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 95,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 351,
+        "name": "Blast Plate",
+        "description": "",
+        "assetPath": "",
+        "price": 203000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 97,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 352,
+        "name": "Brigandine Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 299000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 103,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 353,
+        "name": "Half Plate Armor",
+        "description": "",
+        "assetPath": "",
+        "price": 391000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 111,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 376,
+        "name": "Iron Plate Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 52200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 48,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 377,
+        "name": "Scale Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 83300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 54,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 378,
+        "name": "Compound Scale Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 127000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 61,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 379,
+        "name": "Dwarven Scale Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 127000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 61,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 380,
+        "name": "Plate Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 70,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 391,
+        "name": "Puma Skin Shirt",
+        "description": "",
+        "assetPath": "",
+        "price": 62600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 58,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 392,
+        "name": "Lion Skin Shirt",
+        "description": "",
+        "assetPath": "",
+        "price": 99900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 65,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 393,
+        "name": "Mithril Banded Mail",
+        "description": "",
+        "assetPath": "",
+        "price": 152000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 73,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 394,
+        "name": "Reinforced Leather Shirt",
+        "description": "",
+        "assetPath": "",
+        "price": 152000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 73,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 395,
+        "name": "Manticore Skin Shirt",
+        "description": "",
+        "assetPath": "",
+        "price": 224000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 77,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 396,
+        "name": "Salamander Skin Mail",
+        "description": "",
+        "assetPath": "",
+        "price": 429000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 136,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "fullarmor"
+    },
+    {
+        "type": "Armor",
+        "id": 413,
+        "name": "Puma Skin Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 39100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 36,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 414,
+        "name": "Lion Skin Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 62500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 41,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 415,
+        "name": "Mithril Banded Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 95200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 46,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 416,
+        "name": "Reinforced Leather Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 95200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 46,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 417,
+        "name": "Manticore Skin Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 140000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 48,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 432,
+        "name": "Cursed Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 62600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 39,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 433,
+        "name": "Elven Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 99900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 43,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 434,
+        "name": "White Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 99900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 43,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 435,
+        "name": "Mystic's Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 99900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 43,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 436,
+        "name": "Tunic of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 152000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 49,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 437,
+        "name": "Mithril Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 224000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 52,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 438,
+        "name": "Sage's Rag",
+        "description": "",
+        "assetPath": "",
+        "price": 429000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 90,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "fullarmor"
+    },
+    {
+        "type": "Armor",
+        "id": 465,
+        "name": "Cursed Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 39100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 466,
+        "name": "Elven Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 62500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 467,
+        "name": "Dark Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 62500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 468,
+        "name": "Mystic's Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 62500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 469,
+        "name": "Stockings of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 95200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 30,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 470,
+        "name": "Mithril Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 140000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 32,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 553,
+        "name": "Iron Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 50800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 604,
+        "name": "Crafted Leather Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 20900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 19,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 605,
+        "name": "Leather Gauntlets",
+        "description": "",
+        "assetPath": "",
+        "price": 33300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 22,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 606,
+        "name": "Rip Gauntlets",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 607,
+        "name": "Ogre Power Gauntlets",
+        "description": "",
+        "assetPath": "",
+        "price": 97800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 29,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Shield",
+        "id": 626,
+        "name": "Bronze Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 21900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 101,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Shield",
+        "id": 627,
+        "name": "Aspis",
+        "description": "",
+        "assetPath": "",
+        "price": 35000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 114,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Shield",
+        "id": 628,
+        "name": "Hoplon",
+        "description": "",
+        "assetPath": "",
+        "price": 53300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 128,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Shield",
+        "id": 629,
+        "name": "Kite Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 78400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 142,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Shield",
+        "id": 630,
+        "name": "Square Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 103000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 154,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Armor",
+        "id": 847,
+        "name": "Red Crescent Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 26900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 24,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Armor",
+        "id": 848,
+        "name": "Enchanted Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 42600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 27,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Armor",
+        "id": 849,
+        "name": "Tiger's Eye Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 64300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 30,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Armor",
+        "id": 850,
+        "name": "Elven Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 93400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 34,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Armor",
+        "id": 851,
+        "name": "Omen Beast's Eye Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 121000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 36,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Armor",
+        "id": 879,
+        "name": "Enchanted Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 28400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 18,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Armor",
+        "id": 880,
+        "name": "Black Pearl Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 42800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 20,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Armor",
+        "id": 881,
+        "name": "Elven Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 62300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 22,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Armor",
+        "id": 882,
+        "name": "Mithril Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 80800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 24,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Armor",
+        "id": 890,
+        "name": "Ring of Devotion",
+        "description": "",
+        "assetPath": "",
+        "price": 18000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 16,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Armor",
+        "id": 1123,
+        "name": "Blue Buckskin Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 33300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 22,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 1124,
+        "name": "Boots of Power",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 1125,
+        "name": "Assault Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 97800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 29,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 2377,
+        "name": "Mithril Scale Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 187000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 64,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 2378,
+        "name": "Brigandine Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 187000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 64,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 2396,
+        "name": "Elven Mithril Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 224000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 54,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 2401,
+        "name": "Elven Mithril Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 140000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 34,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 2411,
+        "name": "Brigandine Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 112000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 41,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "head"
+    },
+    {
+        "type": "Armor",
+        "id": 2412,
+        "name": "Plate Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 147000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 44,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "head"
+    },
+    {
+        "type": "Armor",
+        "id": 2422,
+        "name": "Reinforced Leather Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 50800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 2423,
+        "name": "Boots of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 50800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 2424,
+        "name": "Manticore Skin Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 2425,
+        "name": "Brigandine Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 2426,
+        "name": "Elven Mithril Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 2427,
+        "name": "Salamander Skin Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 97800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 29,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 2428,
+        "name": "Plate Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 97800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 29,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 2446,
+        "name": "Reinforced Leather Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 50800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 2447,
+        "name": "Gloves of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 50800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 2448,
+        "name": "Manticore Skin Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 2449,
+        "name": "Brigandine Gauntlets",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 2450,
+        "name": "Elven Mithril Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 27,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 2451,
+        "name": "Sage's Worn Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 97800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 29,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Shield",
+        "id": 2493,
+        "name": "Brigandine Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 78400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 142,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Shield",
+        "id": 2494,
+        "name": "Plate Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 103000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 154,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Shield",
+        "id": 5799,
+        "name": "Nephilim Lord",
+        "description": "",
+        "assetPath": "",
+        "price": 78400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 142,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Armor",
+        "id": 7850,
+        "name": "Clan Oath Helm",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 37,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "head"
+    },
+    {
+        "type": "Armor",
+        "id": 7851,
+        "name": "Clan Oath Armor",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 158,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "fullarmor"
+    },
+    {
+        "type": "Armor",
+        "id": 7852,
+        "name": "Clan Oath Gauntlets - Heavy Armor",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 7853,
+        "name": "Clan Oath Sabaton - Heavy Armor",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 7854,
+        "name": "Clan Oath Brigandine",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 119,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "fullarmor"
+    },
+    {
+        "type": "Armor",
+        "id": 7855,
+        "name": "Clan Oath Leather Gloves - Light Armor",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 7856,
+        "name": "Clan Oath Boots - Light Armor",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 7857,
+        "name": "Clan Oath Aketon",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 79,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "fullarmor"
+    },
+    {
+        "type": "Armor",
+        "id": 7858,
+        "name": "Clan Oath Padded Gloves - Robe",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 7859,
+        "name": "Clan Oath Sandals - Robe",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 9040,
+        "name": "Shadow Item: Mithril Breastplate",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 95,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 9041,
+        "name": "Shadow Item: Mithril Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 61,
+        "mDef": 0,
+        "armorType": "Heavy",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 9042,
+        "name": "Shadow Item: Gauntlet",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 9043,
+        "name": "Shadow Item: Iron Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Shield",
+        "id": 9044,
+        "name": "Shadow Item: Hoplon",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 128,
+        "blockRate": 20,
+        "slot": "lhand"
+    },
+    {
+        "type": "Armor",
+        "id": 9045,
+        "name": "Shadow Item: Reinforced Leather Shirt",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 73,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 9046,
+        "name": "Shadow Item: Reinforced Leather Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 46,
+        "mDef": 0,
+        "armorType": "Light",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 9047,
+        "name": "Shadow Item: Reinforced Leather Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 9048,
+        "name": "Shadow Item: Reinforced Leather Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 9049,
+        "name": "Shadow Item: Tunic of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 49,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "chest"
+    },
+    {
+        "type": "Armor",
+        "id": 9050,
+        "name": "Shadow Item: Stockings of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 30,
+        "mDef": 0,
+        "armorType": "Magic",
+        "slot": "legs"
+    },
+    {
+        "type": "Armor",
+        "id": 9051,
+        "name": "Shadow Item: Gloves of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "gloves"
+    },
+    {
+        "type": "Armor",
+        "id": 9052,
+        "name": "Shadow Item: Boots of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 24,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "feet"
+    },
+    {
+        "type": "Armor",
+        "id": 9053,
+        "name": "Shadow Item: Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 37,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "head"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "type": "Armor",
+        "id": 486,
+        "name": "Tattoo of Fire",
+        "description": "",
+        "assetPath": "",
+        "price": 152000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 73,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 487,
+        "name": "Tattoo of Resolve",
+        "description": "",
+        "assetPath": "",
+        "price": 152000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 73,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 492,
+        "name": "Tattoo of Soul",
+        "description": "",
+        "assetPath": "",
+        "price": 99900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 65,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 614,
+        "name": "Knight's Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 20900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 7,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 615,
+        "name": "Cobweb Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 33300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 8,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 616,
+        "name": "Cloak of Magic",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 11,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 617,
+        "name": "Mithril Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 97800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 11,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 677,
+        "name": "One-Piece Swimsuit",
+        "description": "",
+        "assetPath": "",
+        "price": 10400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 10,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 678,
+        "name": "Bikini Set",
+        "description": "",
+        "assetPath": "",
+        "price": 16700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 11,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Armor",
+        "id": 679,
+        "name": "Cursed Undergarment Set",
+        "description": "",
+        "assetPath": "",
+        "price": 25400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 12,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    }
+]
