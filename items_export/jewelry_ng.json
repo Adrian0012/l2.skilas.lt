@@ -1,6 +1,166 @@
 [
     {
         "type": "Jewelry",
+        "id": 52,
+        "name": "Hemp Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 37,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 2,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 53,
+        "name": "Cotton Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 607,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 3,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 54,
+        "name": "Silk Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 2650,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 4,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 55,
+        "name": "Cotton Undergarment",
+        "description": "",
+        "assetPath": "",
+        "price": 18,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 4,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 56,
+        "name": "Wool Undergarment",
+        "description": "",
+        "assetPath": "",
+        "price": 304,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 5,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 112,
+        "name": "Apprentice's Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 49,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 11,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 113,
+        "name": "Mystic's Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 811,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 13,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 114,
+        "name": "Earring of Strength",
+        "description": "",
+        "assetPath": "",
+        "price": 3510,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 16,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 115,
+        "name": "Earring of Wisdom",
+        "description": "",
+        "assetPath": "",
+        "price": 3510,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 16,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 116,
+        "name": "Magic Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 33,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 7,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
         "id": 118,
         "name": "Necklace of Magic",
         "description": "",
@@ -14,6 +174,166 @@
         "mDef": 15,
         "armorType": "None",
         "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 485,
+        "name": "Tattoo of Power",
+        "description": "",
+        "assetPath": "",
+        "price": 36900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 53,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 624,
+        "name": "Cloak of Invisibility",
+        "description": "",
+        "assetPath": "",
+        "price": 37,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 2,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 675,
+        "name": "Silk Yarn Undergarment Set",
+        "description": "",
+        "assetPath": "",
+        "price": 1330,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 6,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 676,
+        "name": "Pure White Undergarment Set",
+        "description": "",
+        "assetPath": "",
+        "price": 6150,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 9,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 845,
+        "name": "Cat's Eye Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 8890,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 19,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 846,
+        "name": "Coral Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 16000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 21,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 875,
+        "name": "Ring of Knowledge",
+        "description": "",
+        "assetPath": "",
+        "price": 540,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 9,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 876,
+        "name": "Ring of Anguish",
+        "description": "",
+        "assetPath": "",
+        "price": 2340,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 11,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 877,
+        "name": "Ring of Wisdom",
+        "description": "",
+        "assetPath": "",
+        "price": 5920,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 12,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 878,
+        "name": "Blue Coral Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 10700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 14,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
     },
     {
         "type": "Jewelry",
@@ -110,5 +430,69 @@
         "mDef": 21,
         "armorType": "None",
         "slot": "neck"
+    },
+    {
+        "type": "Jewelry",
+        "id": 1508,
+        "name": "Ring of Raccoon",
+        "description": "",
+        "assetPath": "",
+        "price": 2340,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 11,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 1509,
+        "name": "Ring of Firefly",
+        "description": "",
+        "assetPath": "",
+        "price": 2340,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 11,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 2490,
+        "name": "Cloak of Silence",
+        "description": "",
+        "assetPath": "",
+        "price": 6770,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 5,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 2491,
+        "name": "Golden Yarn Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 12300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 5,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
     }
 ]

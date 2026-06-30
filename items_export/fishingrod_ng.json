@@ -1,0 +1,36 @@
+[
+    {
+        "type": "Weapon",
+        "id": 6529,
+        "name": "Baby Duck Rod",
+        "description": "",
+        "assetPath": "",
+        "price": 30000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 1,
+        "baseCritRate": 0,
+        "weaponType": "Fishingrod",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7560,
+        "name": "Monster Only (Fishing Rod)",
+        "description": "",
+        "assetPath": "",
+        "price": 30000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 1,
+        "baseCritRate": 0,
+        "weaponType": "Fishingrod",
+        "slot": "lrhand"
+    }
+]

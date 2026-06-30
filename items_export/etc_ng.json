@@ -1,0 +1,138 @@
+[
+    {
+        "type": "Weapon",
+        "id": 99,
+        "name": "Apprentice's Spellbook",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 9,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 100,
+        "name": "Voodoo Doll",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 25,
+        "mAtk": 28,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 308,
+        "name": "Buffalo's Horn",
+        "description": "",
+        "assetPath": "",
+        "price": 768,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 6,
+        "mAtk": 8,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 309,
+        "name": "Tears of Eva",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 19,
+        "mAtk": 22,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 310,
+        "name": "Relic of The Saints",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 19,
+        "mAtk": 22,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 311,
+        "name": "Crucifix of Blessing",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 25,
+        "mAtk": 28,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8975,
+        "name": "Shadow Item: Voodoo Doll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 25,
+        "mAtk": 28,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8981,
+        "name": "Shadow Item: Crucifix of Blessing",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 25,
+        "mAtk": 28,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    }
+]

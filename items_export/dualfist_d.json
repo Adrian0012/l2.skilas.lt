@@ -1,0 +1,155 @@
+[
+    {
+        "type": "Weapon",
+        "id": 258,
+        "name": "Bagh-Nakh",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 49,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 259,
+        "name": "Single-Edged Jamadhr",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 62,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 260,
+        "name": "Triple-Edged Jamadhr",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 261,
+        "name": "Bich'Hwa",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 262,
+        "name": "Scallop Jamadhr",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 112,
+        "mAtk": 54,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7828,
+        "name": "Traveler's Jamadhr",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 62,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8588,
+        "name": "Single-Edged Jamadhr (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 62,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8827,
+        "name": "Shadow Item: Triple-Edged Jamadhr",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8988,
+        "name": "Shadow Item: Triple-Edged Jamadhr",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    }
+]

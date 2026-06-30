@@ -1,0 +1,376 @@
+[
+    {
+        "type": "Weapon",
+        "id": 10,
+        "name": "Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 138,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 11,
+        "name": "Bone Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 768,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 7,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 12,
+        "name": "Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 10,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 215,
+        "name": "Doom Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 10,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 216,
+        "name": "Dirk",
+        "description": "",
+        "assetPath": "",
+        "price": 54100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 15,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 217,
+        "name": "Shining Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 21,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 218,
+        "name": "Throwing Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 21,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 219,
+        "name": "Sword Breaker",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 27,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 946,
+        "name": "Skeleton Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 16,
+        "mAtk": 13,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 989,
+        "name": "Eldritch Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 11,
+        "mAtk": 10,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1182,
+        "name": "Neti's Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 19,
+        "mAtk": 16,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1305,
+        "name": "Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1306,
+        "name": "Crafted Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 22,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2372,
+        "name": "Dagger of Adept",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 11,
+        "mAtk": 10,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2374,
+        "name": "Red Sunset Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 11,
+        "mAtk": 10,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 3471,
+        "name": "Cybellin's Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 10,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 4220,
+        "name": "Dream Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 27,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 4665,
+        "name": "Pipette Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 10,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7818,
+        "name": "Apprentice Adventurer's Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 21,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8529,
+        "name": "For Monsters Only (Knife)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 10,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8578,
+        "name": "Shining Knife (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 21,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8978,
+        "name": "Shadow Item: Sword Breaker",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 27,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    }
+]

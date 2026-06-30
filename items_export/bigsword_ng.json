@@ -1,0 +1,104 @@
+[
+    {
+        "type": "Weapon",
+        "id": 981,
+        "name": "Red Sunset Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 16,
+        "mAtk": 10,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1333,
+        "name": "Brandish",
+        "description": "",
+        "assetPath": "",
+        "price": 54100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 21,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 3027,
+        "name": "Old Knight's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 29,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5284,
+        "name": "Zweihander",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 38,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7903,
+        "name": "Frintezza's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8215,
+        "name": "Monster Only (Zombie Enlisted Man Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    }
+]

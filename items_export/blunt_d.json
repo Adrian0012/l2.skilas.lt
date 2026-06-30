@@ -1,0 +1,410 @@
+[
+    {
+        "type": "Weapon",
+        "id": 86,
+        "name": "Tomahawk",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 88,
+        "name": "Morning Star",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 79,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 156,
+        "name": "Hand Axe",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 40,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 157,
+        "name": "Spiked Club",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 158,
+        "name": "Tarbar",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 79,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 159,
+        "name": "Bonebreaker",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 92,
+        "mAtk": 54,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 166,
+        "name": "Heavy Mace",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 40,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 167,
+        "name": "Scalpel",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 40,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 168,
+        "name": "Work Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 40,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 169,
+        "name": "Skull Breaker",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 79,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 172,
+        "name": "Heavy Bone Club",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 79,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 179,
+        "name": "Mace of Prayer",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 180,
+        "name": "Mace of Judgment",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 181,
+        "name": "Mace of Miracle",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 182,
+        "name": "Doom Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 189,
+        "name": "Staff of Life",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 74,
+        "mAtk": 72,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7822,
+        "name": "Traveler's Mace",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7829,
+        "name": "Traveler's Tomahawk",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7890,
+        "name": "Priest Mace",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 63,
+        "mAtk": 63,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8528,
+        "name": "For Monsters Only (Doom Hammer)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8582,
+        "name": "Mace of Prayer (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8589,
+        "name": "Tomahawk (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8823,
+        "name": "Shadow Item: Spiked Club",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8984,
+        "name": "Shadow Item: Spiked Club",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    }
+]

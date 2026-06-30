@@ -1,0 +1,427 @@
+[
+    {
+        "type": "Weapon",
+        "id": 220,
+        "name": "Crafted Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 35,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 221,
+        "name": "Assassin Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 35,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 222,
+        "name": "Poniard Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 223,
+        "name": "Kukuri",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 56,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 224,
+        "name": "Maingauche",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 69,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 225,
+        "name": "Mithril Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 80,
+        "mAtk": 54,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 238,
+        "name": "Dagger of Mana",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 52,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 239,
+        "name": "Mystic Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 52,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 240,
+        "name": "Conjurer's Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 52,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 241,
+        "name": "Shilen Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 52,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1471,
+        "name": "Silenos Blowgun",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1660,
+        "name": "Cursed Maingauche",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 62,
+        "mAtk": 42,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2507,
+        "name": "Lizardspear",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 4028,
+        "name": "Giant Cannon",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5127,
+        "name": "Dailaon Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5128,
+        "name": "Crokian Blade",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5130,
+        "name": "Nos Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5131,
+        "name": "Parhit Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5132,
+        "name": "Giant Trident",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7830,
+        "name": "Traveler's Poniard Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8590,
+        "name": "Poniard Daggar (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8825,
+        "name": "Shadow Item: Kukuri",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 56,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8826,
+        "name": "Shadow Item: Dagger of Mana",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 52,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8986,
+        "name": "Shadow Item: Kukuri",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 56,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8987,
+        "name": "Shadow Item: Dagger of Mana",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 45,
+        "mAtk": 52,
+        "baseCritRate": 0,
+        "weaponType": "Dagger",
+        "slot": "rhand"
+    }
+]

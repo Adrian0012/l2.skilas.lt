@@ -1,0 +1,223 @@
+[
+    {
+        "type": "Weapon",
+        "id": 70,
+        "name": "Claymore",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 112,
+        "mAtk": 54,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 124,
+        "name": "Two-Handed Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5285,
+        "name": "Heavy Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 49,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5791,
+        "name": "Tomb Guard A",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5792,
+        "name": "Tomb Guard B",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5795,
+        "name": "Tomb Guard A",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5796,
+        "name": "Tomb Guard B",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 6723,
+        "name": "Monster Only(Vampire Warrior)",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 112,
+        "mAtk": 54,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7880,
+        "name": "Steel Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 49,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7881,
+        "name": "Titan Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8821,
+        "name": "Shadow Item: Two Handed Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8982,
+        "name": "Shadow Item: Two Handed Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 9137,
+        "name": "Sword of Valakas (2-Handed)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 78,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bigsword",
+        "slot": "lrhand"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "type": "Weapon",
+        "id": 1299,
+        "name": "Great Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 3340000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 200,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8203,
+        "name": "Monster Only (Venom Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8206,
+        "name": "Monster Only (Heretic Priest Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8207,
+        "name": "Monster Only (Heretic Private Axe)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8350,
+        "name": "Chrono Maracas",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 1,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    }
+]

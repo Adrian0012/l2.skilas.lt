@@ -1,0 +1,19 @@
+[
+    {
+        "type": "Weapon",
+        "id": 6530,
+        "name": "Albatross Rod",
+        "description": "",
+        "assetPath": "",
+        "price": 100000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 1,
+        "baseCritRate": 0,
+        "weaponType": "Fishingrod",
+        "slot": "lrhand"
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "type": "Weapon",
+        "id": 274,
+        "name": "Strengthened Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 82,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 275,
+        "name": "Long Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 114,
+        "mAtk": 35,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 276,
+        "name": "Elven Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 105,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 277,
+        "name": "Dark Elven Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 105,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 278,
+        "name": "Gastraphetes",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 132,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 279,
+        "name": "Strengthened Long Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 179,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 280,
+        "name": "Light Crossbow",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 191,
+        "mAtk": 54,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7823,
+        "name": "Traveler's Dark Elven Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 105,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7824,
+        "name": "Traveler's Long Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 105,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8527,
+        "name": "For Monsters Only (Strengthened Bow)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 82,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8583,
+        "name": "Dark Elven Bow (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 105,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8584,
+        "name": "Long Bow (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 114,
+        "mAtk": 35,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8828,
+        "name": "Shadow Item: Gastraphetes",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 132,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8989,
+        "name": "Shadow Item: Gastraphetes",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 132,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Bow",
+        "slot": "lrhand"
+    }
+]

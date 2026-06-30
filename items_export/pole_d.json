@@ -1,0 +1,291 @@
+[
+    {
+        "type": "Weapon",
+        "id": 93,
+        "name": "Winged Spear",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 79,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 291,
+        "name": "Trident",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 40,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 292,
+        "name": "Pike",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 293,
+        "name": "War Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 294,
+        "name": "War Pick",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 79,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 295,
+        "name": "Dwarven Trident",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 296,
+        "name": "Dwarven Pike",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 297,
+        "name": "Glaive",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 92,
+        "mAtk": 54,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1376,
+        "name": "Guard Spear",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 50,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1472,
+        "name": "Dreadbane",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 50,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 3937,
+        "name": "Giant Bar",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 50,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 3938,
+        "name": "Giant Rod",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 50,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 3939,
+        "name": "Lady's Fan",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 50,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7831,
+        "name": "Traveler's Pike",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8591,
+        "name": "Pike (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8829,
+        "name": "Shadow Item: War Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8990,
+        "name": "Shadow Item: War Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    }
+]

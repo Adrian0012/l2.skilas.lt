@@ -1,6 +1,326 @@
 [
     {
         "type": "Jewelry",
+        "id": 486,
+        "name": "Tattoo of Fire",
+        "description": "",
+        "assetPath": "",
+        "price": 152000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 73,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 487,
+        "name": "Tattoo of Resolve",
+        "description": "",
+        "assetPath": "",
+        "price": 152000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 73,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 492,
+        "name": "Tattoo of Soul",
+        "description": "",
+        "assetPath": "",
+        "price": 99900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 65,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 614,
+        "name": "Knight's Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 20900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 7,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 615,
+        "name": "Cobweb Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 33300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 8,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 616,
+        "name": "Cloak of Magic",
+        "description": "",
+        "assetPath": "",
+        "price": 74700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 11,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 617,
+        "name": "Mithril Cloak",
+        "description": "",
+        "assetPath": "",
+        "price": 97800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 11,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 677,
+        "name": "One-Piece Swimsuit",
+        "description": "",
+        "assetPath": "",
+        "price": 10400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 10,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 678,
+        "name": "Bikini Set",
+        "description": "",
+        "assetPath": "",
+        "price": 16700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 11,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 679,
+        "name": "Cursed Undergarment Set",
+        "description": "",
+        "assetPath": "",
+        "price": 25400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 12,
+        "mDef": 0,
+        "armorType": "None",
+        "slot": "underwear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 847,
+        "name": "Red Crescent Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 26900,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 24,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 848,
+        "name": "Enchanted Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 42600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 27,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 849,
+        "name": "Tiger's Eye Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 64300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 30,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 850,
+        "name": "Elven Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 93400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 34,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 851,
+        "name": "Omen Beast's Eye Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 121000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 36,
+        "armorType": "None",
+        "slot": "rear;lear"
+    },
+    {
+        "type": "Jewelry",
+        "id": 879,
+        "name": "Enchanted Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 28400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 18,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 880,
+        "name": "Black Pearl Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 42800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 20,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 881,
+        "name": "Elven Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 62300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 22,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 882,
+        "name": "Mithril Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 80800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 24,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
+        "id": 890,
+        "name": "Ring of Devotion",
+        "description": "",
+        "assetPath": "",
+        "price": 18000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pDef": 0,
+        "mDef": 16,
+        "armorType": "None",
+        "slot": "rfinger;lfinger"
+    },
+    {
+        "type": "Jewelry",
         "id": 910,
         "name": "Necklace of Devotion",
         "description": "",

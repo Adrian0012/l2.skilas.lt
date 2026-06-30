@@ -1,0 +1,257 @@
+[
+    {
+        "type": "Weapon",
+        "id": 8,
+        "name": "Willow Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 11,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 9,
+        "name": "Cedar Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 54100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 16,
+        "mAtk": 16,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 176,
+        "name": "Journeyman's Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 23,
+        "mAtk": 22,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 177,
+        "name": "Mage Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 30,
+        "mAtk": 28,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 744,
+        "name": "Staff of Sentinel",
+        "description": "",
+        "assetPath": "",
+        "price": 33600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 13,
+        "mAtk": 14,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 754,
+        "name": "Red Sunset Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 13,
+        "mAtk": 13,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1304,
+        "name": "Conjuror's Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 15,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2373,
+        "name": "Eldritch Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 13,
+        "mAtk": 13,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 6355,
+        "name": "Mage Staff - for Beginners",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 30,
+        "mAtk": 28,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 6716,
+        "name": "Monster Only(Silenos Shaman)",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 11,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 6718,
+        "name": "Monster Only(Einhasad Shaman)",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7058,
+        "name": "Chrono Darbuka",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 1,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7816,
+        "name": "Apprentice Adventurer's Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 23,
+        "mAtk": 22,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8576,
+        "name": "Apprentice's Staff (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 23,
+        "mAtk": 22,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8977,
+        "name": "Shadow Item: Mage Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 30,
+        "mAtk": 28,
+        "baseCritRate": 0,
+        "weaponType": "Bigblunt",
+        "slot": "lrhand"
+    }
+]

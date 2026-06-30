@@ -1,0 +1,206 @@
+[
+    {
+        "type": "Weapon",
+        "id": 253,
+        "name": "Spiked Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 768,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 10,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 254,
+        "name": "Iron Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 13,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 255,
+        "name": "Fox Claw Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 54100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 21,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 256,
+        "name": "Cestus",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 29,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 257,
+        "name": "Viper's Fang",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 38,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2368,
+        "name": "Training Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 138,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 7,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2371,
+        "name": "Fist of Butcher",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 16,
+        "mAtk": 10,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5133,
+        "name": "Chrono Unitus",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 1,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7819,
+        "name": "Apprentice Adventurer's Cestus",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 29,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8216,
+        "name": "Monster Only (Zombie Enlisted Man Claw)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8579,
+        "name": "Cestus (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 29,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8979,
+        "name": "Shadow Item: Viper's Fang",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 38,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Dualfist",
+        "slot": "lrhand"
+    }
+]

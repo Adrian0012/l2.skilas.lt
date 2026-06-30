@@ -1,0 +1,189 @@
+[
+    {
+        "type": "Weapon",
+        "id": 15,
+        "name": "Short Spear",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 16,
+        "name": "Long Spear",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1302,
+        "name": "Bec de Corbin",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 22,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1303,
+        "name": "Lance",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 3026,
+        "name": "Talins Spear",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5817,
+        "name": "Chrono Campana",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 1,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8205,
+        "name": "Monster Only (Heretic Priest Sickle)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8208,
+        "name": "Monster Only (Heretic Private Staff)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8214,
+        "name": "Monster Only (Solina Priest Pole)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8221,
+        "name": "Monster Only (Apostle Grail Spear)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8972,
+        "name": "Shadow Item: Long Spear",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Pole",
+        "slot": "lrhand"
+    }
+]

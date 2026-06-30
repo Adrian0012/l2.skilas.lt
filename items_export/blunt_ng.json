@@ -1,0 +1,410 @@
+[
+    {
+        "type": "Weapon",
+        "id": 4,
+        "name": "Club",
+        "description": "",
+        "assetPath": "",
+        "price": 768,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 8,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5,
+        "name": "Mace",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 11,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 6,
+        "name": "Apprentice's Wand",
+        "description": "",
+        "assetPath": "",
+        "price": 138,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 5,
+        "mAtk": 7,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7,
+        "name": "Apprentice's Rod",
+        "description": "",
+        "assetPath": "",
+        "price": 768,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 6,
+        "mAtk": 8,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 87,
+        "name": "Iron Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 152,
+        "name": "Heavy Chisel",
+        "description": "",
+        "assetPath": "",
+        "price": 8070,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 10,
+        "mAtk": 8,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 153,
+        "name": "Sickle",
+        "description": "",
+        "assetPath": "",
+        "price": 18500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 12,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 154,
+        "name": "Dwarven Mace",
+        "description": "",
+        "assetPath": "",
+        "price": 54100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 17,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 155,
+        "name": "Buzdygan",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 747,
+        "name": "Wand of Adept",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 11,
+        "mAtk": 13,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 748,
+        "name": "Gallint's Oak Wand",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 10,
+        "mAtk": 10,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1300,
+        "name": "Apprentice's Rod",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 22,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1301,
+        "name": "Big Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 22,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1511,
+        "name": "Silversmith Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 13,
+        "mAtk": 10,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2370,
+        "name": "Guild Member's Club",
+        "description": "",
+        "assetPath": "",
+        "price": 138,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 6,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2501,
+        "name": "Bone Club",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 4221,
+        "name": "Ubiquitous Axe",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7817,
+        "name": "Apprentice Adventurer's Bone Club",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8212,
+        "name": "Monster Only (Solina Brother Mace)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8213,
+        "name": "Monster Only (Solina Father Mace)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8218,
+        "name": "Monster Only (Zombie Laborer Axe)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8577,
+        "name": "Bone Club (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8974,
+        "name": "Shadow Item: Iron Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8976,
+        "name": "Shadow Item: Buzdygan",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Blunt",
+        "slot": "rhand"
+    }
+]

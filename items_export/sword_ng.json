@@ -1,0 +1,614 @@
+[
+    {
+        "type": "Weapon",
+        "id": 1,
+        "name": "Short Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 768,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 8,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2,
+        "name": "Long Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 3,
+        "name": "Broadsword",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 11,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 66,
+        "name": "Gladius",
+        "description": "",
+        "assetPath": "",
+        "price": 54100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 17,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 67,
+        "name": "Orcish Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 54100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 17,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 68,
+        "name": "Falchion",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 120,
+        "name": "Sword of Reflection",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 121,
+        "name": "Sword of Watershadow",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 122,
+        "name": "Handmade Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 54100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 17,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 738,
+        "name": "Sword of Solidarity",
+        "description": "",
+        "assetPath": "",
+        "price": 18500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 12,
+        "mAtk": 9,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 743,
+        "name": "Sword of Sentinel",
+        "description": "",
+        "assetPath": "",
+        "price": 33600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 14,
+        "mAtk": 11,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 975,
+        "name": "Blood Saber",
+        "description": "",
+        "assetPath": "",
+        "price": 33600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 14,
+        "mAtk": 11,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1142,
+        "name": "Rusted Bronze Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 18,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1295,
+        "name": "Long Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 22,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1296,
+        "name": "Gladius",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 22,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1297,
+        "name": "Bastard Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 22,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1298,
+        "name": "Caliburs",
+        "description": "",
+        "assetPath": "",
+        "price": 66600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 22,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 1510,
+        "name": "Butcher's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 25500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 13,
+        "mAtk": 10,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2369,
+        "name": "Squire's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 138,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 6,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2915,
+        "name": "Old Knight Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 3029,
+        "name": "Sword of Binding",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 17,
+        "mAtk": 12,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 4027,
+        "name": "Bouquet",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 8,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 4202,
+        "name": "Chrono Cithara",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 1,
+        "mAtk": 1,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 4219,
+        "name": "Dream Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 244000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 6354,
+        "name": "Falchion - for Beginners",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 6717,
+        "name": "Monster Only(Einhasad Warrior)",
+        "description": "",
+        "assetPath": "",
+        "price": 136000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7821,
+        "name": "Apprentice Adventurer's Long Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8204,
+        "name": "Monster Only (Follower of Frintezza Calibur)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8209,
+        "name": "Monster Only (Lidia Von Helmann Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8211,
+        "name": "Monster Only (Monk Warrior Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8217,
+        "name": "Monster Only (Zombie Gateguard Spear)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8219,
+        "name": "Monster Only (Zombie Laborer Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8222,
+        "name": "Monster Only (Follower of Frintezza Tran Calibur)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8530,
+        "name": "For Monsters Only (Squire's Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 6,
+        "mAtk": 5,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8581,
+        "name": "Long Sword (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 24,
+        "mAtk": 17,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8973,
+        "name": "Shadow Item: Falchion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 31,
+        "mAtk": 21,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    }
+]

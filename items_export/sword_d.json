@@ -1,0 +1,342 @@
+[
+    {
+        "type": "Weapon",
+        "id": 69,
+        "name": "Bastard Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 83,
+        "name": "Sword of Magic",
+        "description": "",
+        "assetPath": "",
+        "price": 716000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 43,
+        "mAtk": 45,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 123,
+        "name": "Saber",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 40,
+        "mAtk": 26,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 125,
+        "name": "Spinebone Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 126,
+        "name": "Artisan's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 127,
+        "name": "Crimson Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 128,
+        "name": "Knight's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 129,
+        "name": "Sword of Revolution",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 79,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 130,
+        "name": "Elven Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 143,
+        "name": "Sword of Mystic",
+        "description": "",
+        "assetPath": "",
+        "price": 716000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 43,
+        "mAtk": 45,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 144,
+        "name": "Sword of Occult",
+        "description": "",
+        "assetPath": "",
+        "price": 716000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 43,
+        "mAtk": 45,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2499,
+        "name": "Elven Long Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 92,
+        "mAtk": 54,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7826,
+        "name": "Traveler's Bastard Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7885,
+        "name": "Priest Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 32,
+        "mAtk": 35,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7886,
+        "name": "Sword of Magic Fog",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 63,
+        "mAtk": 63,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8532,
+        "name": "For Monsters Only (Spinebone Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8533,
+        "name": "For Monsters Only (Crimson Sword)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8586,
+        "name": "Bastard Sword (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 32,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8822,
+        "name": "Shadow Item: Crimson Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8983,
+        "name": "Shadow Item: Crimson Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 64,
+        "mAtk": 39,
+        "baseCritRate": 0,
+        "weaponType": "Sword",
+        "slot": "rhand"
+    }
+]

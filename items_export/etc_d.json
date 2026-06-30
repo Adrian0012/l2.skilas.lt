@@ -1,0 +1,257 @@
+[
+    {
+        "type": "Weapon",
+        "id": 101,
+        "name": "Scroll of Wisdom",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 32,
+        "mAtk": 35,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 312,
+        "name": "Branch of Life",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 32,
+        "mAtk": 35,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 313,
+        "name": "Temptation of Abyss",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 32,
+        "mAtk": 35,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 314,
+        "name": "Proof of Revenge",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 32,
+        "mAtk": 35,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 315,
+        "name": "Divine Tome",
+        "description": "",
+        "assetPath": "",
+        "price": 644000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 316,
+        "name": "Blood of Saints",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 52,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 317,
+        "name": "Tome of Blood",
+        "description": "",
+        "assetPath": "",
+        "price": 967000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 51,
+        "mAtk": 52,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 318,
+        "name": "Crucifix of Blood",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 63,
+        "mAtk": 63,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 319,
+        "name": "Eye of Infinity",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 63,
+        "mAtk": 63,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 320,
+        "name": "Blue Crystal Skull",
+        "description": "",
+        "assetPath": "",
+        "price": 1520000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 67,
+        "mAtk": 66,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 321,
+        "name": "Demon Fangs",
+        "description": "",
+        "assetPath": "",
+        "price": 1520000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 67,
+        "mAtk": 66,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 322,
+        "name": "Vajra Wands",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 74,
+        "mAtk": 72,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 323,
+        "name": "Ancient Reagent",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 74,
+        "mAtk": 72,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 7827,
+        "name": "Traveler's Wand",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8587,
+        "name": "Divine Tomb (Event)",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 41,
+        "mAtk": 43,
+        "baseCritRate": 0,
+        "weaponType": "Etc",
+        "slot": "rhand"
+    }
+]

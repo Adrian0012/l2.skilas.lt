@@ -1,0 +1,206 @@
+[
+    {
+        "type": "Weapon",
+        "id": 244,
+        "name": "Elven Fighter Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 22,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 245,
+        "name": "Dark Fighter Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 33,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 246,
+        "name": "Human Fighter Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 44,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 247,
+        "name": "Dwarven Fighter Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 56,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 248,
+        "name": "Orc Fighter Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 67,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 249,
+        "name": "Elven Mystic Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 11,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 250,
+        "name": "Dark Mystic Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 22,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 251,
+        "name": "Human Mystic Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 33,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 252,
+        "name": "Orc Shaman Fist",
+        "description": "",
+        "assetPath": "",
+        "price": 44,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 6917,
+        "name": "Monster Only (Poison Sting)",
+        "description": "",
+        "assetPath": "",
+        "price": 2,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 0,
+        "mAtk": 0,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "rhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8190,
+        "name": "Demonic Sword Zariche",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 361,
+        "mAtk": 137,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 8689,
+        "name": "Blood Sword Akamanah",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 361,
+        "mAtk": 137,
+        "baseCritRate": 0,
+        "weaponType": "Fist",
+        "slot": "lrhand"
+    }
+]

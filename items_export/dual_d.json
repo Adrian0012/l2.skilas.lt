@@ -1,0 +1,444 @@
+[
+    {
+        "type": "Weapon",
+        "id": 2516,
+        "name": "Saber*Saber",
+        "description": "",
+        "assetPath": "",
+        "price": 877000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 73,
+        "mAtk": 37,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2517,
+        "name": "Saber*Bastard Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1060000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 83,
+        "mAtk": 41,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2518,
+        "name": "Saber*Spinebone Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1060000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 83,
+        "mAtk": 41,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2519,
+        "name": "Saber*Artisan's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1060000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 83,
+        "mAtk": 41,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2520,
+        "name": "Saber*Knight's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1060000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 83,
+        "mAtk": 41,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2521,
+        "name": "Saber*Crimson Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2522,
+        "name": "Saber*Elven Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2525,
+        "name": "Bastard Sword*Bastard Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2526,
+        "name": "Bastard Sword*Spinebone Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2527,
+        "name": "Bastard Sword*Artisan's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2528,
+        "name": "Bastard Sword*Knight's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2529,
+        "name": "Bastard Sword*Crimson Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1660000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 107,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2530,
+        "name": "Bastard Sword*Elven Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1660000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 107,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2533,
+        "name": "Spinebone Sword*Spinebone Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2534,
+        "name": "Spinebone Sword*Artisan's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2535,
+        "name": "Spinebone Sword*Knight's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2536,
+        "name": "Spinebone Sword*Crimson Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1660000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 107,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2537,
+        "name": "Spinebone Sword*Elven Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1660000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 107,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2540,
+        "name": "Artisan's Sword*Artisan's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2541,
+        "name": "Artisan's Sword*Knight's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2542,
+        "name": "Artisan's Sword*Crimson Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1660000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 107,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2543,
+        "name": "Artisan's Sword*Elven Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1660000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 107,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2546,
+        "name": "Knight's Sword*Knight's Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 96,
+        "mAtk": 47,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2547,
+        "name": "Knight's Sword*Crimson Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1660000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 107,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 2548,
+        "name": "Knight's Sword*Elven Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 1660000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 107,
+        "mAtk": 51,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    },
+    {
+        "type": "Weapon",
+        "id": 5129,
+        "name": "Doll Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 409000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "pAtk": 200,
+        "mAtk": 6,
+        "baseCritRate": 0,
+        "weaponType": "Dual",
+        "slot": "lrhand"
+    }
+]
