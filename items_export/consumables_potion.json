@@ -37,7 +37,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2279
+        "skill": {
+            "name": "Herb of Mana",
+            "id": 2279,
+            "levels": 3,
+            "power": [
+                12,
+                18,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -64,7 +88,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2279
+        "skill": {
+            "name": "Herb of Mana",
+            "id": 2279,
+            "levels": 3,
+            "power": [
+                12,
+                18,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -78,7 +126,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2010
+        "skill": {
+            "name": "Endeavor Potion",
+            "id": 2010,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 300,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "accCombat",
+                    "type": "add",
+                    "order": 64,
+                    "value": "4",
+                    "stackOrder": 1,
+                    "stackType": "hit_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -92,7 +170,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2011
+        "skill": {
+            "name": "Haste Potion",
+            "id": 2011,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "runSpd",
+                    "type": "add",
+                    "order": 64,
+                    "value": "20",
+                    "stackOrder": 1,
+                    "stackType": "speed_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -106,7 +214,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2012
+        "skill": {
+            "name": "Potion of Alacrity",
+            "id": 2012,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.15",
+                    "stackOrder": 1,
+                    "stackType": "attack_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -120,7 +258,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2031
+        "skill": {
+            "name": "Lesser Healing Potion",
+            "id": 2031,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 2,
+            "skillType": "hot",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -134,7 +292,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2032
+        "skill": {
+            "name": "Healing potion",
+            "id": 2032,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 2,
+            "skillType": "hot",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -161,7 +339,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2031
+        "skill": {
+            "name": "Lesser Healing Potion",
+            "id": 2031,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 2,
+            "skillType": "hot",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -175,7 +373,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2034
+        "skill": {
+            "name": "Greater Haste Potion",
+            "id": 2034,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "runSpd",
+                    "type": "add",
+                    "order": 64,
+                    "value": "33",
+                    "stackOrder": 2,
+                    "stackType": "speed_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -189,7 +417,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2035
+        "skill": {
+            "name": "Greater Swift Attack Potion",
+            "id": 2035,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.33",
+                    "stackOrder": 2,
+                    "stackType": "attack_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -203,7 +461,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2037
+        "skill": {
+            "name": "Greater Healing Potion",
+            "id": 2037,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 2,
+            "skillType": "hot",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -217,7 +495,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2038
+        "skill": {
+            "name": "Quick Healing Potion",
+            "id": 2038,
+            "levels": 1,
+            "power": [
+                435
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -231,7 +531,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2042
+        "skill": {
+            "name": "Antidote",
+            "id": 2042,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "negate",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -245,7 +565,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2043
+        "skill": {
+            "name": "Greater Antidote",
+            "id": 2043,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "negate",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -259,7 +599,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2044
+        "skill": {
+            "name": "Bandage",
+            "id": 2044,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "negate",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -273,7 +633,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2045
+        "skill": {
+            "name": "Emergency Dressing",
+            "id": 2045,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "negate",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -287,7 +667,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2060
+        "skill": {
+            "name": "Healing Medicine",
+            "id": 2060,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "negate",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -301,7 +701,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2074
+        "skill": {
+            "name": "Potion of Critical Escape",
+            "id": 2074,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 10,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "runSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "0.7",
+                    "stackOrder": 1,
+                    "stackType": "mirage",
+                    "buffSlot": "chanceskilltrigger"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -315,7 +745,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2075
+        "skill": {
+            "name": "Decrease Hate Scroll",
+            "id": 2075,
+            "levels": 1,
+            "power": [
+                70
+            ],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "aggreduce_char",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -329,7 +783,39 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2076
+        "skill": {
+            "name": "Bless of Eva",
+            "id": 2076,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": 400,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "breath",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "5",
+                    "stackOrder": 2,
+                    "stackType": "max_breath_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -343,7 +829,46 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2077
+        "skill": {
+            "name": "Potion of Revenge",
+            "id": 2077,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 300,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "vengeancePdam",
+                    "type": "add",
+                    "order": 64,
+                    "value": "40",
+                    "stackOrder": 1,
+                    "stackType": "counter_skill",
+                    "buffSlot": "buff"
+                },
+                {
+                    "stat": "pDef",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "0.85",
+                    "stackOrder": 1,
+                    "stackType": "counter_skill",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -357,7 +882,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2103
+        "skill": {
+            "name": "Mystery Potion",
+            "id": 2103,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": 300,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -371,7 +918,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2122
+        "skill": {
+            "name": "Facelifting Potion",
+            "id": 2122,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -385,7 +952,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2123
+        "skill": {
+            "name": "Facelifting Potion",
+            "id": 2123,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -399,7 +986,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2124
+        "skill": {
+            "name": "Facelifting Potion",
+            "id": 2124,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -413,7 +1020,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2125
+        "skill": {
+            "name": "Dye Potion",
+            "id": 2125,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -427,7 +1054,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2126
+        "skill": {
+            "name": "Dye Potion",
+            "id": 2126,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -441,7 +1088,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2127
+        "skill": {
+            "name": "Dye Potion",
+            "id": 2127,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -455,7 +1122,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2128
+        "skill": {
+            "name": "Dye Potion",
+            "id": 2128,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -469,7 +1156,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2129
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2129,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -483,7 +1190,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2130
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2130,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -497,7 +1224,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2131
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2131,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -511,7 +1258,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2132
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2132,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -525,7 +1292,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2133
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2133,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -539,7 +1326,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2134
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2134,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -553,7 +1360,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2135
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2135,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -567,7 +1394,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2136
+        "skill": {
+            "name": "Rice Cake",
+            "id": 2136,
+            "levels": 1,
+            "power": [
+                3
+            ],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "heal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -581,7 +1432,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2137
+        "skill": {
+            "name": "Summon Regular Tree",
+            "id": 2137,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "spawn",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -595,7 +1468,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2138
+        "skill": {
+            "name": "Summon Special Tree",
+            "id": 2138,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "spawn",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -609,7 +1504,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2165
+        "skill": {
+            "name": "Energy Stone",
+            "id": 2165,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -623,7 +1538,30 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2166
+        "skill": {
+            "name": "CP Gauge Potion",
+            "id": 2166,
+            "levels": 2,
+            "power": [
+                50,
+                200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -637,7 +1575,30 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2166
+        "skill": {
+            "name": "CP Gauge Potion",
+            "id": 2166,
+            "levels": 2,
+            "power": [
+                50,
+                200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -651,7 +1612,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2169
+        "skill": {
+            "name": "Magic Haste Potion",
+            "id": 2169,
+            "levels": 2,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "#mAtkSpd",
+                    "stackOrder": "#stackOrder",
+                    "stackType": "casting_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -665,7 +1656,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2169
+        "skill": {
+            "name": "Magic Haste Potion",
+            "id": 2169,
+            "levels": 2,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "#mAtkSpd",
+                    "stackOrder": "#stackOrder",
+                    "stackType": "casting_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -679,7 +1700,30 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2166
+        "skill": {
+            "name": "CP Gauge Potion",
+            "id": 2166,
+            "levels": 2,
+            "power": [
+                50,
+                200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -693,7 +1737,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2038
+        "skill": {
+            "name": "Quick Healing Potion",
+            "id": 2038,
+            "levels": 1,
+            "power": [
+                435
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -707,7 +1773,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2103
+        "skill": {
+            "name": "Mystery Potion",
+            "id": 2103,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": 300,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -721,7 +1809,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2291
+        "skill": {
+            "name": "Facelifting Potion",
+            "id": 2291,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -735,7 +1843,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2292
+        "skill": {
+            "name": "Facelifting Potion",
+            "id": 2292,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -749,7 +1877,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2293
+        "skill": {
+            "name": "Facelifting Potion",
+            "id": 2293,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -763,7 +1911,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2294
+        "skill": {
+            "name": "Dye Potion",
+            "id": 2294,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -777,7 +1945,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2295
+        "skill": {
+            "name": "Dye Potion",
+            "id": 2295,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -791,7 +1979,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2296
+        "skill": {
+            "name": "Dye Potion",
+            "id": 2296,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -805,7 +2013,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2297
+        "skill": {
+            "name": "Dye Potion",
+            "id": 2297,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -819,7 +2047,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2298
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2298,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -833,7 +2081,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2299
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2299,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -847,7 +2115,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2300
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2300,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -861,7 +2149,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2301
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2301,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -875,7 +2183,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2302
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2302,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -889,7 +2217,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2303
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2303,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -903,7 +2251,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2304
+        "skill": {
+            "name": "Hair Style Change Potion",
+            "id": 2304,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "change_appearance",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -917,7 +2285,39 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2305
+        "skill": {
+            "name": "Primeval Potion",
+            "id": 2305,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "stunVuln",
+                    "type": "sub",
+                    "order": 64,
+                    "value": "15",
+                    "stackOrder": 1,
+                    "stackType": "potion_of_genesis",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -931,7 +2331,39 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2305
+        "skill": {
+            "name": "Primeval Potion",
+            "id": 2305,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "stunVuln",
+                    "type": "sub",
+                    "order": 64,
+                    "value": "15",
+                    "stackOrder": 1,
+                    "stackType": "potion_of_genesis",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -945,7 +2377,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2037
+        "skill": {
+            "name": "Greater Healing Potion",
+            "id": 2037,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 2,
+            "skillType": "hot",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -959,6 +2411,28 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2038
+        "skill": {
+            "name": "Quick Healing Potion",
+            "id": 2038,
+            "levels": 1,
+            "power": [
+                435
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     }
 ]

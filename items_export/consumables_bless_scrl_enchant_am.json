@@ -11,7 +11,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2209
+        "skill": {
+            "name": "Item - Blessed Scroll of Enchant Armor",
+            "id": 2209,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "notdone",
+            "operateType": "active",
+            "target": "none",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -25,7 +45,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2210
+        "skill": {
+            "name": "Item - Blessed Scroll of Enchant Armor",
+            "id": 2210,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "notdone",
+            "operateType": "active",
+            "target": "none",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -39,7 +79,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2211
+        "skill": {
+            "name": "Item - Blessed Scroll of Enchant Armor",
+            "id": 2211,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "notdone",
+            "operateType": "active",
+            "target": "none",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -53,7 +113,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2212
+        "skill": {
+            "name": "Item - Blessed Scroll of Enchant Armor",
+            "id": 2212,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "notdone",
+            "operateType": "active",
+            "target": "none",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -67,6 +147,26 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2208
+        "skill": {
+            "name": "Item - Blessed Scroll of Enchant Armor",
+            "id": 2208,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "notdone",
+            "operateType": "active",
+            "target": "none",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     }
 ]

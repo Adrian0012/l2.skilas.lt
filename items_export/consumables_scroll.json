@@ -37,7 +37,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2013
+        "skill": {
+            "name": "Scroll Of Escape",
+            "id": 2013,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "recall",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -51,7 +71,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2014
+        "skill": {
+            "name": "Scroll Of Resurrection",
+            "id": 2014,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "resurrect",
+            "operateType": "active",
+            "target": "corpse_player",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -65,7 +105,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2036
+        "skill": {
+            "name": "Blessed Scroll of Escape",
+            "id": 2036,
+            "levels": 2,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "recall",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -79,7 +139,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2040
+        "skill": {
+            "name": "Scroll of Escape: Clan Hall",
+            "id": 2040,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "recall",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -93,7 +173,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2041
+        "skill": {
+            "name": "Scroll of Escape: Castle",
+            "id": 2041,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "recall",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -107,7 +207,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2050
+        "skill": {
+            "name": "Scroll of Guidance",
+            "id": 2050,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "accCombat",
+                    "type": "add",
+                    "order": 64,
+                    "value": "4",
+                    "stackOrder": 4,
+                    "stackType": "hit_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -121,7 +251,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2051
+        "skill": {
+            "name": "Scroll of Death Whisper",
+            "id": 2051,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "cAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.35",
+                    "stackOrder": 4,
+                    "stackType": "critical_dmg_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -135,7 +295,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2052
+        "skill": {
+            "name": "Scroll of Focus",
+            "id": 2052,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -149,7 +329,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2053
+        "skill": {
+            "name": "Scroll of Greater Acumen",
+            "id": 2053,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.3",
+                    "stackOrder": 4,
+                    "stackType": "casting_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -163,7 +373,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2054
+        "skill": {
+            "name": "Scroll of Haste",
+            "id": 2054,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.33",
+                    "stackOrder": 3,
+                    "stackType": "attack_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -177,7 +417,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2055
+        "skill": {
+            "name": "Scroll of Agility",
+            "id": 2055,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "rEvas",
+                    "type": "add",
+                    "order": 64,
+                    "value": "4",
+                    "stackOrder": 4,
+                    "stackType": "avoid_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -191,7 +461,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2056
+        "skill": {
+            "name": "Scroll of Mystic Empower",
+            "id": 2056,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.75",
+                    "stackOrder": 4,
+                    "stackType": "ma_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -205,7 +505,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2057
+        "skill": {
+            "name": "Scroll of Might",
+            "id": 2057,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.15",
+                    "stackOrder": 4,
+                    "stackType": "pa_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -219,7 +549,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2058
+        "skill": {
+            "name": "Scroll of Wind Walk",
+            "id": 2058,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "runSpd",
+                    "type": "add",
+                    "order": 64,
+                    "value": "33",
+                    "stackOrder": 3,
+                    "stackType": "speed_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -233,7 +593,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2059
+        "skill": {
+            "name": "Scroll of Shield",
+            "id": 2059,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pDef",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.15",
+                    "stackOrder": 4,
+                    "stackType": "pd_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -247,7 +637,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2049
+        "skill": {
+            "name": "Blessed Scroll of Resurrection",
+            "id": 2049,
+            "levels": 1,
+            "power": [
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "resurrect",
+            "operateType": "active",
+            "target": "corpse_player",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -261,7 +673,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2036
+        "skill": {
+            "name": "Blessed Scroll of Escape",
+            "id": 2036,
+            "levels": 2,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "recall",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -275,7 +707,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2062
+        "skill": {
+            "name": "Blessed Scroll of Resurrection",
+            "id": 2062,
+            "levels": 1,
+            "power": [
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "resurrect",
+            "operateType": "active",
+            "target": "corpse_player",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -289,7 +743,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2064
+        "skill": {
+            "name": "Scroll of Mana Regeneration",
+            "id": 2064,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "regMp",
+                    "type": "add",
+                    "order": 64,
+                    "value": "1.82",
+                    "stackOrder": 4,
+                    "stackType": "mp_regen_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -303,7 +787,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -317,7 +823,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -331,7 +859,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -345,7 +895,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -359,7 +931,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -373,7 +967,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -387,7 +1003,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -401,7 +1039,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -415,7 +1075,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -429,7 +1111,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -443,7 +1147,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -457,7 +1183,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -471,7 +1219,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -485,7 +1255,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -499,7 +1291,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -513,7 +1327,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -527,7 +1363,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -541,7 +1399,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -555,7 +1435,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -569,7 +1471,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -583,7 +1507,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -597,7 +1543,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -611,7 +1579,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -625,7 +1615,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -639,7 +1651,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -653,7 +1687,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -667,7 +1723,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -681,7 +1759,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -695,7 +1795,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -709,7 +1831,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -723,7 +1867,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -737,7 +1903,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -751,7 +1939,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -804,7 +2014,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -818,7 +2050,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -832,7 +2086,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -846,7 +2122,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -860,7 +2158,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -874,7 +2194,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -888,7 +2230,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2167
+        "skill": {
+            "name": "Scroll of SP",
+            "id": 2167,
+            "levels": 4,
+            "power": [
+                500,
+                5000,
+                100000,
+                500000
+            ],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "give_sp",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -902,7 +2271,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2167
+        "skill": {
+            "name": "Scroll of SP",
+            "id": 2167,
+            "levels": 4,
+            "power": [
+                500,
+                5000,
+                100000,
+                500000
+            ],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "give_sp",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -916,7 +2312,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2167
+        "skill": {
+            "name": "Scroll of SP",
+            "id": 2167,
+            "levels": 4,
+            "power": [
+                500,
+                5000,
+                100000,
+                500000
+            ],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "give_sp",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -930,7 +2353,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2168
+        "skill": {
+            "name": "Raid Blessing",
+            "id": 2168,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -944,7 +2387,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2168
+        "skill": {
+            "name": "Raid Blessing",
+            "id": 2168,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -958,7 +2421,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2168
+        "skill": {
+            "name": "Raid Blessing",
+            "id": 2168,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -972,7 +2455,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2168
+        "skill": {
+            "name": "Raid Blessing",
+            "id": 2168,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -986,7 +2489,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2168
+        "skill": {
+            "name": "Raid Blessing",
+            "id": 2168,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1000,7 +2523,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2168
+        "skill": {
+            "name": "Raid Blessing",
+            "id": 2168,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1014,7 +2557,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2177
+        "skill": {
+            "name": "Blessed Scroll of Escape: Clan Hall",
+            "id": 2177,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "recall",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1028,7 +2591,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2178
+        "skill": {
+            "name": "Blessed Scroll of Escape: Castle",
+            "id": 2178,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "recall",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1068,7 +2651,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1108,7 +2713,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1148,7 +2775,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2096
+        "skill": {
+            "name": "Soul Crystal",
+            "id": 2096,
+            "levels": 1,
+            "power": [],
+            "mpCost": [
+                26
+            ],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "drain_soul",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1162,7 +2811,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2170
+        "skill": {
+            "name": "Scroll: Cancel Sleep",
+            "id": 2170,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "negate",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1176,7 +2845,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2179
+        "skill": {
+            "name": "Blessed Scroll of Resurrection: Pet",
+            "id": 2179,
+            "levels": 1,
+            "power": [
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "resurrect",
+            "operateType": "active",
+            "target": "corpse_pet",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1190,7 +2881,39 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2231
+        "skill": {
+            "name": "Amulet: Protection of Valakas",
+            "id": 2231,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                75
+            ],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "valakasRes",
+                    "type": "add",
+                    "order": 64,
+                    "value": "11",
+                    "stackOrder": 1,
+                    "stackType": "valakas_item",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1217,7 +2940,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2233
+        "skill": {
+            "name": "Amulet: Flames of Valakas",
+            "id": 2233,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                75
+            ],
+            "duration": null,
+            "skillType": "negate",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1231,7 +2976,39 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2232
+        "skill": {
+            "name": "Amulet: Slay Valakas",
+            "id": 2232,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                75
+            ],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "valakas",
+                    "type": "add",
+                    "order": 64,
+                    "value": "11",
+                    "stackOrder": 1,
+                    "stackType": "valakas_item",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1245,7 +3022,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2213
+        "skill": {
+            "name": "Escape - to X Town",
+            "id": 2213,
+            "levels": 22,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "teleport",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1259,7 +3056,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2213
+        "skill": {
+            "name": "Escape - to X Town",
+            "id": 2213,
+            "levels": 22,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "teleport",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1273,7 +3090,29 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2239
+        "skill": {
+            "name": "Petrification Scroll",
+            "id": 2239,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [
+                99
+            ],
+            "duration": null,
+            "skillType": "debuff",
+            "operateType": "active",
+            "target": "one",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1287,7 +3126,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 5041
+        "skill": {
+            "name": "Charm of Courage",
+            "id": 5041,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1301,7 +3160,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 5041
+        "skill": {
+            "name": "Charm of Courage",
+            "id": 5041,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1315,7 +3194,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 5041
+        "skill": {
+            "name": "Charm of Courage",
+            "id": 5041,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1329,7 +3228,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 5041
+        "skill": {
+            "name": "Charm of Courage",
+            "id": 5041,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1343,7 +3262,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 5041
+        "skill": {
+            "name": "Charm of Courage",
+            "id": 5041,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1357,7 +3296,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 5041
+        "skill": {
+            "name": "Charm of Courage",
+            "id": 5041,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 1200,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1371,7 +3330,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2286
+        "skill": {
+            "name": "Scroll: Recovery",
+            "id": 2286,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1385,7 +3364,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2286
+        "skill": {
+            "name": "Scroll: Recovery",
+            "id": 2286,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1399,7 +3398,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2286
+        "skill": {
+            "name": "Scroll: Recovery",
+            "id": 2286,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1413,7 +3432,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2286
+        "skill": {
+            "name": "Scroll: Recovery",
+            "id": 2286,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1427,7 +3466,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2286
+        "skill": {
+            "name": "Scroll: Recovery",
+            "id": 2286,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1441,7 +3500,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2286
+        "skill": {
+            "name": "Scroll: Recovery",
+            "id": 2286,
+            "levels": 6,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1455,7 +3534,33 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2306
+        "skill": {
+            "name": "Primeval Crystals",
+            "id": 2306,
+            "levels": 3,
+            "power": [
+                50000,
+                100000,
+                200000
+            ],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "give_sp",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1469,7 +3574,33 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2306
+        "skill": {
+            "name": "Primeval Crystals",
+            "id": 2306,
+            "levels": 3,
+            "power": [
+                50000,
+                100000,
+                200000
+            ],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "give_sp",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1483,7 +3614,33 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2306
+        "skill": {
+            "name": "Primeval Crystals",
+            "id": 2306,
+            "levels": 3,
+            "power": [
+                50000,
+                100000,
+                200000
+            ],
+            "mpCost": [],
+            "magicLevel": [
+                1
+            ],
+            "duration": null,
+            "skillType": "give_sp",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1497,7 +3654,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2310
+        "skill": {
+            "name": "Scroll of Guidance - Event Use",
+            "id": 2310,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "accCombat",
+                    "type": "add",
+                    "order": 64,
+                    "value": "4",
+                    "stackOrder": 4,
+                    "stackType": "hit_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1511,7 +3698,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2311
+        "skill": {
+            "name": "Scroll of Death Whisper - Event Use",
+            "id": 2311,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "cAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.35",
+                    "stackOrder": 4,
+                    "stackType": "critical_dmg_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1525,7 +3742,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2312
+        "skill": {
+            "name": "Scroll of Focus - Event Use",
+            "id": 2312,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1539,7 +3776,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2313
+        "skill": {
+            "name": "Scroll of Acumen - Event Use",
+            "id": 2313,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.3",
+                    "stackOrder": 4,
+                    "stackType": "casting_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1553,7 +3820,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2314
+        "skill": {
+            "name": "Scroll of Haste - Event Use",
+            "id": 2314,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.33",
+                    "stackOrder": 3,
+                    "stackType": "attack_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1567,7 +3864,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2315
+        "skill": {
+            "name": "Scroll of Agility - Event Use",
+            "id": 2315,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "rEvas",
+                    "type": "add",
+                    "order": 64,
+                    "value": "4",
+                    "stackOrder": 4,
+                    "stackType": "avoid_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1581,7 +3908,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2316
+        "skill": {
+            "name": "Scroll of Empower - Event Use",
+            "id": 2316,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.75",
+                    "stackOrder": 4,
+                    "stackType": "ma_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1595,7 +3952,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2317
+        "skill": {
+            "name": "Scroll of Might - Event Use",
+            "id": 2317,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.15",
+                    "stackOrder": 4,
+                    "stackType": "pa_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1609,7 +3996,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2318
+        "skill": {
+            "name": "Scroll of Wind Walk - Event Use",
+            "id": 2318,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "runSpd",
+                    "type": "add",
+                    "order": 64,
+                    "value": "33",
+                    "stackOrder": 3,
+                    "stackType": "speed_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1623,7 +4040,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2319
+        "skill": {
+            "name": "Scroll of Shield - Event Use",
+            "id": 2319,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 3600,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pDef",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.15",
+                    "stackOrder": 4,
+                    "stackType": "pd_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -1637,7 +4084,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2320
+        "skill": {
+            "name": "Blessed Scroll of Escape - Event Use",
+            "id": 2320,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "recall",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -1651,6 +4118,28 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2321
+        "skill": {
+            "name": "Blessed Scroll of Resurrection - Event Use",
+            "id": 2321,
+            "levels": 1,
+            "power": [
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "resurrect",
+            "operateType": "active",
+            "target": "corpse_player",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     }
 ]

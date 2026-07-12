@@ -11,7 +11,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2027
+        "skill": {
+            "name": "Scroll: Enchant Weapon (Grade A)",
+            "id": 2027,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "enchant_weapon",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -25,7 +45,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2028
+        "skill": {
+            "name": "Scroll: Enchant Weapon (Grade B)",
+            "id": 2028,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "enchant_weapon",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -39,7 +79,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2029
+        "skill": {
+            "name": "Scroll: Enchant Weapon (Grade C)",
+            "id": 2029,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "enchant_weapon",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -53,7 +113,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2030
+        "skill": {
+            "name": "Scroll: Enchant Weapon (Grade D)",
+            "id": 2030,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "enchant_weapon",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -67,6 +147,26 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2026
+        "skill": {
+            "name": "Scroll: Enchant Weapon (Grade S)",
+            "id": 2026,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "enchant_weapon",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     }
 ]

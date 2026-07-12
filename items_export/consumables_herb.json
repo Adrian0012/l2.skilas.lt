@@ -11,7 +11,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2278
+        "skill": {
+            "name": "Herb of Life",
+            "id": 2278,
+            "levels": 3,
+            "power": [
+                15,
+                25,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -25,7 +49,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2278
+        "skill": {
+            "name": "Herb of Life",
+            "id": 2278,
+            "levels": 3,
+            "power": [
+                15,
+                25,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -39,7 +87,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2278
+        "skill": {
+            "name": "Herb of Life",
+            "id": 2278,
+            "levels": 3,
+            "power": [
+                15,
+                25,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -53,7 +125,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2279
+        "skill": {
+            "name": "Herb of Mana",
+            "id": 2279,
+            "levels": 3,
+            "power": [
+                12,
+                18,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -67,7 +163,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2279
+        "skill": {
+            "name": "Herb of Mana",
+            "id": 2279,
+            "levels": 3,
+            "power": [
+                12,
+                18,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -81,7 +201,31 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2279
+        "skill": {
+            "name": "Herb of Mana",
+            "id": 2279,
+            "levels": 3,
+            "power": [
+                12,
+                18,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -95,7 +239,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2280
+        "skill": {
+            "name": "Herb of Power",
+            "id": 2280,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 120,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.15",
+                    "stackOrder": "2.9",
+                    "stackType": "pa_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -109,7 +283,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2281
+        "skill": {
+            "name": "Herb of Magic",
+            "id": 2281,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 120,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.75",
+                    "stackOrder": "2.9",
+                    "stackType": "ma_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -123,7 +327,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2282
+        "skill": {
+            "name": "Herb of Atk. Spd.",
+            "id": 2282,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 120,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.33",
+                    "stackOrder": "1.9",
+                    "stackType": "attack_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -137,7 +371,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2283
+        "skill": {
+            "name": "Herb of Casting Spd.",
+            "id": 2283,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 120,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtkSpd",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.3",
+                    "stackOrder": "2.9",
+                    "stackType": "casting_time_down",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -151,7 +415,27 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2284
+        "skill": {
+            "name": "Herb of Critical Attack",
+            "id": 2284,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 120,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -165,7 +449,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2285
+        "skill": {
+            "name": "Herb of Speed",
+            "id": 2285,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 120,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "runSpd",
+                    "type": "add",
+                    "order": 64,
+                    "value": "33",
+                    "stackOrder": "1.9",
+                    "stackType": "speed_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -179,7 +493,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2280
+        "skill": {
+            "name": "Herb of Power",
+            "id": 2280,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 120,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "pAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.15",
+                    "stackOrder": "2.9",
+                    "stackType": "pa_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -193,7 +537,37 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2281
+        "skill": {
+            "name": "Herb of Magic",
+            "id": 2281,
+            "levels": 1,
+            "power": [],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": 120,
+            "skillType": "buff",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": [
+                {
+                    "stat": "mAtk",
+                    "type": "multiply",
+                    "order": 48,
+                    "value": "1.75",
+                    "stackOrder": "2.9",
+                    "stackType": "ma_up",
+                    "buffSlot": "buff"
+                }
+            ]
+        }
     },
     {
         "type": "Consumable",
@@ -207,6 +581,30 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2278
+        "skill": {
+            "name": "Herb of Life",
+            "id": 2278,
+            "levels": 3,
+            "power": [
+                15,
+                25,
+                100
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_percent",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     }
 ]

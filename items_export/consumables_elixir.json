@@ -11,7 +11,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2287
+        "skill": {
+            "name": "Elixir of Life",
+            "id": 2287,
+            "levels": 6,
+            "power": [
+                250,
+                650,
+                1100,
+                1500,
+                1900,
+                2300
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -25,7 +52,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2287
+        "skill": {
+            "name": "Elixir of Life",
+            "id": 2287,
+            "levels": 6,
+            "power": [
+                250,
+                650,
+                1100,
+                1500,
+                1900,
+                2300
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -39,7 +93,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2287
+        "skill": {
+            "name": "Elixir of Life",
+            "id": 2287,
+            "levels": 6,
+            "power": [
+                250,
+                650,
+                1100,
+                1500,
+                1900,
+                2300
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -53,7 +134,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2287
+        "skill": {
+            "name": "Elixir of Life",
+            "id": 2287,
+            "levels": 6,
+            "power": [
+                250,
+                650,
+                1100,
+                1500,
+                1900,
+                2300
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -67,7 +175,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2287
+        "skill": {
+            "name": "Elixir of Life",
+            "id": 2287,
+            "levels": 6,
+            "power": [
+                250,
+                650,
+                1100,
+                1500,
+                1900,
+                2300
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -81,7 +216,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2287
+        "skill": {
+            "name": "Elixir of Life",
+            "id": 2287,
+            "levels": 6,
+            "power": [
+                250,
+                650,
+                1100,
+                1500,
+                1900,
+                2300
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "heal_static",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -95,7 +257,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2288
+        "skill": {
+            "name": "Elixir of Mental Strength",
+            "id": 2288,
+            "levels": 6,
+            "power": [
+                60,
+                140,
+                220,
+                290,
+                360,
+                420
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -109,7 +298,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2288
+        "skill": {
+            "name": "Elixir of Mental Strength",
+            "id": 2288,
+            "levels": 6,
+            "power": [
+                60,
+                140,
+                220,
+                290,
+                360,
+                420
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -123,7 +339,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2288
+        "skill": {
+            "name": "Elixir of Mental Strength",
+            "id": 2288,
+            "levels": 6,
+            "power": [
+                60,
+                140,
+                220,
+                290,
+                360,
+                420
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -137,7 +380,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2288
+        "skill": {
+            "name": "Elixir of Mental Strength",
+            "id": 2288,
+            "levels": 6,
+            "power": [
+                60,
+                140,
+                220,
+                290,
+                360,
+                420
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -151,7 +421,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2288
+        "skill": {
+            "name": "Elixir of Mental Strength",
+            "id": 2288,
+            "levels": 6,
+            "power": [
+                60,
+                140,
+                220,
+                290,
+                360,
+                420
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -165,7 +462,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2288
+        "skill": {
+            "name": "Elixir of Mental Strength",
+            "id": 2288,
+            "levels": 6,
+            "power": [
+                60,
+                140,
+                220,
+                290,
+                360,
+                420
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "manaheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -179,7 +503,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2289
+        "skill": {
+            "name": "Elixir of CP",
+            "id": 2289,
+            "levels": 6,
+            "power": [
+                150,
+                350,
+                600,
+                800,
+                1000,
+                1200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -193,7 +544,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2289
+        "skill": {
+            "name": "Elixir of CP",
+            "id": 2289,
+            "levels": 6,
+            "power": [
+                150,
+                350,
+                600,
+                800,
+                1000,
+                1200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -207,7 +585,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2289
+        "skill": {
+            "name": "Elixir of CP",
+            "id": 2289,
+            "levels": 6,
+            "power": [
+                150,
+                350,
+                600,
+                800,
+                1000,
+                1200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -221,7 +626,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2289
+        "skill": {
+            "name": "Elixir of CP",
+            "id": 2289,
+            "levels": 6,
+            "power": [
+                150,
+                350,
+                600,
+                800,
+                1000,
+                1200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -235,7 +667,34 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2289
+        "skill": {
+            "name": "Elixir of CP",
+            "id": 2289,
+            "levels": 6,
+            "power": [
+                150,
+                350,
+                600,
+                800,
+                1000,
+                1200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     },
     {
         "type": "Consumable",
@@ -249,6 +708,33 @@
             "element": "none",
             "value": 0
         },
-        "skillId": 2289
+        "skill": {
+            "name": "Elixir of CP",
+            "id": 2289,
+            "levels": 6,
+            "power": [
+                150,
+                350,
+                600,
+                800,
+                1000,
+                1200
+            ],
+            "mpCost": [],
+            "magicLevel": [],
+            "duration": null,
+            "skillType": "combatpointheal",
+            "operateType": "active",
+            "target": "self",
+            "isMagic": false,
+            "ignoreShld": false,
+            "weaponsAllowed": [],
+            "element": "none",
+            "elementPower": 0,
+            "levelDepend": 0,
+            "ignoreResists": false,
+            "canBeReflected": true,
+            "effects": []
+        }
     }
 ]
