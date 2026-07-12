@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Consumable",
+        "id": 6569,
+        "name": "Blessed Scroll: Enchant Weapon (Grade A)",
+        "consumable_type": "bless_scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 1750000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2027
+    },
+    {
+        "type": "Consumable",
+        "id": 6571,
+        "name": "Blessed Scroll: Enchant Weapon (Grade B)",
+        "consumable_type": "bless_scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 1250000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2028
+    },
+    {
+        "type": "Consumable",
+        "id": 6573,
+        "name": "Blessed Scroll: Enchant Weapon (Grade C)",
+        "consumable_type": "bless_scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 250000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2029
+    },
+    {
+        "type": "Consumable",
+        "id": 6575,
+        "name": "Blessed Scroll: Enchant Weapon (Grade D)",
+        "consumable_type": "bless_scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 150000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2030
+    },
+    {
+        "type": "Consumable",
+        "id": 6577,
+        "name": "Blessed Scroll: Enchant Weapon (Grade S)",
+        "consumable_type": "bless_scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 2250000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2026
+    }
+]

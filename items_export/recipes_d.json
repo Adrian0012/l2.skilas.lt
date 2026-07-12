@@ -1,0 +1,4310 @@
+[
+    {
+        "type": "Material",
+        "id": 2151,
+        "name": "Recipe: Necklace of Devotion",
+        "description": "",
+        "assetPath": "",
+        "price": 718,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 910,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1899,
+                "count": 4
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1878,
+                "count": 15
+            },
+            {
+                "id": 1865,
+                "count": 3
+            },
+            {
+                "id": 2130,
+                "count": 2
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2152,
+        "name": "Recipe: Enchanted Necklace",
+        "description": "",
+        "assetPath": "",
+        "price": 1136,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 911,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1900,
+                "count": 5
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1878,
+                "count": 15
+            },
+            {
+                "id": 1865,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 18
+            },
+            {
+                "id": 2130,
+                "count": 3
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2153,
+        "name": "Recipe: Tiger's Eye Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 1286,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 849,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1901,
+                "count": 6
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1884,
+                "count": 30
+            },
+            {
+                "id": 1865,
+                "count": 6
+            },
+            {
+                "id": 1458,
+                "count": 22
+            },
+            {
+                "id": 2130,
+                "count": 4
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2154,
+        "name": "Recipe: Elven Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 1868,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 850,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1902,
+                "count": 7
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1884,
+                "count": 60
+            },
+            {
+                "id": 1865,
+                "count": 12
+            },
+            {
+                "id": 1458,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 6
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2155,
+        "name": "Recipe: Elven Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 1246,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 881,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1903,
+                "count": 7
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1884,
+                "count": 30
+            },
+            {
+                "id": 1865,
+                "count": 6
+            },
+            {
+                "id": 1458,
+                "count": 20
+            },
+            {
+                "id": 2130,
+                "count": 4
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2156,
+        "name": "Recipe: Elven Necklace",
+        "description": "",
+        "assetPath": "",
+        "price": 2500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 913,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1904,
+                "count": 7
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1878,
+                "count": 70
+            },
+            {
+                "id": 1865,
+                "count": 14
+            },
+            {
+                "id": 1458,
+                "count": 38
+            },
+            {
+                "id": 2130,
+                "count": 9
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2157,
+        "name": "Recipe: Omen Beast's Eye Earring",
+        "description": "",
+        "assetPath": "",
+        "price": 2420,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 851,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1905,
+                "count": 8
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1884,
+                "count": 90
+            },
+            {
+                "id": 1865,
+                "count": 18
+            },
+            {
+                "id": 1458,
+                "count": 40
+            },
+            {
+                "id": 2130,
+                "count": 8
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2158,
+        "name": "Recipe: Mithril Ring",
+        "description": "",
+        "assetPath": "",
+        "price": 1616,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 882,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1906,
+                "count": 8
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1884,
+                "count": 50
+            },
+            {
+                "id": 1865,
+                "count": 10
+            },
+            {
+                "id": 1458,
+                "count": 25
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2159,
+        "name": "Recipe: Necklace of Darkness",
+        "description": "",
+        "assetPath": "",
+        "price": 3240,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 914,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1907,
+                "count": 8
+            },
+            {
+                "id": 1886,
+                "count": 1
+            },
+            {
+                "id": 1878,
+                "count": 90
+            },
+            {
+                "id": 1865,
+                "count": 18
+            },
+            {
+                "id": 1458,
+                "count": 50
+            },
+            {
+                "id": 2130,
+                "count": 12
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2176,
+        "name": "Recipe: Leather Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 418,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 40,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1931,
+                "count": 4
+            },
+            {
+                "id": 1882,
+                "count": 8
+            },
+            {
+                "id": 1885,
+                "count": 1
+            },
+            {
+                "id": 2130,
+                "count": 1
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2177,
+        "name": "Recipe: Bone Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 626,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 45,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1932,
+                "count": 4
+            },
+            {
+                "id": 1883,
+                "count": 1
+            },
+            {
+                "id": 1882,
+                "count": 15
+            },
+            {
+                "id": 2130,
+                "count": 2
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2178,
+        "name": "Recipe: Dark Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 1250,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 467,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1933,
+                "count": 5
+            },
+            {
+                "id": 1882,
+                "count": 20
+            },
+            {
+                "id": 1884,
+                "count": 20
+            },
+            {
+                "id": 1458,
+                "count": 20
+            },
+            {
+                "id": 2130,
+                "count": 4
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2179,
+        "name": "Recipe: Crafted Leather Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 418,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 604,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1934,
+                "count": 4
+            },
+            {
+                "id": 1882,
+                "count": 8
+            },
+            {
+                "id": 1885,
+                "count": 1
+            },
+            {
+                "id": 2130,
+                "count": 1
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2180,
+        "name": "Recipe: Scale Mail",
+        "description": "",
+        "assetPath": "",
+        "price": 2660,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 348,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1935,
+                "count": 5
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 20
+            },
+            {
+                "id": 1458,
+                "count": 40
+            },
+            {
+                "id": 2130,
+                "count": 9
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2181,
+        "name": "Recipe: White Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 1998,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 434,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1936,
+                "count": 5
+            },
+            {
+                "id": 1882,
+                "count": 40
+            },
+            {
+                "id": 1884,
+                "count": 20
+            },
+            {
+                "id": 1458,
+                "count": 28
+            },
+            {
+                "id": 2130,
+                "count": 7
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2182,
+        "name": "Recipe: Scale Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 1666,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 377,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1937,
+                "count": 5
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 14
+            },
+            {
+                "id": 1458,
+                "count": 20
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2183,
+        "name": "Recipe: Mithril Banded Mail",
+        "description": "",
+        "assetPath": "",
+        "price": 3040,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 393,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1938,
+                "count": 6
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 25
+            },
+            {
+                "id": 1458,
+                "count": 45
+            },
+            {
+                "id": 2130,
+                "count": 11
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2184,
+        "name": "Recipe: Mithril Banded Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 1904,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 415,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1939,
+                "count": 6
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 14
+            },
+            {
+                "id": 1458,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 6
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2185,
+        "name": "Recipe: Iron Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 1016,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 553,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1940,
+                "count": 6
+            },
+            {
+                "id": 1882,
+                "count": 16
+            },
+            {
+                "id": 1885,
+                "count": 2
+            },
+            {
+                "id": 1458,
+                "count": 16
+            },
+            {
+                "id": 2130,
+                "count": 3
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2186,
+        "name": "Recipe: Brigandine Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 5980,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 352,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1941,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 54
+            },
+            {
+                "id": 1458,
+                "count": 90
+            },
+            {
+                "id": 2130,
+                "count": 24
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2187,
+        "name": "Recipe: Manticore Skin Shirt",
+        "description": "",
+        "assetPath": "",
+        "price": 4480,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 395,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1942,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 84
+            },
+            {
+                "id": 1884,
+                "count": 42
+            },
+            {
+                "id": 1458,
+                "count": 70
+            },
+            {
+                "id": 2130,
+                "count": 17
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2188,
+        "name": "Recipe: Manticore Skin Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 2800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 417,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1943,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 45
+            },
+            {
+                "id": 1884,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 45
+            },
+            {
+                "id": 2130,
+                "count": 10
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2189,
+        "name": "Recipe: Mithril Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 4480,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 437,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1944,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 84
+            },
+            {
+                "id": 1884,
+                "count": 42
+            },
+            {
+                "id": 1458,
+                "count": 70
+            },
+            {
+                "id": 2130,
+                "count": 17
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2190,
+        "name": "Recipe: Mithril Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 2800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 470,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1945,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 45
+            },
+            {
+                "id": 1884,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 45
+            },
+            {
+                "id": 2130,
+                "count": 10
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2191,
+        "name": "Recipe: RIP Gauntlets",
+        "description": "",
+        "assetPath": "",
+        "price": 1494,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 606,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1946,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 24
+            },
+            {
+                "id": 1885,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2192,
+        "name": "Recipe: Kite Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 1568,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 629,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1947,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 12
+            },
+            {
+                "id": 1879,
+                "count": 4
+            },
+            {
+                "id": 1882,
+                "count": 4
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2193,
+        "name": "Recipe: Boots of Power",
+        "description": "",
+        "assetPath": "",
+        "price": 1494,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 1124,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1948,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 24
+            },
+            {
+                "id": 1885,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2194,
+        "name": "Recipe: Mithril Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 1956,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 61,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1949,
+                "count": 8
+            },
+            {
+                "id": 1882,
+                "count": 32
+            },
+            {
+                "id": 1885,
+                "count": 4
+            },
+            {
+                "id": 1458,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 6
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2195,
+        "name": "Recipe: Half Plate Armor",
+        "description": "",
+        "assetPath": "",
+        "price": 7820,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 353,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1950,
+                "count": 8
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 70
+            },
+            {
+                "id": 1458,
+                "count": 120
+            },
+            {
+                "id": 2130,
+                "count": 32
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2196,
+        "name": "Recipe: Plate Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 4880,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 380,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1951,
+                "count": 8
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 70
+            },
+            {
+                "id": 2130,
+                "count": 19
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2197,
+        "name": "Recipe: Salamander Skin Mail",
+        "description": "",
+        "assetPath": "",
+        "price": 9540,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 396,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1952,
+                "count": 8
+            },
+            {
+                "id": 1882,
+                "count": 140
+            },
+            {
+                "id": 1884,
+                "count": 70
+            },
+            {
+                "id": 1878,
+                "count": 35
+            },
+            {
+                "id": 1458,
+                "count": 130
+            },
+            {
+                "id": 2130,
+                "count": 36
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2198,
+        "name": "Recipe: Sage's Rag",
+        "description": "",
+        "assetPath": "",
+        "price": 9540,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 438,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1953,
+                "count": 8
+            },
+            {
+                "id": 1882,
+                "count": 140
+            },
+            {
+                "id": 1884,
+                "count": 70
+            },
+            {
+                "id": 1878,
+                "count": 35
+            },
+            {
+                "id": 1458,
+                "count": 130
+            },
+            {
+                "id": 2130,
+                "count": 36
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2201,
+        "name": "Recipe: Square Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 2060,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 630,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1956,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 15
+            },
+            {
+                "id": 1879,
+                "count": 5
+            },
+            {
+                "id": 1882,
+                "count": 5
+            },
+            {
+                "id": 1458,
+                "count": 32
+            },
+            {
+                "id": 2130,
+                "count": 7
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2202,
+        "name": "Recipe: Assault Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 1956,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 1125,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1957,
+                "count": 8
+            },
+            {
+                "id": 1882,
+                "count": 32
+            },
+            {
+                "id": 1885,
+                "count": 4
+            },
+            {
+                "id": 1458,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 6
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2208,
+        "name": "Recipe: Ogre Power Gauntlets",
+        "description": "",
+        "assetPath": "",
+        "price": 1956,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 607,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 1963,
+                "count": 8
+            },
+            {
+                "id": 1882,
+                "count": 32
+            },
+            {
+                "id": 1885,
+                "count": 4
+            },
+            {
+                "id": 1458,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 6
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2255,
+        "name": "Recipe: Saber",
+        "description": "",
+        "assetPath": "",
+        "price": 8180,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 123,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2017,
+                "count": 4
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 70
+            },
+            {
+                "id": 1879,
+                "count": 70
+            },
+            {
+                "id": 2130,
+                "count": 34
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2256,
+        "name": "Recipe: Assassin Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 8180,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 221,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2018,
+                "count": 4
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 70
+            },
+            {
+                "id": 1879,
+                "count": 70
+            },
+            {
+                "id": 2130,
+                "count": 34
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2257,
+        "name": "Recipe: Trident",
+        "description": "",
+        "assetPath": "",
+        "price": 8180,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 291,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2019,
+                "count": 4
+            },
+            {
+                "id": 1880,
+                "count": 80
+            },
+            {
+                "id": 1879,
+                "count": 40
+            },
+            {
+                "id": 1885,
+                "count": 20
+            },
+            {
+                "id": 2130,
+                "count": 34
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2258,
+        "name": "Recipe: Temptation of Abyss",
+        "description": "",
+        "assetPath": "",
+        "price": 8180,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 313,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2020,
+                "count": 4
+            },
+            {
+                "id": 1880,
+                "count": 30
+            },
+            {
+                "id": 1881,
+                "count": 60
+            },
+            {
+                "id": 1878,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 34
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2259,
+        "name": "Recipe: Spinebone Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 12880,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 125,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2021,
+                "count": 5
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 75
+            },
+            {
+                "id": 1879,
+                "count": 75
+            },
+            {
+                "id": 1458,
+                "count": 200
+            },
+            {
+                "id": 2130,
+                "count": 57
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2260,
+        "name": "Recipe: Mace of Judgment",
+        "description": "",
+        "assetPath": "",
+        "price": 12880,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 180,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2022,
+                "count": 5
+            },
+            {
+                "id": 1880,
+                "count": 60
+            },
+            {
+                "id": 1879,
+                "count": 60
+            },
+            {
+                "id": 1885,
+                "count": 30
+            },
+            {
+                "id": 1458,
+                "count": 200
+            },
+            {
+                "id": 2130,
+                "count": 57
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2261,
+        "name": "Recipe: Conjuror's Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 12880,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 184,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2023,
+                "count": 5
+            },
+            {
+                "id": 1880,
+                "count": 45
+            },
+            {
+                "id": 1881,
+                "count": 90
+            },
+            {
+                "id": 1878,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 200
+            },
+            {
+                "id": 2130,
+                "count": 57
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2262,
+        "name": "Recipe: Elven Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 12880,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 276,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2024,
+                "count": 5
+            },
+            {
+                "id": 1880,
+                "count": 100
+            },
+            {
+                "id": 1878,
+                "count": 20
+            },
+            {
+                "id": 1885,
+                "count": 20
+            },
+            {
+                "id": 1458,
+                "count": 200
+            },
+            {
+                "id": 2130,
+                "count": 57
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2263,
+        "name": "Recipe: Dwarven Trident",
+        "description": "",
+        "assetPath": "",
+        "price": 12880,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 295,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2025,
+                "count": 5
+            },
+            {
+                "id": 1880,
+                "count": 80
+            },
+            {
+                "id": 1879,
+                "count": 40
+            },
+            {
+                "id": 1885,
+                "count": 20
+            },
+            {
+                "id": 1458,
+                "count": 200
+            },
+            {
+                "id": 2130,
+                "count": 57
+            }
+        ],
+        "mpCost": 96,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2264,
+        "name": "Recipe: Two-handed Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 19340,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 124,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2026,
+                "count": 6
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 144
+            },
+            {
+                "id": 1879,
+                "count": 72
+            },
+            {
+                "id": 1458,
+                "count": 300
+            },
+            {
+                "id": 2130,
+                "count": 91
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2265,
+        "name": "Recipe: Spiked Club",
+        "description": "",
+        "assetPath": "",
+        "price": 19340,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 157,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2027,
+                "count": 6
+            },
+            {
+                "id": 1880,
+                "count": 90
+            },
+            {
+                "id": 1879,
+                "count": 90
+            },
+            {
+                "id": 1885,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 300
+            },
+            {
+                "id": 2130,
+                "count": 91
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2266,
+        "name": "Recipe: Shilen Knife",
+        "description": "",
+        "assetPath": "",
+        "price": 19340,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 241,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2028,
+                "count": 6
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 118
+            },
+            {
+                "id": 1879,
+                "count": 118
+            },
+            {
+                "id": 1458,
+                "count": 300
+            },
+            {
+                "id": 2130,
+                "count": 91
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2267,
+        "name": "Recipe: Gastraphetes",
+        "description": "",
+        "assetPath": "",
+        "price": 19340,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 278,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2029,
+                "count": 6
+            },
+            {
+                "id": 1880,
+                "count": 150
+            },
+            {
+                "id": 1878,
+                "count": 30
+            },
+            {
+                "id": 1885,
+                "count": 30
+            },
+            {
+                "id": 1458,
+                "count": 300
+            },
+            {
+                "id": 2130,
+                "count": 91
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2268,
+        "name": "Recipe: Tome of Blood",
+        "description": "",
+        "assetPath": "",
+        "price": 19340,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 317,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2030,
+                "count": 6
+            },
+            {
+                "id": 1880,
+                "count": 70
+            },
+            {
+                "id": 1881,
+                "count": 140
+            },
+            {
+                "id": 1878,
+                "count": 70
+            },
+            {
+                "id": 1458,
+                "count": 300
+            },
+            {
+                "id": 2130,
+                "count": 91
+            }
+        ],
+        "mpCost": 108,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2269,
+        "name": "Recipe: Morning Star",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 88,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2031,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 128
+            },
+            {
+                "id": 1879,
+                "count": 128
+            },
+            {
+                "id": 1885,
+                "count": 64
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2270,
+        "name": "Recipe: Goat Head Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 90,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2032,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 100
+            },
+            {
+                "id": 1881,
+                "count": 200
+            },
+            {
+                "id": 1878,
+                "count": 100
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2271,
+        "name": "Recipe: Winged Spear",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 93,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2033,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 180
+            },
+            {
+                "id": 1879,
+                "count": 90
+            },
+            {
+                "id": 1885,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2272,
+        "name": "Recipe: Sword of Revolution",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 129,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2034,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 175
+            },
+            {
+                "id": 1879,
+                "count": 175
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2273,
+        "name": "Recipe: Tarbar",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 158,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2035,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 128
+            },
+            {
+                "id": 1879,
+                "count": 128
+            },
+            {
+                "id": 1885,
+                "count": 64
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2274,
+        "name": "Recipe: Skull Breaker",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 169,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2036,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 128
+            },
+            {
+                "id": 1879,
+                "count": 128
+            },
+            {
+                "id": 1885,
+                "count": 64
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2275,
+        "name": "Recipe: Heavy Bone Club",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 172,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2037,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 128
+            },
+            {
+                "id": 1879,
+                "count": 128
+            },
+            {
+                "id": 1885,
+                "count": 64
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2276,
+        "name": "Recipe: Maingauche",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 224,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2038,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 175
+            },
+            {
+                "id": 1879,
+                "count": 175
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2277,
+        "name": "Recipe: Bich'hwa",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 261,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2039,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 128
+            },
+            {
+                "id": 1879,
+                "count": 128
+            },
+            {
+                "id": 1885,
+                "count": 64
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2278,
+        "name": "Recipe: Strengthened Long Bow",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 279,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2040,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 225
+            },
+            {
+                "id": 1878,
+                "count": 45
+            },
+            {
+                "id": 1885,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 300
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2279,
+        "name": "Recipe: War Pick",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 294,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2041,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 180
+            },
+            {
+                "id": 1879,
+                "count": 90
+            },
+            {
+                "id": 1885,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2280,
+        "name": "Recipe: Crucifix of Blood",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 318,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2042,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 100
+            },
+            {
+                "id": 1881,
+                "count": 200
+            },
+            {
+                "id": 1878,
+                "count": 100
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2281,
+        "name": "Recipe: Eye of Infinity",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 319,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2043,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 100
+            },
+            {
+                "id": 1881,
+                "count": 200
+            },
+            {
+                "id": 1878,
+                "count": 100
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2282,
+        "name": "Recipe: Cursed Maingauche",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 1660,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2044,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 175
+            },
+            {
+                "id": 1879,
+                "count": 175
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2283,
+        "name": "Recipe: Blue Crystal Skull",
+        "description": "",
+        "assetPath": "",
+        "price": 30400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 320,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2045,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 110
+            },
+            {
+                "id": 1881,
+                "count": 220
+            },
+            {
+                "id": 1878,
+                "count": 110
+            },
+            {
+                "id": 1458,
+                "count": 470
+            },
+            {
+                "id": 2130,
+                "count": 153
+            }
+        ],
+        "mpCost": 123,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2284,
+        "name": "Recipe: Demon Fangs",
+        "description": "",
+        "assetPath": "",
+        "price": 30400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 321,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2046,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 110
+            },
+            {
+                "id": 1881,
+                "count": 220
+            },
+            {
+                "id": 1878,
+                "count": 110
+            },
+            {
+                "id": 1458,
+                "count": 470
+            },
+            {
+                "id": 2130,
+                "count": 153
+            }
+        ],
+        "mpCost": 123,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2285,
+        "name": "Recipe: Claymore",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 70,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2047,
+                "count": 8
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 270
+            },
+            {
+                "id": 1879,
+                "count": 135
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2286,
+        "name": "Recipe: Bonebreaker",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 159,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2048,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 160
+            },
+            {
+                "id": 1879,
+                "count": 160
+            },
+            {
+                "id": 1885,
+                "count": 80
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2287,
+        "name": "Recipe: Atuba Hammer",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 187,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2049,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 220
+            },
+            {
+                "id": 1879,
+                "count": 110
+            },
+            {
+                "id": 1885,
+                "count": 55
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2288,
+        "name": "Recipe: Ghost Staff",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 188,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2050,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 130
+            },
+            {
+                "id": 1881,
+                "count": 260
+            },
+            {
+                "id": 1878,
+                "count": 130
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2289,
+        "name": "Recipe: Staff of Life",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 189,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2051,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 130
+            },
+            {
+                "id": 1881,
+                "count": 260
+            },
+            {
+                "id": 1878,
+                "count": 130
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2290,
+        "name": "Recipe: Mithril Dagger",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 225,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2052,
+                "count": 8
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 220
+            },
+            {
+                "id": 1879,
+                "count": 220
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2291,
+        "name": "Recipe: Scallop Jamadhr",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 262,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2053,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 160
+            },
+            {
+                "id": 1879,
+                "count": 160
+            },
+            {
+                "id": 1885,
+                "count": 80
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2292,
+        "name": "Recipe: Light Crossbow",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 280,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2054,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 275
+            },
+            {
+                "id": 1878,
+                "count": 55
+            },
+            {
+                "id": 1885,
+                "count": 55
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2293,
+        "name": "Recipe: Glaive",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 297,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2055,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 220
+            },
+            {
+                "id": 1879,
+                "count": 110
+            },
+            {
+                "id": 1885,
+                "count": 55
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2294,
+        "name": "Recipe: Vajra Wands",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 322,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2056,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 130
+            },
+            {
+                "id": 1881,
+                "count": 260
+            },
+            {
+                "id": 1878,
+                "count": 130
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2295,
+        "name": "Recipe: Ancient Reagent",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 323,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2057,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 130
+            },
+            {
+                "id": 1881,
+                "count": 260
+            },
+            {
+                "id": 1878,
+                "count": 130
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2296,
+        "name": "Recipe: Atuba Mace",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 190,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2058,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 220
+            },
+            {
+                "id": 1879,
+                "count": 110
+            },
+            {
+                "id": 1885,
+                "count": 55
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2971,
+        "name": "Recipe: Mithril Scale Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 3740,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2377,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2918,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 32
+            },
+            {
+                "id": 1458,
+                "count": 60
+            },
+            {
+                "id": 2130,
+                "count": 14
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2972,
+        "name": "Recipe: Brigandine Gaiters",
+        "description": "",
+        "assetPath": "",
+        "price": 3740,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2378,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2919,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 32
+            },
+            {
+                "id": 1458,
+                "count": 60
+            },
+            {
+                "id": 2130,
+                "count": 14
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2973,
+        "name": "Recipe: Elven Mithril Tunic",
+        "description": "",
+        "assetPath": "",
+        "price": 4480,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2396,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2920,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 84
+            },
+            {
+                "id": 1884,
+                "count": 42
+            },
+            {
+                "id": 1458,
+                "count": 70
+            },
+            {
+                "id": 2130,
+                "count": 17
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2974,
+        "name": "Recipe: Elven Mithril Stockings",
+        "description": "",
+        "assetPath": "",
+        "price": 2800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2401,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2921,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 45
+            },
+            {
+                "id": 1884,
+                "count": 45
+            },
+            {
+                "id": 1458,
+                "count": 45
+            },
+            {
+                "id": 2130,
+                "count": 10
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2975,
+        "name": "Recipe: Brigandine Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 2240,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2411,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2922,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 1
+            },
+            {
+                "id": 1882,
+                "count": 20
+            },
+            {
+                "id": 1458,
+                "count": 35
+            },
+            {
+                "id": 2130,
+                "count": 8
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2976,
+        "name": "Recipe: Manticore Skin Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 1494,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2424,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2923,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 24
+            },
+            {
+                "id": 1885,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2977,
+        "name": "Recipe: Brigandine Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 1494,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2425,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2924,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 24
+            },
+            {
+                "id": 1885,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2978,
+        "name": "Recipe: Elven Mithril Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 1494,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2426,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2925,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 24
+            },
+            {
+                "id": 1885,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2979,
+        "name": "Recipe: Manticore Skin Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 1494,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2448,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2926,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 24
+            },
+            {
+                "id": 1885,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2980,
+        "name": "Recipe: Brigandine Gauntlets",
+        "description": "",
+        "assetPath": "",
+        "price": 1494,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2449,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2927,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 24
+            },
+            {
+                "id": 1885,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2981,
+        "name": "Recipe: Elven Mithril Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 1494,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2450,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2928,
+                "count": 7
+            },
+            {
+                "id": 1882,
+                "count": 24
+            },
+            {
+                "id": 1885,
+                "count": 3
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2982,
+        "name": "Recipe: Brigandine Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 1568,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2493,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2929,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 12
+            },
+            {
+                "id": 1879,
+                "count": 4
+            },
+            {
+                "id": 1882,
+                "count": 4
+            },
+            {
+                "id": 1458,
+                "count": 24
+            },
+            {
+                "id": 2130,
+                "count": 5
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2983,
+        "name": "Recipe: Plate Helmet",
+        "description": "",
+        "assetPath": "",
+        "price": 2940,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2412,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2930,
+                "count": 8
+            },
+            {
+                "id": 1883,
+                "count": 1
+            },
+            {
+                "id": 1882,
+                "count": 60
+            },
+            {
+                "id": 1458,
+                "count": 45
+            },
+            {
+                "id": 2130,
+                "count": 10
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2984,
+        "name": "Recipe: Salamander Skin Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 1956,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2427,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2931,
+                "count": 8
+            },
+            {
+                "id": 1882,
+                "count": 32
+            },
+            {
+                "id": 1885,
+                "count": 4
+            },
+            {
+                "id": 1458,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 6
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2985,
+        "name": "Recipe: Plate Boots",
+        "description": "",
+        "assetPath": "",
+        "price": 1956,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2428,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2932,
+                "count": 8
+            },
+            {
+                "id": 1882,
+                "count": 32
+            },
+            {
+                "id": 1885,
+                "count": 4
+            },
+            {
+                "id": 1458,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 6
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2986,
+        "name": "Recipe: Sage's Worn Gloves",
+        "description": "",
+        "assetPath": "",
+        "price": 1956,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2451,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2933,
+                "count": 8
+            },
+            {
+                "id": 1882,
+                "count": 32
+            },
+            {
+                "id": 1885,
+                "count": 4
+            },
+            {
+                "id": 1458,
+                "count": 30
+            },
+            {
+                "id": 2130,
+                "count": 6
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 2987,
+        "name": "Recipe: Plate Shield",
+        "description": "",
+        "assetPath": "",
+        "price": 2060,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2494,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2934,
+                "count": 8
+            },
+            {
+                "id": 1880,
+                "count": 15
+            },
+            {
+                "id": 1879,
+                "count": 5
+            },
+            {
+                "id": 1882,
+                "count": 5
+            },
+            {
+                "id": 1458,
+                "count": 32
+            },
+            {
+                "id": 2130,
+                "count": 7
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 3020,
+        "name": "Recipe: Elven Long Sword",
+        "description": "",
+        "assetPath": "",
+        "price": 36000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 2499,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 2967,
+                "count": 8
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 220
+            },
+            {
+                "id": 1879,
+                "count": 220
+            },
+            {
+                "id": 1458,
+                "count": 550
+            },
+            {
+                "id": 2130,
+                "count": 185
+            }
+        ],
+        "mpCost": 129,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 5437,
+        "name": "Recipe: Heavy Sword(100%)",
+        "description": "",
+        "assetPath": "",
+        "price": 8180,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 5285,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 5531,
+                "count": 4
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 60
+            },
+            {
+                "id": 1879,
+                "count": 30
+            },
+            {
+                "id": 1458,
+                "count": 117
+            },
+            {
+                "id": 2130,
+                "count": 34
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 8294,
+        "name": "Recipe: Steel Sword (100%)",
+        "description": "",
+        "assetPath": "",
+        "price": 8180,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 7880,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 8327,
+                "count": 4
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 60
+            },
+            {
+                "id": 1879,
+                "count": 30
+            },
+            {
+                "id": 1458,
+                "count": 117
+            },
+            {
+                "id": 2130,
+                "count": 34
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 8295,
+        "name": "Recipe: Titan Sword (100%)",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 7881,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 8328,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 3
+            },
+            {
+                "id": 1880,
+                "count": 210
+            },
+            {
+                "id": 1879,
+                "count": 105
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 8301,
+        "name": "Recipe: Priest Sword (100%)",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 7885,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 8332,
+                "count": 4
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 50
+            },
+            {
+                "id": 1879,
+                "count": 50
+            },
+            {
+                "id": 1458,
+                "count": 117
+            },
+            {
+                "id": 2130,
+                "count": 34
+            }
+        ],
+        "mpCost": 84,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 8302,
+        "name": "Recipe: Sword of Magic Fog (100%)",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 7886,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 8333,
+                "count": 7
+            },
+            {
+                "id": 1883,
+                "count": 2
+            },
+            {
+                "id": 1880,
+                "count": 172
+            },
+            {
+                "id": 1879,
+                "count": 172
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 8307,
+        "name": "Recipe: Priest Mace (100%)",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 7890,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 8337,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 128
+            },
+            {
+                "id": 1879,
+                "count": 128
+            },
+            {
+                "id": 1885,
+                "count": 64
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    },
+    {
+        "type": "Material",
+        "id": 8317,
+        "name": "Recipe: Titan Hammer (100%)",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "product": {
+            "id": 7896,
+            "count": 1
+        },
+        "ingredients": [
+            {
+                "id": 8343,
+                "count": 7
+            },
+            {
+                "id": 1880,
+                "count": 176
+            },
+            {
+                "id": 1879,
+                "count": 88
+            },
+            {
+                "id": 1885,
+                "count": 44
+            },
+            {
+                "id": 1458,
+                "count": 430
+            },
+            {
+                "id": 2130,
+                "count": 139
+            }
+        ],
+        "mpCost": 120,
+        "successRate": 100
+    }
+]

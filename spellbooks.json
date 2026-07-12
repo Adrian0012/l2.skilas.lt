@@ -1,0 +1,34 @@
+[
+    {
+        "type": "Spellbook",
+        "id": 1096,
+        "name": "Spellbook: Elemental Heal",
+        "description": "Teaches the skill Elemental Heal.",
+        "assetPath": "",
+        "price": 550,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skill": {
+            "id": 58,
+            "name": "Elemental Heal"
+        }
+    },
+    {
+        "type": "Spellbook",
+        "id": 3051,
+        "name": "Spellbook: Spirit Barrier",
+        "description": "Teaches the skill Spirit Barrier.",
+        "assetPath": "",
+        "price": 3200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skill": {
+            "id": 123,
+            "name": "Spirit Barrier"
+        }
+    }
+]

@@ -1,0 +1,1656 @@
+[
+    {
+        "type": "Consumable",
+        "id": 731,
+        "name": "Crystal Scroll: Enchant Weapon (Grade A)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 240000,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 732,
+        "name": "Crystal Scroll: Enchant Armor (Grade A)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 240000,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 736,
+        "name": "Scroll of Escape",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2013
+    },
+    {
+        "type": "Consumable",
+        "id": 737,
+        "name": "Scroll of Resurrection",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 2000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2014
+    },
+    {
+        "type": "Consumable",
+        "id": 1538,
+        "name": "Blessed Scroll of Escape",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 150000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2036
+    },
+    {
+        "type": "Consumable",
+        "id": 1829,
+        "name": "Scroll of Escape: Clan Hall",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2040
+    },
+    {
+        "type": "Consumable",
+        "id": 1830,
+        "name": "Scroll of Escape: Castle",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2041
+    },
+    {
+        "type": "Consumable",
+        "id": 3926,
+        "name": "L2Day - Scroll of Guidance",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2050
+    },
+    {
+        "type": "Consumable",
+        "id": 3927,
+        "name": "L2Day - Scroll of Death Whisper",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2051
+    },
+    {
+        "type": "Consumable",
+        "id": 3928,
+        "name": "L2Day - Scroll of Focus",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2052
+    },
+    {
+        "type": "Consumable",
+        "id": 3929,
+        "name": "L2Day - Scroll of Greater Acumen",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2053
+    },
+    {
+        "type": "Consumable",
+        "id": 3930,
+        "name": "L2Day - Scroll of Haste",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2054
+    },
+    {
+        "type": "Consumable",
+        "id": 3931,
+        "name": "L2Day - Scroll of Agility",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2055
+    },
+    {
+        "type": "Consumable",
+        "id": 3932,
+        "name": "L2Day - Scroll of Mystic Empower",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2056
+    },
+    {
+        "type": "Consumable",
+        "id": 3933,
+        "name": "L2Day - Scroll of Might",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2057
+    },
+    {
+        "type": "Consumable",
+        "id": 3934,
+        "name": "L2Day - Scroll of Windwalk",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2058
+    },
+    {
+        "type": "Consumable",
+        "id": 3935,
+        "name": "L2Day - Scroll of Shield",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2059
+    },
+    {
+        "type": "Consumable",
+        "id": 3936,
+        "name": "Blessed Scroll of Resurrection",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 400000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2049
+    },
+    {
+        "type": "Consumable",
+        "id": 3958,
+        "name": "L2Day - Blessed Escape Effect",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2036
+    },
+    {
+        "type": "Consumable",
+        "id": 3959,
+        "name": "L2Day - Blessed Resurrection Efffect",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2062
+    },
+    {
+        "type": "Consumable",
+        "id": 4218,
+        "name": "L2 Day - Scroll of Mana Regeneration",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2064
+    },
+    {
+        "type": "Consumable",
+        "id": 4629,
+        "name": "Red Soul Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4630,
+        "name": "Red Soul Crystal - Stage 1",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4631,
+        "name": "Red Soul Crystal - Stage 2",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4632,
+        "name": "Red Soul Crystal - Stage 3",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4633,
+        "name": "Red Soul Crystal - Stage 4",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4634,
+        "name": "Red Soul Crystal - Stage 5",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4635,
+        "name": "Red Soul Crystal - Stage 6",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4636,
+        "name": "Red Soul Crystal - Stage 7",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4637,
+        "name": "Red Soul Crystal - Stage 8",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4638,
+        "name": "Red Soul Crystal - Stage 9",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4639,
+        "name": "Red Soul Crystal - Stage 10",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4640,
+        "name": "Green Soul Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4641,
+        "name": "Green Soul Crystal - Stage 1",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4642,
+        "name": "Green Soul Crystal - Stage 2",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4643,
+        "name": "Green Soul Crystal - Stage 3",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4644,
+        "name": "Green Soul Crystal - Stage 4",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4645,
+        "name": "Green Soul Crystal - Stage 5",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4646,
+        "name": "Green Soul Crystal - Stage 6",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4647,
+        "name": "Green Soul Crystal - Stage 7",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4648,
+        "name": "Green Soul Crystal - Stage 8",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4649,
+        "name": "Green Soul Crystal - Stage 9",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4650,
+        "name": "Green Soul Crystal - Stage 10",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4651,
+        "name": "Blue Soul Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4652,
+        "name": "Blue Soul Crystal - Stage 1",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4653,
+        "name": "Blue Soul Crystal - Stage 2",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4654,
+        "name": "Blue Soul Crystal - Stage 3",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4655,
+        "name": "Blue Soul Crystal - Stage 4",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4656,
+        "name": "Blue Soul Crystal - Stage 5",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4657,
+        "name": "Blue Soul Crystal - Stage 6",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4658,
+        "name": "Blue Soul Crystal - Stage 7",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4659,
+        "name": "Blue Soul Crystal - Stage 8",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4660,
+        "name": "Blue Soul Crystal - Stage 9",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4661,
+        "name": "Blue Soul Crystal - Stage 10",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 4662,
+        "name": "Broken Red Soul Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 4663,
+        "name": "Broken Green Soul Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 4664,
+        "name": "Broken Blue Soul Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 5577,
+        "name": "Red Soul Crystal - Stage 11",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 5578,
+        "name": "Green Soul Crystal - Stage 11",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 5579,
+        "name": "Blue Soul Crystal - Stage 11",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 5580,
+        "name": "Red Soul Crystal - Stage 12",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 5581,
+        "name": "Green Soul Crystal - Stage 12",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 5582,
+        "name": "Blue Soul Crystal - Stage 12",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 5593,
+        "name": "SP Scroll: Low Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 2400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2167
+    },
+    {
+        "type": "Consumable",
+        "id": 5594,
+        "name": "SP Scroll: Medium Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2167
+    },
+    {
+        "type": "Consumable",
+        "id": 5595,
+        "name": "SP Scroll: High Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 480000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2167
+    },
+    {
+        "type": "Consumable",
+        "id": 5703,
+        "name": "Lucky Charm",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2168
+    },
+    {
+        "type": "Consumable",
+        "id": 5803,
+        "name": "Lucky Charm: D-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2168
+    },
+    {
+        "type": "Consumable",
+        "id": 5804,
+        "name": "Lucky Charm: C-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 660,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2168
+    },
+    {
+        "type": "Consumable",
+        "id": 5805,
+        "name": "Lucky Charm: B-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 1300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2168
+    },
+    {
+        "type": "Consumable",
+        "id": 5806,
+        "name": "Lucky Charm: A-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 2700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2168
+    },
+    {
+        "type": "Consumable",
+        "id": 5807,
+        "name": "Lucky Charm: S Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 5000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2168
+    },
+    {
+        "type": "Consumable",
+        "id": 5858,
+        "name": "Blessed Scroll of Escape: Clan Hall",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 100000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2177
+    },
+    {
+        "type": "Consumable",
+        "id": 5859,
+        "name": "Blessed Scroll of Escape: Castle",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2178
+    },
+    {
+        "type": "Consumable",
+        "id": 5906,
+        "name": "(Not used) Red Soul Crystal: Grade 11",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 5907,
+        "name": "(Not used) Red Soul Crystal: Grade 12",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 5908,
+        "name": "Red Soul Crystal: Grade 13",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 5909,
+        "name": "(Not used) Green Soul Crystal: Grade 11",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 5910,
+        "name": "(Not used) Green Soul Crystal: Grade 12",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 5911,
+        "name": "Green Soul Crystal: Grade 13",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 5912,
+        "name": "(Not used) Blue Soul Crystal: Grade 11",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 5913,
+        "name": "(Not used) Blue Soul Crystal: Grade 12",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 5914,
+        "name": "Blue Soul Crystal: Grade 13",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2096
+    },
+    {
+        "type": "Consumable",
+        "id": 6037,
+        "name": "Waking Scroll",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 120,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2170
+    },
+    {
+        "type": "Consumable",
+        "id": 6387,
+        "name": "Blessed Scroll of Resurrection for Pets",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 6000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2179
+    },
+    {
+        "type": "Consumable",
+        "id": 6652,
+        "name": "Scroll: Protection of Valakas",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 100000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2231
+    },
+    {
+        "type": "Consumable",
+        "id": 6653,
+        "name": "Scroll: Flames of Valakas",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 6654,
+        "name": "Scroll: Flames of Valakas",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 40000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2233
+    },
+    {
+        "type": "Consumable",
+        "id": 6655,
+        "name": "Scroll: Slay Valakas",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2232
+    },
+    {
+        "type": "Consumable",
+        "id": 6663,
+        "name": "Scroll of Escape: Orc Village",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2213
+    },
+    {
+        "type": "Consumable",
+        "id": 6664,
+        "name": "Scroll of Escape: Silenos Village",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2213
+    },
+    {
+        "type": "Consumable",
+        "id": 8379,
+        "name": "Petrification Scroll",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2239
+    },
+    {
+        "type": "Consumable",
+        "id": 8515,
+        "name": "Charm of Courage: No Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 5041
+    },
+    {
+        "type": "Consumable",
+        "id": 8516,
+        "name": "Charm of Courage: D-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 5041
+    },
+    {
+        "type": "Consumable",
+        "id": 8517,
+        "name": "Charm of Courage: C-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 13200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 5041
+    },
+    {
+        "type": "Consumable",
+        "id": 8518,
+        "name": "Charm of Courage: B-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 26000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 5041
+    },
+    {
+        "type": "Consumable",
+        "id": 8519,
+        "name": "Charm of Courage: A-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 54000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 5041
+    },
+    {
+        "type": "Consumable",
+        "id": 8520,
+        "name": "Charm of Courage: S-Grade",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 100000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 5041
+    },
+    {
+        "type": "Consumable",
+        "id": 8594,
+        "name": "Scroll: Recovery (No Grade)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 2000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2286
+    },
+    {
+        "type": "Consumable",
+        "id": 8595,
+        "name": "Scroll: Recovery (Grade D)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 4800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2286
+    },
+    {
+        "type": "Consumable",
+        "id": 8596,
+        "name": "Scroll: Recovery (Grade C)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 14000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2286
+    },
+    {
+        "type": "Consumable",
+        "id": 8597,
+        "name": "Scroll: Recovery (Grade B)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 28000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2286
+    },
+    {
+        "type": "Consumable",
+        "id": 8598,
+        "name": "Scroll: Recovery (Grade A)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 48000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2286
+    },
+    {
+        "type": "Consumable",
+        "id": 8599,
+        "name": "Scroll: Recovery (Grade S)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 80000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2286
+    },
+    {
+        "type": "Consumable",
+        "id": 8954,
+        "name": "Blue Primeval Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 50000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2306
+    },
+    {
+        "type": "Consumable",
+        "id": 8955,
+        "name": "Green Primeval Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 100000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2306
+    },
+    {
+        "type": "Consumable",
+        "id": 8956,
+        "name": "Red Primeval Crystal",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 200000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2306
+    },
+    {
+        "type": "Consumable",
+        "id": 9146,
+        "name": "Scroll of Guidance - For Event",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2310
+    },
+    {
+        "type": "Consumable",
+        "id": 9147,
+        "name": "Scroll of Death Whisper - For Event",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2311
+    },
+    {
+        "type": "Consumable",
+        "id": 9148,
+        "name": "Scroll of Focus (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2312
+    },
+    {
+        "type": "Consumable",
+        "id": 9149,
+        "name": "Scroll of Acumen (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2313
+    },
+    {
+        "type": "Consumable",
+        "id": 9150,
+        "name": "Scroll of Haste (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2314
+    },
+    {
+        "type": "Consumable",
+        "id": 9151,
+        "name": "Scroll of Agility (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2315
+    },
+    {
+        "type": "Consumable",
+        "id": 9152,
+        "name": "Scroll of Empower (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2316
+    },
+    {
+        "type": "Consumable",
+        "id": 9153,
+        "name": "Scroll of Might (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2317
+    },
+    {
+        "type": "Consumable",
+        "id": 9154,
+        "name": "Scroll of Wind Walk (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2318
+    },
+    {
+        "type": "Consumable",
+        "id": 9155,
+        "name": "Scroll of Shield (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2319
+    },
+    {
+        "type": "Consumable",
+        "id": 9156,
+        "name": "Blessed Scroll of Escape (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2320
+    },
+    {
+        "type": "Consumable",
+        "id": 9157,
+        "name": "Blessed Scroll of Resurrection (Event)",
+        "consumable_type": "scroll",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2321
+    }
+]

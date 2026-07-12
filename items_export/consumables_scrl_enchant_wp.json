@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Consumable",
+        "id": 729,
+        "name": "Scroll: Enchant Weapon (Grade A)",
+        "consumable_type": "scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 1800000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2006
+    },
+    {
+        "type": "Consumable",
+        "id": 947,
+        "name": "Scroll: Enchant Weapon (Grade B)",
+        "consumable_type": "scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 500000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2015
+    },
+    {
+        "type": "Consumable",
+        "id": 951,
+        "name": "Scroll: Enchant Weapon (Grade C)",
+        "consumable_type": "scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 110000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2017
+    },
+    {
+        "type": "Consumable",
+        "id": 955,
+        "name": "Scroll: Enchant Weapon (Grade D)",
+        "consumable_type": "scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 50000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2019
+    },
+    {
+        "type": "Consumable",
+        "id": 959,
+        "name": "Scroll: Enchant Weapon (Grade S)",
+        "consumable_type": "scrl_enchant_wp",
+        "description": "",
+        "assetPath": "",
+        "price": 5000000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2021
+    }
+]

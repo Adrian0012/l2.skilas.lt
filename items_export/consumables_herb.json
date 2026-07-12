@@ -1,0 +1,212 @@
+[
+    {
+        "type": "Consumable",
+        "id": 8600,
+        "name": "Herb of Life",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2278
+    },
+    {
+        "type": "Consumable",
+        "id": 8601,
+        "name": "Greater Herb of Life",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2278
+    },
+    {
+        "type": "Consumable",
+        "id": 8602,
+        "name": "Superior Herb of Life",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2278
+    },
+    {
+        "type": "Consumable",
+        "id": 8603,
+        "name": "Herb of Mana",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2279
+    },
+    {
+        "type": "Consumable",
+        "id": 8604,
+        "name": "Greater Herb of Mana",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2279
+    },
+    {
+        "type": "Consumable",
+        "id": 8605,
+        "name": "Superior Herb of Mana",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2279
+    },
+    {
+        "type": "Consumable",
+        "id": 8606,
+        "name": "Herb of Power",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2280
+    },
+    {
+        "type": "Consumable",
+        "id": 8607,
+        "name": "Herb of Magic",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2281
+    },
+    {
+        "type": "Consumable",
+        "id": 8608,
+        "name": "Herb of Atk. Spd.",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2282
+    },
+    {
+        "type": "Consumable",
+        "id": 8609,
+        "name": "Herb of Casting Spd.",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2283
+    },
+    {
+        "type": "Consumable",
+        "id": 8610,
+        "name": "Herb of Critical Attack.",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2284
+    },
+    {
+        "type": "Consumable",
+        "id": 8611,
+        "name": "Herb of Speed",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2285
+    },
+    {
+        "type": "Consumable",
+        "id": 8612,
+        "name": "Herb of the Warrior",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2280
+    },
+    {
+        "type": "Consumable",
+        "id": 8613,
+        "name": "Herb of the Mystic",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2281
+    },
+    {
+        "type": "Consumable",
+        "id": 8614,
+        "name": "Herb of Recovery",
+        "consumable_type": "herb",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2278
+    }
+]

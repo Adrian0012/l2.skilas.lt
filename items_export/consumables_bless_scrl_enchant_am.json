@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Consumable",
+        "id": 6570,
+        "name": "Blessed Scroll: Enchant Armor (Grade A)",
+        "consumable_type": "bless_scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 750000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2209
+    },
+    {
+        "type": "Consumable",
+        "id": 6572,
+        "name": "Blessed Scroll: Enchant Armor (Grade B)",
+        "consumable_type": "bless_scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 250000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2210
+    },
+    {
+        "type": "Consumable",
+        "id": 6574,
+        "name": "Blessed Scroll: Enchant Armor (Grade C)",
+        "consumable_type": "bless_scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 100000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2211
+    },
+    {
+        "type": "Consumable",
+        "id": 6576,
+        "name": "Blessed Scroll: Enchant Armor (Grade D)",
+        "consumable_type": "bless_scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 50000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2212
+    },
+    {
+        "type": "Consumable",
+        "id": 6578,
+        "name": "Blessed Scroll: Enchant Armor (Grade S)",
+        "consumable_type": "bless_scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 1250000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2208
+    }
+]

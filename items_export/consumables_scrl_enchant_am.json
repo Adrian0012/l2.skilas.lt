@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Consumable",
+        "id": 730,
+        "name": "Scroll: Enchant Armor (Grade A)",
+        "consumable_type": "scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 240000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2007
+    },
+    {
+        "type": "Consumable",
+        "id": 948,
+        "name": "Scroll: Enchant Armor (Grade B)",
+        "consumable_type": "scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 80000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2016
+    },
+    {
+        "type": "Consumable",
+        "id": 952,
+        "name": "Scroll: Enchant Armor (Grade C)",
+        "consumable_type": "scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 15000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2018
+    },
+    {
+        "type": "Consumable",
+        "id": 956,
+        "name": "Scroll: Enchant Armor (Grade D)",
+        "consumable_type": "scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 6000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2020
+    },
+    {
+        "type": "Consumable",
+        "id": 960,
+        "name": "Scroll: Enchant Armor (Grade S)",
+        "consumable_type": "scrl_enchant_am",
+        "description": "",
+        "assetPath": "",
+        "price": 500000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2022
+    }
+]

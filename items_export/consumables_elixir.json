@@ -1,0 +1,254 @@
+[
+    {
+        "type": "Consumable",
+        "id": 8622,
+        "name": "Elixir of Life (No Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 1300,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2287
+    },
+    {
+        "type": "Consumable",
+        "id": 8623,
+        "name": "Elixir of Life (D-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 3450,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2287
+    },
+    {
+        "type": "Consumable",
+        "id": 8624,
+        "name": "Elixir of Life (C-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 7200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2287
+    },
+    {
+        "type": "Consumable",
+        "id": 8625,
+        "name": "Elixir of Life (B-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 10000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2287
+    },
+    {
+        "type": "Consumable",
+        "id": 8626,
+        "name": "Elixir of Life (A-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 12500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2287
+    },
+    {
+        "type": "Consumable",
+        "id": 8627,
+        "name": "Elixir of Life (S-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 15000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2287
+    },
+    {
+        "type": "Consumable",
+        "id": 8628,
+        "name": "Elixir of Mental Strength (No Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 1200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2288
+    },
+    {
+        "type": "Consumable",
+        "id": 8629,
+        "name": "Elixir of Mental Strength (D-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 3400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2288
+    },
+    {
+        "type": "Consumable",
+        "id": 8630,
+        "name": "Elixir of Mental Strength (C-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 8700,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2288
+    },
+    {
+        "type": "Consumable",
+        "id": 8631,
+        "name": "Elixir of Mental Strength (B-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 11600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2288
+    },
+    {
+        "type": "Consumable",
+        "id": 8632,
+        "name": "Elixir of Mental Strength (A-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 14400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2288
+    },
+    {
+        "type": "Consumable",
+        "id": 8633,
+        "name": "Elixir of Mental Strength (S-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 16800,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2288
+    },
+    {
+        "type": "Consumable",
+        "id": 8634,
+        "name": "Elixir of CP (No Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2289
+    },
+    {
+        "type": "Consumable",
+        "id": 8635,
+        "name": "Elixir of CP (D-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 1400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2289
+    },
+    {
+        "type": "Consumable",
+        "id": 8636,
+        "name": "Elixir of CP (C-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 3000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2289
+    },
+    {
+        "type": "Consumable",
+        "id": 8637,
+        "name": "Elixir of CP (B-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 4000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2289
+    },
+    {
+        "type": "Consumable",
+        "id": 8638,
+        "name": "Elixir of CP (A-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 5000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2289
+    },
+    {
+        "type": "Consumable",
+        "id": 8639,
+        "name": "Elixir of CP (S-Grade)",
+        "consumable_type": "elixir",
+        "description": "",
+        "assetPath": "",
+        "price": 6000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2289
+    }
+]

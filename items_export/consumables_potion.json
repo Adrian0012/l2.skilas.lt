@@ -1,0 +1,964 @@
+[
+    {
+        "type": "Consumable",
+        "id": 65,
+        "name": "Red Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 40,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 725,
+        "name": "Healing Drug",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 50,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 726,
+        "name": "Mana Drug",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 80,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2279
+    },
+    {
+        "type": "Consumable",
+        "id": 727,
+        "name": "Healing Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 80,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 728,
+        "name": "Mana Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 2000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2279
+    },
+    {
+        "type": "Consumable",
+        "id": 733,
+        "name": "Endeavor Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2010
+    },
+    {
+        "type": "Consumable",
+        "id": 734,
+        "name": "Haste Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 1200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2011
+    },
+    {
+        "type": "Consumable",
+        "id": 735,
+        "name": "Potion of Alacrity",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 2400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2012
+    },
+    {
+        "type": "Consumable",
+        "id": 1060,
+        "name": "Lesser Healing Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 90,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2031
+    },
+    {
+        "type": "Consumable",
+        "id": 1061,
+        "name": "Healing Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 330,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2032
+    },
+    {
+        "type": "Consumable",
+        "id": 1062,
+        "name": "Haste Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 5000,
+        "element": {
+            "element": "none",
+            "value": 0
+        }
+    },
+    {
+        "type": "Consumable",
+        "id": 1073,
+        "name": "Beginner's Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2031
+    },
+    {
+        "type": "Consumable",
+        "id": 1374,
+        "name": "Greater Haste Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 3600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2034
+    },
+    {
+        "type": "Consumable",
+        "id": 1375,
+        "name": "Greater Swift Attack Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 7200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2035
+    },
+    {
+        "type": "Consumable",
+        "id": 1539,
+        "name": "Greater Healing Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 1080,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2037
+    },
+    {
+        "type": "Consumable",
+        "id": 1540,
+        "name": "Quick Healing Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 10000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2038
+    },
+    {
+        "type": "Consumable",
+        "id": 1831,
+        "name": "Antidote",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 75,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2042
+    },
+    {
+        "type": "Consumable",
+        "id": 1832,
+        "name": "Greater Antidote",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 180,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2043
+    },
+    {
+        "type": "Consumable",
+        "id": 1833,
+        "name": "Bandage",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 75,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2044
+    },
+    {
+        "type": "Consumable",
+        "id": 1834,
+        "name": "Emergency Dressing",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 180,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2045
+    },
+    {
+        "type": "Consumable",
+        "id": 3889,
+        "name": "Potion of Recovery",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2060
+    },
+    {
+        "type": "Consumable",
+        "id": 4677,
+        "name": "Potion of Critical Escape",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2074
+    },
+    {
+        "type": "Consumable",
+        "id": 4678,
+        "name": "Decrease Haste Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2075
+    },
+    {
+        "type": "Consumable",
+        "id": 4679,
+        "name": "Bless of Eva",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 500,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2076
+    },
+    {
+        "type": "Consumable",
+        "id": 4680,
+        "name": "Potion of Revenge",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2077
+    },
+    {
+        "type": "Consumable",
+        "id": 5234,
+        "name": "Mystery Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 12000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2103
+    },
+    {
+        "type": "Consumable",
+        "id": 5235,
+        "name": "Facelifting Potion - A",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2122
+    },
+    {
+        "type": "Consumable",
+        "id": 5236,
+        "name": "Facelifting Potion - B",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2123
+    },
+    {
+        "type": "Consumable",
+        "id": 5237,
+        "name": "Facelifting Potion - C",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2124
+    },
+    {
+        "type": "Consumable",
+        "id": 5238,
+        "name": "Dye Potion - A",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2125
+    },
+    {
+        "type": "Consumable",
+        "id": 5239,
+        "name": "Dye Potion - B",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2126
+    },
+    {
+        "type": "Consumable",
+        "id": 5240,
+        "name": "Dye Potion - C",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2127
+    },
+    {
+        "type": "Consumable",
+        "id": 5241,
+        "name": "Dye Potion - D",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2128
+    },
+    {
+        "type": "Consumable",
+        "id": 5242,
+        "name": "Hair Style Change Potion - A",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2129
+    },
+    {
+        "type": "Consumable",
+        "id": 5243,
+        "name": "Hair Style Change Potion - B",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2130
+    },
+    {
+        "type": "Consumable",
+        "id": 5244,
+        "name": "Hair Style Change Potion - C",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2131
+    },
+    {
+        "type": "Consumable",
+        "id": 5245,
+        "name": "Hair Style Change Potion - D",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2132
+    },
+    {
+        "type": "Consumable",
+        "id": 5246,
+        "name": "Hair Style Change Potion - E",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2133
+    },
+    {
+        "type": "Consumable",
+        "id": 5247,
+        "name": "Hair Style Change Potion - F",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2134
+    },
+    {
+        "type": "Consumable",
+        "id": 5248,
+        "name": "Hair Style Change Potion - G",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 24000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2135
+    },
+    {
+        "type": "Consumable",
+        "id": 5283,
+        "name": "Rice Cake",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2136
+    },
+    {
+        "type": "Consumable",
+        "id": 5560,
+        "name": "Christmas Tree",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 1,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2137
+    },
+    {
+        "type": "Consumable",
+        "id": 5561,
+        "name": "Special Christmas Tree",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 1,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2138
+    },
+    {
+        "type": "Consumable",
+        "id": 5589,
+        "name": "Energy Stone",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 100,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2165
+    },
+    {
+        "type": "Consumable",
+        "id": 5591,
+        "name": "CP Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 240,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2166
+    },
+    {
+        "type": "Consumable",
+        "id": 5592,
+        "name": "Greater CP Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 600,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2166
+    },
+    {
+        "type": "Consumable",
+        "id": 6035,
+        "name": "Magic Haste Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 2400,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2169
+    },
+    {
+        "type": "Consumable",
+        "id": 6036,
+        "name": "Greater Magic Haste Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 7200,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2169
+    },
+    {
+        "type": "Consumable",
+        "id": 6409,
+        "name": "2006 Battle Tournament - CP Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2166
+    },
+    {
+        "type": "Consumable",
+        "id": 6410,
+        "name": "2006 Battle Tournament - Quick Healing Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2038
+    },
+    {
+        "type": "Consumable",
+        "id": 8663,
+        "name": "Enlightenment Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2103
+    },
+    {
+        "type": "Consumable",
+        "id": 8664,
+        "name": "Masking Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2291
+    },
+    {
+        "type": "Consumable",
+        "id": 8665,
+        "name": "Masking Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2292
+    },
+    {
+        "type": "Consumable",
+        "id": 8666,
+        "name": "Masking Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2293
+    },
+    {
+        "type": "Consumable",
+        "id": 8667,
+        "name": "Chameleon Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2294
+    },
+    {
+        "type": "Consumable",
+        "id": 8668,
+        "name": "Chameleon Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2295
+    },
+    {
+        "type": "Consumable",
+        "id": 8669,
+        "name": "Chameleon Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2296
+    },
+    {
+        "type": "Consumable",
+        "id": 8670,
+        "name": "Chameleon Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2297
+    },
+    {
+        "type": "Consumable",
+        "id": 8671,
+        "name": "Luxury Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2298
+    },
+    {
+        "type": "Consumable",
+        "id": 8672,
+        "name": "Luxury Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2299
+    },
+    {
+        "type": "Consumable",
+        "id": 8673,
+        "name": "Luxury Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2300
+    },
+    {
+        "type": "Consumable",
+        "id": 8674,
+        "name": "Luxury Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2301
+    },
+    {
+        "type": "Consumable",
+        "id": 8675,
+        "name": "Luxury Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2302
+    },
+    {
+        "type": "Consumable",
+        "id": 8676,
+        "name": "Luxury Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2303
+    },
+    {
+        "type": "Consumable",
+        "id": 8677,
+        "name": "Luxury Oil",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2304
+    },
+    {
+        "type": "Consumable",
+        "id": 8786,
+        "name": "Primeval Potion",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 5000,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2305
+    },
+    {
+        "type": "Consumable",
+        "id": 8787,
+        "name": "Sprigant's Fruit",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2305
+    },
+    {
+        "type": "Consumable",
+        "id": 9206,
+        "name": "Greater Healing Potion (Event)",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2037
+    },
+    {
+        "type": "Consumable",
+        "id": 9207,
+        "name": "Quick Healing Potion (Event)",
+        "consumable_type": "potion",
+        "description": "",
+        "assetPath": "",
+        "price": 0,
+        "element": {
+            "element": "none",
+            "value": 0
+        },
+        "skillId": 2038
+    }
+]
