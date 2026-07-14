@@ -1,0 +1,20 @@
+ID       Name                                               Visual Only    Description
+--------------------------------------------------------------------------------------------------------------------------------------------
+8622     Elixir of Life (No Grade)                          No             Heals the player for 250 to 2300 HP.
+8623     Elixir of Life (D-Grade)                           No             Heals the player for 250 to 2300 HP.
+8624     Elixir of Life (C-Grade)                           No             Heals the player for 250 to 2300 HP.
+8625     Elixir of Life (B-Grade)                           No             Heals the player for 250 to 2300 HP.
+8626     Elixir of Life (A-Grade)                           No             Heals the player for 250 to 2300 HP.
+8627     Elixir of Life (S-Grade)                           No             Heals the player for 250 to 2300 HP.
+8628     Elixir of Mental Strength (No Grade)               No             Restores 60 to 420 MP.
+8629     Elixir of Mental Strength (D-Grade)                No             Restores 60 to 420 MP.
+8630     Elixir of Mental Strength (C-Grade)                No             Restores 60 to 420 MP.
+8631     Elixir of Mental Strength (B-Grade)                No             Restores 60 to 420 MP.
+8632     Elixir of Mental Strength (A-Grade)                No             Restores 60 to 420 MP.
+8633     Elixir of Mental Strength (S-Grade)                No             Restores 60 to 420 MP.
+8634     Elixir of CP (No Grade)                            No             Restores 150 to 1200 CP.
+8635     Elixir of CP (D-Grade)                             No             Restores 150 to 1200 CP.
+8636     Elixir of CP (C-Grade)                             No             Restores 150 to 1200 CP.
+8637     Elixir of CP (B-Grade)                             No             Restores 150 to 1200 CP.
+8638     Elixir of CP (A-Grade)                             No             Restores 150 to 1200 CP.
+8639     Elixir of CP (S-Grade)                             No             Restores 150 to 1200 CP.

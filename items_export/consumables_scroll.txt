@@ -1,0 +1,121 @@
+ID       Name                                               Visual Only    Description
+--------------------------------------------------------------------------------------------------------------------------------------------
+731      Crystal Scroll: Enchant Weapon (Grade A)           No             Enchant scroll — Attempts to enchant a armor. On failure, blessed scrolls do not destroy the item.
+732      Crystal Scroll: Enchant Armor (Grade A)            No             Enchant scroll — Attempts to enchant a armor. On failure, blessed scrolls do not destroy the item.
+736      Scroll of Escape                                   No             Teleports the player to their nearest village (town).
+737      Scroll of Resurrection                             No             Resurrects a dead character.
+1538     Blessed Scroll of Escape                           No             Teleports the player to their nearest village (town).
+1829     Scroll of Escape: Clan Hall                        No             Teleports the player to their nearest village (town).
+1830     Scroll of Escape: Castle                           No             Teleports the player to their nearest village (town).
+3926     L2Day - Scroll of Guidance                         No             Applies a buff: accCombat add 4.
+3927     L2Day - Scroll of Death Whisper                    No             Applies a buff: cAtk multiply 1.35.
+3928     L2Day - Scroll of Focus                            No             Applies the 'Scroll of Focus' buff effect.
+3929     L2Day - Scroll of Greater Acumen                   No             Applies a buff: mAtkSpd multiply 1.3.
+3930     L2Day - Scroll of Haste                            No             Applies a buff: pAtkSpd multiply 1.33.
+3931     L2Day - Scroll of Agility                          No             Applies a buff: rEvas add 4.
+3932     L2Day - Scroll of Mystic Empower                   No             Applies a buff: mAtk multiply 1.75.
+3933     L2Day - Scroll of Might                            No             Applies a buff: pAtk multiply 1.15.
+3934     L2Day - Scroll of Windwalk                         No             Applies a buff: runSpd add 33.
+3935     L2Day - Scroll of Shield                           No             Applies a buff: pDef multiply 1.15.
+3936     Blessed Scroll of Resurrection                     No             Resurrects a dead character.
+3958     L2Day - Blessed Escape Effect                      No             Teleports the player to their nearest village (town).
+3959     L2Day - Blessed Resurrection Efffect               No             Resurrects a dead character.
+4218     L2 Day - Scroll of Mana Regeneration               No             Applies a buff: regMp add 1.82.
+4629     Red Soul Crystal                                   No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4630     Red Soul Crystal - Stage 1                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4631     Red Soul Crystal - Stage 2                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4632     Red Soul Crystal - Stage 3                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4633     Red Soul Crystal - Stage 4                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4634     Red Soul Crystal - Stage 5                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4635     Red Soul Crystal - Stage 6                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4636     Red Soul Crystal - Stage 7                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4637     Red Soul Crystal - Stage 8                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4638     Red Soul Crystal - Stage 9                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4639     Red Soul Crystal - Stage 10                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4640     Green Soul Crystal                                 No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4641     Green Soul Crystal - Stage 1                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4642     Green Soul Crystal - Stage 2                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4643     Green Soul Crystal - Stage 3                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4644     Green Soul Crystal - Stage 4                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4645     Green Soul Crystal - Stage 5                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4646     Green Soul Crystal - Stage 6                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4647     Green Soul Crystal - Stage 7                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4648     Green Soul Crystal - Stage 8                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4649     Green Soul Crystal - Stage 9                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4650     Green Soul Crystal - Stage 10                      No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4651     Blue Soul Crystal                                  No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4652     Blue Soul Crystal - Stage 1                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4653     Blue Soul Crystal - Stage 2                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4654     Blue Soul Crystal - Stage 3                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4655     Blue Soul Crystal - Stage 4                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4656     Blue Soul Crystal - Stage 5                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4657     Blue Soul Crystal - Stage 6                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4658     Blue Soul Crystal - Stage 7                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4659     Blue Soul Crystal - Stage 8                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4660     Blue Soul Crystal - Stage 9                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4661     Blue Soul Crystal - Stage 10                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+4662     Broken Red Soul Crystal                            No             No skill data available.
+4663     Broken Green Soul Crystal                          No             No skill data available.
+4664     Broken Blue Soul Crystal                           No             No skill data available.
+5577     Red Soul Crystal - Stage 11                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+5578     Green Soul Crystal - Stage 11                      No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+5579     Blue Soul Crystal - Stage 11                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+5580     Red Soul Crystal - Stage 12                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+5581     Green Soul Crystal - Stage 12                      No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+5582     Blue Soul Crystal - Stage 12                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+5593     SP Scroll: Low Grade                               No             Triggers 'Scroll of SP' effect with power 500 to 500000.
+5594     SP Scroll: Medium Grade                            No             Triggers 'Scroll of SP' effect with power 500 to 500000.
+5595     SP Scroll: High Grade                              No             Triggers 'Scroll of SP' effect with power 500 to 500000.
+5703     Lucky Charm                                        No             Applies the 'Raid Blessing' buff effect.
+5803     Lucky Charm: D-Grade                               No             Applies the 'Raid Blessing' buff effect.
+5804     Lucky Charm: C-Grade                               No             Applies the 'Raid Blessing' buff effect.
+5805     Lucky Charm: B-Grade                               No             Applies the 'Raid Blessing' buff effect.
+5806     Lucky Charm: A-Grade                               No             Applies the 'Raid Blessing' buff effect.
+5807     Lucky Charm: S Grade                               No             Applies the 'Raid Blessing' buff effect.
+5858     Blessed Scroll of Escape: Clan Hall                No             Teleports the player to their nearest village (town).
+5859     Blessed Scroll of Escape: Castle                   No             Teleports the player to their nearest village (town).
+5906     (Not used) Red Soul Crystal: Grade 11              No             No skill data available.
+5907     (Not used) Red Soul Crystal: Grade 12              No             No skill data available.
+5908     Red Soul Crystal: Grade 13                         No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+5909     (Not used) Green Soul Crystal: Grade 11            No             No skill data available.
+5910     (Not used) Green Soul Crystal: Grade 12            No             No skill data available.
+5911     Green Soul Crystal: Grade 13                       No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+5912     (Not used) Blue Soul Crystal: Grade 11             No             No skill data available.
+5913     (Not used) Blue Soul Crystal: Grade 12             No             No skill data available.
+5914     Blue Soul Crystal: Grade 13                        No             Triggers the 'Soul Crystal' skill (type: drain_soul).
+6037     Waking Scroll                                      No             Triggers the 'Scroll: Cancel Sleep' skill (type: negate).
+6387     Blessed Scroll of Resurrection for Pets            No             Resurrects a dead character.
+6652     Scroll: Protection of Valakas                      No             Applies a buff: valakasRes add 11.
+6653     Scroll: Flames of Valakas                          No             No skill data available.
+6654     Scroll: Flames of Valakas                          No             Triggers the 'Amulet: Flames of Valakas' skill (type: negate).
+6655     Scroll: Slay Valakas                               No             Applies a buff: valakas add 11.
+6663     Scroll of Escape: Orc Village                      No             Triggers the 'Escape - to X Town' skill (type: teleport).
+6664     Scroll of Escape: Silenos Village                  No             Triggers the 'Escape - to X Town' skill (type: teleport).
+8379     Petrification Scroll                               No             Applies a debuff effect.
+8515     Charm of Courage: No Grade                         No             Applies the 'Charm of Courage' buff effect.
+8516     Charm of Courage: D-Grade                          No             Applies the 'Charm of Courage' buff effect.
+8517     Charm of Courage: C-Grade                          No             Applies the 'Charm of Courage' buff effect.
+8518     Charm of Courage: B-Grade                          No             Applies the 'Charm of Courage' buff effect.
+8519     Charm of Courage: A-Grade                          No             Applies the 'Charm of Courage' buff effect.
+8520     Charm of Courage: S-Grade                          No             Applies the 'Charm of Courage' buff effect.
+8594     Scroll: Recovery (No Grade)                        No             Applies the 'Scroll: Recovery' buff effect.
+8595     Scroll: Recovery (Grade D)                         No             Applies the 'Scroll: Recovery' buff effect.
+8596     Scroll: Recovery (Grade C)                         No             Applies the 'Scroll: Recovery' buff effect.
+8597     Scroll: Recovery (Grade B)                         No             Applies the 'Scroll: Recovery' buff effect.
+8598     Scroll: Recovery (Grade A)                         No             Applies the 'Scroll: Recovery' buff effect.
+8599     Scroll: Recovery (Grade S)                         No             Applies the 'Scroll: Recovery' buff effect.
+8954     Blue Primeval Crystal                              No             Triggers 'Primeval Crystals' effect with power 50000 to 200000.
+8955     Green Primeval Crystal                             No             Triggers 'Primeval Crystals' effect with power 50000 to 200000.
+8956     Red Primeval Crystal                               No             Triggers 'Primeval Crystals' effect with power 50000 to 200000.
+9146     Scroll of Guidance - For Event                     No             Applies a buff: accCombat add 4.
+9147     Scroll of Death Whisper - For Event                No             Applies a buff: cAtk multiply 1.35.
+9148     Scroll of Focus (Event)                            No             Applies the 'Scroll of Focus - Event Use' buff effect.
+9149     Scroll of Acumen (Event)                           No             Applies a buff: mAtkSpd multiply 1.3.
+9150     Scroll of Haste (Event)                            No             Applies a buff: pAtkSpd multiply 1.33.
+9151     Scroll of Agility (Event)                          No             Applies a buff: rEvas add 4.
+9152     Scroll of Empower (Event)                          No             Applies a buff: mAtk multiply 1.75.
+9153     Scroll of Might (Event)                            No             Applies a buff: pAtk multiply 1.15.
+9154     Scroll of Wind Walk (Event)                        No             Applies a buff: runSpd add 33.
+9155     Scroll of Shield (Event)                           No             Applies a buff: pDef multiply 1.15.
+9156     Blessed Scroll of Escape (Event)                   No             Teleports the player to their nearest village (town).
+9157     Blessed Scroll of Resurrection (Event)             No             Resurrects a dead character.

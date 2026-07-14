@@ -7,31 +7,7 @@
         "description": "",
         "assetPath": "",
         "price": 1750000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Weapon (Grade A)",
-            "id": 2027,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_weapon",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2027
     },
     {
         "type": "Consumable",
@@ -41,31 +17,7 @@
         "description": "",
         "assetPath": "",
         "price": 1250000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Weapon (Grade B)",
-            "id": 2028,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_weapon",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2028
     },
     {
         "type": "Consumable",
@@ -75,31 +27,7 @@
         "description": "",
         "assetPath": "",
         "price": 250000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Weapon (Grade C)",
-            "id": 2029,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_weapon",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2029
     },
     {
         "type": "Consumable",
@@ -109,31 +37,7 @@
         "description": "",
         "assetPath": "",
         "price": 150000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Weapon (Grade D)",
-            "id": 2030,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_weapon",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2030
     },
     {
         "type": "Consumable",
@@ -143,30 +47,6 @@
         "description": "",
         "assetPath": "",
         "price": 2250000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Weapon (Grade S)",
-            "id": 2026,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_weapon",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2026
     }
 ]

@@ -1,0 +1,71 @@
+ID       Name                                               Visual Only    Description
+--------------------------------------------------------------------------------------------------------------------------------------------
+65       Red Potion                                         No             No skill data available.
+725      Healing Drug                                       No             No skill data available.
+726      Mana Drug                                          No             Restores 12 to 100% of the player's maximum MP.
+727      Healing Potion                                     No             No skill data available.
+728      Mana Potion                                        No             Restores 12 to 100% of the player's maximum MP.
+733      Endeavor Potion                                    No             Applies a buff: accCombat add 4.
+734      Haste Potion                                       No             Applies a buff: runSpd add 20.
+735      Potion of Alacrity                                 No             Applies a buff: pAtkSpd multiply 1.15.
+1060     Lesser Healing Potion                              No             Restores None HP over time (duration: 2s).
+1061     Healing Potion                                     No             Restores None HP over time (duration: 2s).
+1062     Haste Potion                                       No             No skill data available.
+1073     Beginner's Potion                                  No             Restores None HP over time (duration: 2s).
+1374     Greater Haste Potion                               No             Applies a buff: runSpd add 33.
+1375     Greater Swift Attack Potion                        No             Applies a buff: pAtkSpd multiply 1.33.
+1539     Greater Healing Potion                             No             Restores None HP over time (duration: 2s).
+1540     Quick Healing Potion                               No             Heals the player for 435 HP.
+1831     Antidote                                           No             Triggers the 'Antidote' skill (type: negate).
+1832     Greater Antidote                                   No             Triggers the 'Greater Antidote' skill (type: negate).
+1833     Bandage                                            No             Triggers the 'Bandage' skill (type: negate).
+1834     Emergency Dressing                                 No             Triggers the 'Emergency Dressing' skill (type: negate).
+3889     Potion of Recovery                                 No             Triggers the 'Healing Medicine' skill (type: negate).
+4677     Potion of Critical Escape                          No             Applies a buff: runSpd multiply 0.7.
+4678     Decrease Haste Potion                              No             Triggers 'Decrease Hate Scroll' effect with power 70.
+4679     Bless of Eva                                       No             Applies a buff: breath multiply 5.
+4680     Potion of Revenge                                  No             Applies a buff: vengeancePdam add 40, pDef multiply 0.85.
+5234     Mystery Potion                                     No             Applies the 'Mystery Potion' buff effect.
+5235     Facelifting Potion - A                             No             Triggers the 'Facelifting Potion' skill (type: change_appearance).
+5236     Facelifting Potion - B                             No             Triggers the 'Facelifting Potion' skill (type: change_appearance).
+5237     Facelifting Potion - C                             No             Triggers the 'Facelifting Potion' skill (type: change_appearance).
+5238     Dye Potion - A                                     No             Triggers the 'Dye Potion' skill (type: change_appearance).
+5239     Dye Potion - B                                     No             Triggers the 'Dye Potion' skill (type: change_appearance).
+5240     Dye Potion - C                                     No             Triggers the 'Dye Potion' skill (type: change_appearance).
+5241     Dye Potion - D                                     No             Triggers the 'Dye Potion' skill (type: change_appearance).
+5242     Hair Style Change Potion - A                       No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+5243     Hair Style Change Potion - B                       No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+5244     Hair Style Change Potion - C                       No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+5245     Hair Style Change Potion - D                       No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+5246     Hair Style Change Potion - E                       No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+5247     Hair Style Change Potion - F                       No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+5248     Hair Style Change Potion - G                       No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+5283     Rice Cake                                          No             Heals the player for 3% of their maximum HP.
+5560     Christmas Tree                                     No             Triggers the 'Summon Regular Tree' skill (type: spawn).
+5561     Special Christmas Tree                             No             Triggers the 'Summon Special Tree' skill (type: spawn).
+5589     Energy Stone                                       No             Applies the 'Energy Stone' buff effect.
+5591     CP Potion                                          No             Restores 50 to 200 CP.
+5592     Greater CP Potion                                  No             Restores 50 to 200 CP.
+6035     Magic Haste Potion                                 No             Applies a buff: mAtkSpd multiply #mAtkSpd.
+6036     Greater Magic Haste Potion                         No             Applies a buff: mAtkSpd multiply #mAtkSpd.
+6409     2006 Battle Tournament - CP Potion                 No             Restores 50 to 200 CP.
+6410     2006 Battle Tournament - Quick Healing Potion      No             Heals the player for 435 HP.
+8663     Enlightenment Oil                                  No             Applies the 'Mystery Potion' buff effect.
+8664     Masking Oil                                        No             Triggers the 'Facelifting Potion' skill (type: change_appearance).
+8665     Masking Oil                                        No             Triggers the 'Facelifting Potion' skill (type: change_appearance).
+8666     Masking Oil                                        No             Triggers the 'Facelifting Potion' skill (type: change_appearance).
+8667     Chameleon Oil                                      No             Triggers the 'Dye Potion' skill (type: change_appearance).
+8668     Chameleon Oil                                      No             Triggers the 'Dye Potion' skill (type: change_appearance).
+8669     Chameleon Oil                                      No             Triggers the 'Dye Potion' skill (type: change_appearance).
+8670     Chameleon Oil                                      No             Triggers the 'Dye Potion' skill (type: change_appearance).
+8671     Luxury Oil                                         No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+8672     Luxury Oil                                         No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+8673     Luxury Oil                                         No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+8674     Luxury Oil                                         No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+8675     Luxury Oil                                         No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+8676     Luxury Oil                                         No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+8677     Luxury Oil                                         No             Triggers the 'Hair Style Change Potion' skill (type: change_appearance).
+8786     Primeval Potion                                    No             Applies a buff: stunVuln sub 15.
+8787     Sprigant's Fruit                                   No             Applies a buff: stunVuln sub 15.
+9206     Greater Healing Potion (Event)                     No             Restores None HP over time (duration: 2s).
+9207     Quick Healing Potion (Event)                       No             Heals the player for 435 HP.

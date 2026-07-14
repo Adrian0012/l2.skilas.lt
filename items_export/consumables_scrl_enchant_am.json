@@ -7,31 +7,7 @@
         "description": "",
         "assetPath": "",
         "price": 240000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Armor (Grade A)",
-            "id": 2007,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_armor",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2007
     },
     {
         "type": "Consumable",
@@ -41,31 +17,7 @@
         "description": "",
         "assetPath": "",
         "price": 80000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Armor (Grade B)",
-            "id": 2016,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_armor",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2016
     },
     {
         "type": "Consumable",
@@ -75,31 +27,7 @@
         "description": "",
         "assetPath": "",
         "price": 15000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Armor (Grade C)",
-            "id": 2018,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_armor",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2018
     },
     {
         "type": "Consumable",
@@ -109,31 +37,7 @@
         "description": "",
         "assetPath": "",
         "price": 6000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Armor (Grade D)",
-            "id": 2020,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_armor",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2020
     },
     {
         "type": "Consumable",
@@ -143,30 +47,6 @@
         "description": "",
         "assetPath": "",
         "price": 500000,
-        "element": {
-            "element": "none",
-            "value": 0
-        },
-        "skill": {
-            "name": "Scroll: Enchant Armor (Grade S)",
-            "id": 2022,
-            "levels": 1,
-            "power": [],
-            "mpCost": [],
-            "magicLevel": [],
-            "duration": null,
-            "skillType": "enchant_armor",
-            "operateType": "active",
-            "target": "self",
-            "isMagic": false,
-            "ignoreShld": false,
-            "weaponsAllowed": [],
-            "element": "none",
-            "elementPower": 0,
-            "levelDepend": 0,
-            "ignoreResists": false,
-            "canBeReflected": true,
-            "effects": []
-        }
+        "skillId": 2022
     }
 ]

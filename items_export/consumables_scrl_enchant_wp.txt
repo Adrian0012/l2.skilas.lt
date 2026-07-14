@@ -1,0 +1,7 @@
+ID       Name                                               Visual Only    Description
+--------------------------------------------------------------------------------------------------------------------------------------------
+729      Scroll: Enchant Weapon (Grade A)                   No             Triggers the 'Scroll: Enchant Weapon (Grade A)' skill (type: enchant_weapon).
+947      Scroll: Enchant Weapon (Grade B)                   No             Triggers the 'Scroll: Enchant Weapon (Grade B)' skill (type: enchant_weapon).
+951      Scroll: Enchant Weapon (Grade C)                   No             Triggers the 'Scroll: Enchant Weapon (Grade C)' skill (type: enchant_weapon).
+955      Scroll: Enchant Weapon (Grade D)                   No             Triggers the 'Scroll: Enchant Weapon (Grade D)' skill (type: enchant_weapon).
+959      Scroll: Enchant Weapon (Grade S)                   No             Triggers the 'Scroll: Enchant Weapon (Grade S)' skill (type: enchant_weapon).

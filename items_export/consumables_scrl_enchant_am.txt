@@ -1,0 +1,7 @@
+ID       Name                                               Visual Only    Description
+--------------------------------------------------------------------------------------------------------------------------------------------
+730      Scroll: Enchant Armor (Grade A)                    No             Triggers the 'Scroll: Enchant Armor (Grade A)' skill (type: enchant_armor).
+948      Scroll: Enchant Armor (Grade B)                    No             Triggers the 'Scroll: Enchant Armor (Grade B)' skill (type: enchant_armor).
+952      Scroll: Enchant Armor (Grade C)                    No             Triggers the 'Scroll: Enchant Armor (Grade C)' skill (type: enchant_armor).
+956      Scroll: Enchant Armor (Grade D)                    No             Triggers the 'Scroll: Enchant Armor (Grade D)' skill (type: enchant_armor).
+960      Scroll: Enchant Armor (Grade S)                    No             Triggers the 'Scroll: Enchant Armor (Grade S)' skill (type: enchant_armor).

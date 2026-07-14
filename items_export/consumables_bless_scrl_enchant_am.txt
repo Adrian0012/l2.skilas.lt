@@ -1,0 +1,7 @@
+ID       Name                                               Visual Only    Description
+--------------------------------------------------------------------------------------------------------------------------------------------
+6570     Blessed Scroll: Enchant Armor (Grade A)            No             Triggers the 'Item - Blessed Scroll of Enchant Armor' skill (type: notdone).
+6572     Blessed Scroll: Enchant Armor (Grade B)            No             Triggers the 'Item - Blessed Scroll of Enchant Armor' skill (type: notdone).
+6574     Blessed Scroll: Enchant Armor (Grade C)            No             Triggers the 'Item - Blessed Scroll of Enchant Armor' skill (type: notdone).
+6576     Blessed Scroll: Enchant Armor (Grade D)            No             Triggers the 'Item - Blessed Scroll of Enchant Armor' skill (type: notdone).
+6578     Blessed Scroll: Enchant Armor (Grade S)            No             Triggers the 'Item - Blessed Scroll of Enchant Armor' skill (type: notdone).
