@@ -1,23 +1,24 @@
 [
-  {
-    "name": "Seal of Ruler",
-    "id": 246,
-    "levels": 1,
-    "power": [],
-    "mpCost": [],
-    "magicLevel": [],
-    "duration": null,
-    "skillType": "takecastle",
-    "operateType": "active",
-    "target": "holy",
-    "isMagic": false,
-    "ignoreShld": false,
-    "weaponsAllowed": [],
-    "element": "none",
-    "elementPower": 0,
-    "levelDepend": 0,
-    "ignoreResists": false,
-    "canBeReflected": true,
-    "effects": []
-  }
+    {
+        "name": "Seal of Ruler",
+        "id": 246,
+        "levels": 1,
+        "power": [],
+        "mpCost": [],
+        "magicLevel": [],
+        "duration": null,
+        "skillType": "takecastle",
+        "operateType": "active",
+        "target": "holy",
+        "isMagic": false,
+        "ignoreShld": false,
+        "weaponsAllowed": [],
+        "element": "none",
+        "elementPower": 0,
+        "levelDepend": 0,
+        "ignoreResists": false,
+        "canBeReflected": true,
+        "effects": [],
+        "reuseDelay": 5000.0
+    }
 ]
